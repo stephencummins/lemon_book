@@ -38,12 +38,14 @@ Following in the tradition of "The Orange Book: Reclaiming Liberalism" (2004), T
 15. **Guest Voices** - A conversation on the future of liberalism
 16. **The Power of Words** - Reclaiming the language of liberalism and hope
 17. **Reclaiming Authentic Liberalism** - A call for renewal and resistance
-18. **Liberal Lemonade** - A summary and call to action
+18. **Conclusion** - A summary and call to action
 
 ## Format & Statistics
 
-- **Total Pages:** 177 (main content) + front/back matter
-- **Page Numbering:** Roman numerals (i-iv) for front matter, Arabic (1-177) for chapters
+- **Total Pages:** 190 (complete book including all matter)
+- **Main Content:** Pages 1-177 (18 chapters)
+- **Back Matter:** Pages 178-190 (Index, Bibliography, Colophon)
+- **Page Numbering:** Roman numerals (i-iv) for front matter, Arabic (1-190) for main content and back matter
 - **Average:** ~275 words per page
 - **Chapters:** 18
 - **Total Words:** ~50,000
@@ -52,13 +54,33 @@ Following in the tradition of "The Orange Book: Reclaiming Liberalism" (2004), T
 
 ```
 .
-├── 00_front_matter.md         # Dedication, about author
-├── 00_introduction.md          # Introduction
-├── 01-18_*.md                  # Chapter files
-├── table_of_contents.md        # Complete ToC with page numbers
-├── book_index_with_pages.md    # Comprehensive index
-├── images/                     # Chapter illustrations
-└── pages/                      # Page numbering scripts and documentation
+├── 00_front_matter.md              # Dedication, about author
+├── 00_table_of_contents.md         # Complete ToC with page numbers
+├── 00_introduction.md              # Introduction
+├── 01_enlightenment_roots.md       # Chapter 1
+├── 02_classical_liberalism.md      # Chapter 2
+├── 03_build_houses_full.md         # Chapter 3
+├── 04_Pt1_mental_health_full.md    # Chapter 4 Part 1
+├── 04_Pt2_Reclaiming_Healthcare.md # Chapter 4 Part 2
+├── 05_capitalism_conscience.md     # Chapter 5
+├── 06_every_vote_counts.md         # Chapter 6
+├── 07_europe_complicated.md        # Chapter 7
+├── 08_immigration_conversations.md # Chapter 8
+├── 09_green_growth.md              # Chapter 9
+├── 10_technology_good.md           # Chapter 10
+├── 11_right_education.md           # Chapter 11
+├── 12_your_rights_choices.md       # Chapter 12
+├── 13_rights_modern_age.md         # Chapter 13
+├── 14_tomorrows_tyranny.md         # Chapter 14
+├── 15_guest_voices.md              # Chapter 15
+├── 16_cooption_language.md         # Chapter 16
+├── 17_reclaiming_liberalism.md     # Chapter 17
+├── 18_Conclusion.md                # Chapter 18 (Conclusion)
+├── book_index_with_pages.md        # Comprehensive index (p. 178)
+├── bibliography.md                 # Bibliography (pp. 179-185)
+├── colophon.md                     # Colophon (pp. 186-190)
+├── images/                         # Chapter illustrations
+└── backup/                         # Archive of previous versions
 ```
 
 ## Page Numbering System
@@ -66,17 +88,20 @@ Following in the tradition of "The Orange Book: Reclaiming Liberalism" (2004), T
 All chapters include right-aligned page markers in HTML format:
 ```html
 <div align="right"><sub>X</sub></div>
+<div style="page-break-after: always;"></div>
 ```
 
 The page numbers are strategically placed at natural content breaks (section headers, subsections, paragraph breaks) to maintain readability while providing accurate page references for the table of contents and index.
 
-## Scripts & Tools
-
-The `pages/` directory contains Python scripts for:
-- Adding page markers at natural content breaks
-- Converting between different page marker formats
-- Updating table of contents and index page numbers
-- Analyzing word counts and page distributions
+### Complete Page Breakdown
+- **Front Matter:** Pages i-iv (Roman numerals)
+- **Chapter 1-2:** Pages 1-24 (Liberal Tradition)
+- **Chapters 3-9:** Pages 25-92 (Contemporary Challenges)
+- **Chapters 10-14:** Pages 93-137 (Digital Age Liberalism)
+- **Chapters 15-18:** Pages 138-177 (The Path Forward)
+- **Index:** Page 178
+- **Bibliography:** Pages 179-185
+- **Colophon:** Pages 186-190
 
 ## Contributing
 
