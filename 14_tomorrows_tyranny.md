@@ -1,7 +1,3 @@
-<div align="right"><sub>130</sub></div>
-
----
-
 # Chapter 14
 
 *Liberalism in the Face of Techno-Fascism and Inverted Totalitarianism*
@@ -17,6 +13,7 @@ This new tyranny operates through what political scientist Sheldon Wolin called 
 The foundation of techno-fascism is the surveillance capitalism that has emerged from the digital economy. Tech giants like Google, Facebook, Amazon, and their Chinese counterparts have built business models based on the extraction and manipulation of human behaviour data. What began as a way to target advertising has evolved into a comprehensive system for predicting and influencing human behaviour across all domains of life.
 
 <div align="right"><sub>131</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -31,6 +28,7 @@ One of the most insidious aspects of techno-fascism is the way it erodes human a
 These systems shape behaviour through what behavioural economists call "choice architecture" – the way options are presented to influence decision-making. Social media algorithms determine what information people see, dating apps influence who they meet, and recommendation systems shape what they buy, watch, and read. The cumulative effect is to create what appears to be choice while actually constraining it within parameters set by algorithmic systems.
 
 <div align="right"><sub>132</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -49,6 +47,7 @@ Social media platforms have become the primary battleground for information warf
 Techno-fascism does not seek to destroy democratic institutions outright, but rather to capture and hollow them out from within. This process, which political scientists call "competitive authoritarianism" or "electoral authoritarianism," maintains the formal structures of democracy while systematically undermining their effectiveness.
 
 <div align="right"><sub>133</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -65,6 +64,7 @@ The psychology of digital manipulation operates through several mechanisms. Vari
 Perhaps most insidiously, these systems create what psychologists call "learned helplessness" – a state in which people become passive and accepting of their circumstances even when they have the power to change them. When people become accustomed to having their choices made for them by algorithms, they may lose the confidence and skills necessary for autonomous decision-making.
 
 <div align="right"><sub>134</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -83,6 +83,7 @@ Techno-fascism poses a particular threat to democratic processes through its abi
 Deepfake technologies and other forms of synthetic media make it increasingly difficult to distinguish authentic from manipulated content. This creates opportunities for political actors to discredit opponents through fabricated evidence while also providing plausible deniability for authentic evidence of wrongdoing.
 
 <div align="right"><sub>135</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -103,6 +104,7 @@ Perhaps most importantly, defending against techno-fascism requires building res
 Local democracy becomes particularly important in this context. While global tech platforms and authoritarian governments operate at a scale that can seem overwhelming, local communities retain the capacity for face-to-face interaction and collective action. Strengthening local democratic institutions and practices can provide a foundation for broader democratic renewal.
 
 <div align="right"><sub>136</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -117,3 +119,10 @@ The stakes of this struggle extend beyond politics to encompass fundamental ques
 The liberal response must therefore be equally fundamental. It requires not just defending existing institutions, but reimagining them for the digital age. It requires not just regulating technology, but ensuring that technology serves human purposes rather than the reverse. It requires not just preserving democracy, but deepening and extending it to meet the challenges of the 21st century.
 
 The tyranny of tomorrow is not inevitable, but preventing it will require unprecedented vigilance, creativity, and commitment to liberal democratic values. The choice is ours to make, but we must make it soon. The future of human freedom hangs in the balance.
+
+<div align="right"><sub>137</sub></div>
+<div style="page-break-after: always;"></div>
+
+---
+
+

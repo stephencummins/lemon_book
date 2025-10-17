@@ -1,0 +1,107 @@
+CONTENT MAP FOR clean_book.md
+================================================================================
+
+Page   1:     [TOC] Chapter 1: The Enlightenment Roots of Liberalism
+Page   1:     [TOC] Chapter 2: Classical Liberalism and its Evolution
+Page   1:     [TOC] Chapter 3: "Actually, We Can Build Houses"
+Page   1:     [TOC] Chapter 4: "Your Health Matters"
+Page   1:     [TOC] Chapter 5: "Capitalism with a Conscience"
+Page   1:     [TOC] Chapter 6: "Every Vote Should Count"
+Page   1:     [TOC] Chapter 7: "Europe: It's Complicated"
+Page   1:     [TOC] Chapter 8: "Immigration: Honest Conversations"
+Page   1:     [TOC] Chapter 9: "Green Growth, Not Green Grief"
+Page   1:     [TOC] Chapter 10: "Technology for Good"
+Page   1:     [TOC] Chapter 14: "Tomorrow's Tyranny"
+Page   1:     [TOC] Chapter 15: "Guest Voices: Liberal Democrat Leaders Speak"
+Page   1:     [TOC] Chapter 17: "Reclaiming Authentic Liberalism"
+Page   1:     [TOC] Chapter 18: "The Liberal Betrayal"
+Page   1:   About the Author
+Page   1:   Acknowledgements
+Page   1:   Part I: The Foundations of Liberal Thought
+Page   1:   Modern Liberalism (20th Century)
+
+================================================================================
+Page   1: # Chapter 2
+================================================================================
+
+================================================================================
+Page   6: # Chapter 3
+================================================================================
+Page  14:   The Trust System: Fragmenting a Service
+Page  15:   The Privatisation Agenda: Profits Before Patients
+Page  16:   The Marketisation Failure
+Page  16:   The Liberal Solution: Healthcare as a Service
+Page  17:   Learning from International Examples
+Page  17:   The Cost of Inaction
+Page  17:   The Political Challenge
+Page  18:   Conclusion: A Service, Not a Business
+Page  19:   The Chicago School: An Ideological Project for Concentrated Power
+Page  20:   The Liberal Response: Building a Democratic Economy
+Page  22:   Conclusion: A Capitalism Worth Fighting For
+Page  23:   The Democratic Deficit: A Gateway for Fascism
+Page  24:   Dismantling Bastions of Unaccountable Power: Reforming the House of Lords
+Page  25:   Fortifying Democracy: A Liberal Agenda for Reform
+
+================================================================================
+Page  26: # Chapter 7
+================================================================================
+Page  26:   Introduction: Europe as a Liberal Project Under Threat
+Page  27:   The Liberal Response: Rebuilding Bridges as a Geopolitical Imperative
+
+================================================================================
+Page  29: # Chapter 8
+================================================================================
+Page  29:   Introduction: We Are All Cheddar Man's Children
+Page  31:   The Fascist Playbook: Weaponising Immigration for Political Gain
+Page  32:   The Liberal Response: A Strategy of Competence, Compassion, and Control
+Page  34:   Conclusion: An Immigration System for a Confident, Liberal Britain
+Page  34:   We Are All Immigrants: The Slippery Slope of Dehumanisation
+Page  35:   The Historical Gift of Immigration: From Roman Roads to Norman Innovation
+
+================================================================================
+Page  36: # Chapter 9
+================================================================================
+Page  36:   Introduction: The Climate Crisis as a Struggle for Power
+Page  37:   The Liberal Response: Green Growth as a Strategy for Freedom
+
+================================================================================
+Page  40: # Chapter 10
+================================================================================
+
+================================================================================
+Page  48: # Chapter 11
+================================================================================
+
+================================================================================
+Page  51: # Chapter 12
+================================================================================
+
+================================================================================
+Page  55: # Chapter 13
+================================================================================
+
+================================================================================
+Page  59: # Chapter 14
+================================================================================
+Page  64:   The Future of Liberalism: A Conversation in Progress
+Page  64:   Voices from the Past: The Liberal Legacy
+Page  65:   Voices from the Present: The Liberal Renewal
+Page  66:   Conclusion: The Conversation Continues
+Page  67:   The Liberal Lexicon: A Glossary of Hope
+Page  68:   The Power of Conversation: Building a More Inclusive Public Square
+Page  69:   The Liberal Language in Action: Case Studies in Reclaiming Words
+Page  70:   The Digital Frontier: New Spaces for Liberal Language
+Page  81:   A
+Page  81:   C
+Page  81:   E
+Page  81:   G
+Page  81:   I
+Page  81:   L
+Page  81:   N
+Page  81:   R
+Page  81:   T
+Page  81:   V
+Page  81:   Key Themes and Cross-References
+
+
+Total Pages: 81

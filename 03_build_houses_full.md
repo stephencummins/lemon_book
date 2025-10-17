@@ -1,7 +1,3 @@
-<div align="right"><sub>24</sub></div>
-
----
-
 # Chapter 3
 
 Actually, We Can Build Houses
@@ -16,11 +12,12 @@ The statistics are stark and shameful. The average house price in England is now
 
 But here's the thing: we can build houses. We have the land, we have the skills, and we have the technology. What we lack is the political will to challenge the vested interests that benefit from the current broken system. The liberal answer is not to tinker at the edges, but to fundamentally reform how we approach housing in this country.
 
-**Land Value Capture and Planning Reform**
-
 <div align="right"><sub>25</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
+
+**Land Value Capture and Planning Reform**
 
 At the heart of Britain's housing crisis lies a fundamental problem: the artificial scarcity of developable land. Our planning system, designed in the 1940s for a very different world, has become a barrier to development rather than a tool for creating sustainable communities. It hands enormous windfalls to landowners while making it prohibitively expensive and time-consuming for developers to build the homes we desperately need.
 
@@ -41,6 +38,7 @@ This isn't about going back to the failed tower blocks of the 1960s. Modern soci
 While we build for the long term, we must also help those trapped in the current system. A liberal government would:
 
 <div align="right"><sub>26</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -66,6 +64,7 @@ A liberal housing policy would rebalance this equation by:
 - **Community Land Trusts**: Supporting models where communities own land collectively, keeping housing affordable in perpetuity
 
 <div align="right"><sub>27</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -92,6 +91,7 @@ The housing we build today will last for decades or centuries. A liberal approac
 The decline of social housing has been one of the great policy disasters of recent decades. The Right to Buy scheme, while well-intentioned in giving tenants ownership opportunities, was never properly replaced with new supply. The result has been a chronic shortage of affordable homes and the stigmatisation of remaining social housing.
 
 <div align="right"><sub>28</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -118,6 +118,7 @@ Britain's housing challenges vary significantly between regions. London faces ac
 - **Coastal Towns**: Addressing the specific challenges of seasonal economies and aging populations
 
 <div align="right"><sub>29</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -147,6 +148,7 @@ Modern construction technology offers opportunities to build homes faster, cheap
 Too often, new housing developments are imposed on communities without adequate consultation or consideration of local needs. A liberal approach would ensure that communities are genuine partners in shaping their future:
 
 <div align="right"><sub>30</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -171,3 +173,8 @@ The housing crisis is not inevitable. It is the result of political choices, and
 But this requires more than just technical solutions. It requires the political will to challenge vested interests, the imagination to learn from international best practice, and the commitment to put the needs of families and communities ahead of the profits of speculators and developers.
 
 The choice is ours. We can continue with a housing system that serves the few at the expense of the many, or we can build a system that provides everyone with a decent, affordable home in a thriving community. The liberal vision is clear: housing is a human right, not a commodity. It's time to make that vision a reality.
+
+<div align="right"><sub>31</sub></div>
+<div style="page-break-after: always;"></div>
+
+---

@@ -1,7 +1,3 @@
-<div align="right"><sub>31</sub></div>
-
----
-
 # Chapter 4 - Part I
 
 A Healthy Mind in a Healthy Body
@@ -19,6 +15,7 @@ But perhaps most shamefully of all, we still charge people for the very medicati
 **Parity of Esteem: Mental Health = Physical Health**
 
 <div align="right"><sub>32</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -43,6 +40,7 @@ One of the most heartbreaking aspects of the current system is the '18-year clif
 A liberal government would commit to breaking this cliff edge, ensuring a seamless transition between services and providing continuous support tailored to the evolving needs of young adults. This means investing in integrated services that recognise the unique challenges of adolescence and early adulthood.
 
 <div align="right"><sub>33</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -67,6 +65,7 @@ Research consistently shows that mental health problems are more common among pe
 A liberal mental health strategy would address these root causes through:
 
 <div align="right"><sub>34</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -101,6 +100,7 @@ Mental health problems often begin in childhood and adolescence, yet our educati
 **The Role of Technology: Promise and Peril**
 
 <div align="right"><sub>35</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -133,6 +133,7 @@ Despite progress in recent years, stigma remains a major barrier to mental healt
 Combating stigma requires:
 
 <div align="right"><sub>36</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -173,6 +174,7 @@ Proper investment in mental health prevention and early intervention would:
 **Research and Innovation: Advancing Understanding**
 
 <div align="right"><sub>37</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -209,6 +211,7 @@ Looking ahead, mental health care will be transformed by new technologies, treat
 **Conclusion: A Society That Cares**
 
 <div align="right"><sub>38</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -223,3 +226,9 @@ Your mental health matters, and in a liberal Britain, the bill for its care woul
 But more than that, we can create a society where mental health problems are less likely to occur in the first place, where communities support their members, where workplaces promote wellbeing, and where everyone has the opportunity to live a fulfilling and meaningful life.
 
 The choice is ours. We can continue with a system that treats mental health as a personal failing and a private problem, or we can build a system that recognises mental health as a shared responsibility and a public good. The liberal path is clear – it's time to take it.
+
+<div align="right"><sub>39</sub></div>
+<div style="page-break-after: always;"></div>
+
+---
+

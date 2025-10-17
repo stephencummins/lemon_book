@@ -1,0 +1,105 @@
+% Pandoc Custom LaTeX Template for The Lemon Book
+
+\documentclass[$if(fontsize)$"$fontsize$",$endif$$if(papersize)$"$papersize$",$endif$$if(lang)$"$lang$",$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+
+% --- Packages and Basic Setup ---
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifxetex
+  \usepackage{fontspec}
+\else
+  \ifluatex
+    \usepackage{fontspec}
+  \else
+    \usepackage[utf8]{inputenc}
+    \usepackage[T1]{fontenc}
+    \usepackage{textcomp}
+  \fi
+\fi
+$if(mainfont)$
+\setmainfont{$mainfont$}
+$endif$
+$if(sansfont)$
+\setsansfont{$sansfont$}
+$endif$
+$if(monofont)$
+\setmonofont{$monofont$}
+$endif$
+\usepackage{graphicx}
+\usepackage{longtable,booktabs}
+\usepackage{url}
+\usepackage{fancyvrb}
+$if(highlighting-macros)$
+$highlighting-macros$
+$endif$
+\usepackage{hyperref}
+\hypersetup{
+    pdftitle={$title$},
+    pdfauthor={$author$},
+    pdfborder={0 0 0},
+    breaklinks=true
+}
+\urlstyle{same}
+$if(geometry)$
+\usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
+$endif$
+
+% --- Custom Packages for Styling ---
+\usepackage{fancyhdr} % For custom headers and footers
+\usepackage{titlesec} % For custom chapter and section titles
+\usepackage[T1]{fontenc}
+
+% --- Header and Footer Styling (using fancyhdr) ---
+% This style will apply to all pages except the first page of a chapter.
+\pagestyle{fancy}
+\fancyhf{} % Clear all header and footer fields
+\fancyhead[LE,RO]{\slshape \rightmark} % Section title on Left-Even and Right-Odd pages
+\fancyhead[LO,RE]{\slshape \leftmark}  % Chapter title on Left-Odd and Right-Even pages
+\fancyfoot[C]{\thepage}               % Page number in the center of the footer
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% --- Chapter Title Styling (using titlesec) ---
+% This customizes the appearance of \chapter
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries} % format for the whole chapter title
+  {\chaptertitlename\ \thechapter} % format for the chapter number
+  {20pt} % horizontal separation between number and title
+  {\Huge} % format for the chapter title text
+\titlespacing*{\chapter}{0pt}{-30pt}{40pt} % spacing around the chapter title
+
+% --- Document Start ---
+\begin{document}
+
+% --- Title Page ---
+\title{$title$$if(subtitle)$\\{\large $subtitle$}$endif$}
+\author{$author$}
+\date{$date$}
+\maketitle
+
+% --- Custom Header Includes (from metadata.yaml) ---
+$for(header-includes)$
+$header-includes$
+$endfor$
+
+% --- Table of Contents ---
+$if(toc)$
+{
+  \hypersetup{linkcolor=black}
+  \setcounter{tocdepth}{$toc-depth$}
+  \tableofcontents
+}
+$endif$
+
+% --- Body Content ---
+\pagenumbering{arabic} % Ensure main content starts with Arabic numerals
+$body$
+
+% --- Back Matter (e.g., Bibliography, Index) ---
+$if(biblio-title)$
+\renewcommand\bibname{$biblio-title$}
+\bibliography{$for(bibliography)$$bibliography$$sep$,$endfor$}
+$endif$
+
+\end{document}

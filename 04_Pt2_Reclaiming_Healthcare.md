@@ -1,7 +1,3 @@
-<div align="right"><sub>39</sub></div>
-
----
-
 # Chapter 4 - Part II
 
 *From Bevan's Vision to Market Chaos*
@@ -17,6 +13,7 @@ This crisis was not inevitable. It is the direct result of political choices –
 ## The Liberal Foundation: Healthcare as a Right
 
 <div align="right"><sub>40</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -39,6 +36,7 @@ For decades, this model worked. The NHS delivered better health outcomes at lowe
 The rot began in the 1990s with the introduction of the "internal market" and the creation of NHS Trusts. The Conservative government of the time, influenced by market fundamentalism, decided that the NHS would work better if it operated like a business. Hospitals became autonomous Trusts, competing with each other for contracts from commissioning bodies. The service was fragmented into purchasers and providers, introducing transaction costs and bureaucracy that had never existed before.
 
 <div align="right"><sub>41</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -59,6 +57,7 @@ When each Trust operates independently, standards fragment across the country. W
 Trusts, judged on annual financial performance, focus on short-term savings rather than long-term investment. Preventive care, staff training, and maintenance are cut because they don't show immediate financial returns. The result is a system that lurches from crisis to crisis, always firefighting rather than planning strategically.
 
 <div align="right"><sub>42</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -81,6 +80,7 @@ Contrary to the promises, privatisation has not delivered better value. Private 
 The Private Finance Initiative, used to build new hospitals, represents one of the greatest financial scandals in NHS history. Hospitals built with private money under PFI deals are saddled with debt repayments that far exceed what public borrowing would have cost. Some Trusts pay more in PFI repayments than they spend on doctors and nurses. This is not efficiency – it is a government-sanctioned transfer of wealth from the public sector to private finance.
 
 <div align="right"><sub>43</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -104,6 +104,7 @@ Emergency departments are overwhelmed. The four-hour target – that patients sh
 Getting a GP appointment has become nearly impossible. Practices are overwhelmed, appointments are rationed, and patients are pushed to phone triage systems that often fail to identify serious conditions. The traditional model of family medicine – where your GP knows you and can provide continuous care – has collapsed.
 
 <div align="right"><sub>44</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -137,6 +138,7 @@ Insurance-based systems create incentives for overtreatment (providers profit fr
 The liberal answer to the NHS crisis is not more marketisation but a return to the founding principle: healthcare as a public service, not a business. This means:
 
 <div align="right"><sub>45</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -162,6 +164,7 @@ Pay healthcare workers properly, provide adequate training and development oppor
 Shift resources toward prevention and public health. Tackling the social determinants of health – poverty, poor housing, pollution, unhealthy food – would prevent illness and reduce demand on acute services.
 
 <div align="right"><sub>46</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -200,6 +203,7 @@ Reforming the NHS faces powerful opposition. Private healthcare companies profit
 But the greater political risk is doing nothing. The NHS is in terminal decline under the current model. Without fundamental reform, it will continue to deteriorate until it becomes so dysfunctional that privatisation becomes inevitable – not through ideological choice but through practical failure.
 
 <div align="right"><sub>47</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -216,6 +220,7 @@ This requires courage – courage to challenge powerful interests, courage to re
 The NHS is not just a health service – it is a statement about what kind of society we want to be. A society where your ability to live a healthy life depends on your ability to pay is not a liberal society. A society where healthcare is a right, not a privilege, where the sick are cared for regardless of circumstances – that is a society worthy of the liberal tradition.
 
 <div align="right"><sub>48</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -232,3 +237,10 @@ The NHS is in crisis not because public services cannot work, but because we hav
 Bevan's vision remains sound. What we need is the political will to defend it, the intellectual honesty to acknowledge where we've gone wrong, and the courage to reverse course. The NHS can be saved – but only if we reclaim healthcare as a public service, not a business opportunity.
 
 The question is not whether we can afford to properly fund and reform the NHS. The question is whether we can afford not to. In a civilised, liberal society, healthcare is not a luxury but a necessity, not a commodity but a right. It's time we started treating it that way.
+
+<div align="right"><sub>49</sub></div>
+<div style="page-break-after: always;"></div>
+
+---
+
+

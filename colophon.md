@@ -1,4 +1,5 @@
 <div align="right"><sub>186</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -38,6 +39,7 @@ The manuscript was developed through an iterative dialogue between human authors
 **Page Count:** 186 pages
 
 <div align="right"><sub>187</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -69,6 +71,7 @@ This book represents an experiment in human-AI collaboration for long-form polit
 - Creating comprehensive references and cross-links
 
 <div align="right"><sub>188</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -95,6 +98,7 @@ No part of this publication may be reproduced, distributed, or transmitted in an
 For permission requests, contact the author through the GitHub repository.
 
 <div align="right"><sub>189</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -126,6 +130,7 @@ Illustrations: AI-assisted design tools
 When I started this project, I wondered whether it was possible to write a comprehensive work of political philosophy using AI assistance. The answer, I've discovered, is yes—but with important caveats.
 
 <div align="right"><sub>190</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -154,3 +159,5 @@ For questions, comments, or to continue the conversation:
 ---
 
 *Made with 🍋 in 2025*
+
+<div style="page-break-after: always;"></div>

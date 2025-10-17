@@ -1,7 +1,3 @@
-<div align="right"><sub>155</sub></div>
-
----
-
 # Chapter 17
 
 *A Call for Renewal and Resistance*
@@ -19,6 +15,7 @@ But the corruption of liberalism is not irreversible. Throughout its history, li
 Reclaiming authentic liberalism begins with returning to first principles – understanding what liberalism actually means and what it has historically stood for. This is not an exercise in nostalgia or an attempt to return to some imagined golden age. Rather, it is an effort to understand the core values and commitments that have made liberalism a force for human progress and freedom throughout its history.
 
 <div align="right"><sub>156</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -33,6 +30,7 @@ The reclamation of authentic liberalism must draw particularly on the social lib
 Social liberals like T.H. Green, L.T. Hobhouse, and John Maynard Keynes understood that genuine freedom required positive rights – entitlements to the resources and opportunities necessary for self-development and self-determination. They recognised that the state had a positive role to play in creating the conditions for individual liberty and social justice.
 
 <div align="right"><sub>157</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -51,6 +49,7 @@ The goal is not to eliminate markets, but to embed them in social institutions a
 Reclaiming authentic liberalism also requires a renewed commitment to participatory democracy and civic engagement. The corruption of liberalism has been facilitated by the decline of democratic participation and the concentration of political power in the hands of wealthy elites and corporate interests.
 
 <div align="right"><sub>158</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -69,6 +68,7 @@ This requires a fundamental shift in how we think about economic growth and deve
 **Global Solidarity and Cosmopolitan Values**
 
 <div align="right"><sub>159</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -87,6 +87,7 @@ Reclaiming authentic liberalism requires ensuring that technology serves human p
 It also means developing new forms of democratic governance that can keep pace with technological change. Traditional regulatory approaches that take years to develop and implement are inadequate for technologies that evolve rapidly. We need more agile and adaptive forms of governance that can respond quickly to new challenges while maintaining democratic accountability.
 
 <div align="right"><sub>160</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -103,6 +104,7 @@ Reclaiming authentic liberalism requires building a broad-based movement that ca
 Building such a movement requires overcoming the divisions that have weakened liberal politics in recent decades. This means bridging the gap between economic and social liberalism, between national and international perspectives, and between different generations and communities that share liberal values but may have different priorities and concerns.
 
 <div align="right"><sub>161</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -123,6 +125,7 @@ Reclaiming authentic liberalism requires a sustained effort at education and int
 It also means challenging the intellectual frameworks and assumptions that have been used to justify illiberal policies and practices. This includes developing critiques of neoliberalism, authoritarianism, and other ideologies that threaten liberal values, as well as positive visions of what a liberal society might look like in the 21st century.
 
 <div align="right"><sub>162</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -143,6 +146,7 @@ The task of reclaiming authentic liberalism is urgent. Around the world, liberal
 In this context, the renewal of liberalism is not just a political project – it is essential for human survival and flourishing. Liberal values of human dignity, individual freedom, social justice, and democratic governance provide the foundation for addressing these challenges in ways that enhance rather than diminish human welfare.
 
 <div align="right"><sub>163</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -157,3 +161,9 @@ This is not a task for politicians alone, or for liberal parties alone, or for a
 The stakes could not be higher. The future of liberal democracy, and perhaps of human civilisation itself, depends on our ability to reclaim and renew the liberal tradition for the challenges of the 21st century. The question is not whether we can afford to undertake this task, but whether we can afford not to.
 
 The time for half-measures and compromises with illiberalism is over. The time has come to reclaim authentic liberalism and to build the movement necessary to make it a reality. The future is in our hands, and the choice is ours to make.
+
+<div align="right"><sub>164</sub></div>
+<div style="page-break-after: always;"></div>
+
+---
+

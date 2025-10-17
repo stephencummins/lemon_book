@@ -1,7 +1,3 @@
-<div align="right"><sub>164</sub></div>
-
----
-
 # Conclusion
 
 *A Summary and Call to Action*
@@ -19,6 +15,7 @@ The central theme that has emerged throughout this book is that liberalism is fu
 This understanding helps us see the connections between seemingly disparate liberal concerns. The housing crisis is about the power of landowners and developers to extract wealth from basic human needs. The mental health crisis reflects the power of economic systems that prioritise profit over wellbeing. Democratic dysfunction stems from the power of money and media to distort political processes. Climate change represents the power of current generations to impose costs on future ones. Technological disruption involves the power of algorithms and data to shape human behaviour and social outcomes.
 
 <div align="right"><sub>165</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -33,6 +30,7 @@ The evolution from classical to social liberalism was not a betrayal of liberal 
 This pattern of adaptation must continue today. The challenges we face – artificial intelligence, genetic engineering, climate change, global inequality – require new liberal responses that build on historical insights while addressing unprecedented circumstances. The alternative is not a return to some imagined golden age of classical liberalism, but the continued erosion of liberal values by forces that liberals are too rigid or timid to confront.
 
 <div align="right"><sub>166</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -53,6 +51,7 @@ Fourth, they take seriously the liberal commitment to human dignity and equal tr
 Our examination of the housing crisis revealed that the problem is not technical but political. We have the land, skills, and technology to build the homes Britain needs. What we lack is the political will to challenge the vested interests that benefit from artificial scarcity and inflated prices.
 
 <div align="right"><sub>167</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -69,6 +68,7 @@ Achieving parity of esteem between mental and physical health means more than ju
 The liberal vision is of a society where seeking help for mental health problems is as normal and accessible as going to the dentist, where mental health support is available in every community, and where we create social and economic conditions that promote psychological wellbeing rather than undermine it.
 
 <div align="right"><sub>168</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -89,6 +89,7 @@ The liberal approach to Europe recognises that many of the challenges we face �
 But cooperation must be based on mutual benefit and democratic consent, not imposed by technocratic elites or economic coercion. The liberal vision is of a Europe of democratic nations working together to address common challenges while respecting national differences and democratic choices.
 
 <div align="right"><sub>169</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -107,6 +108,7 @@ The climate crisis is the defining challenge of our time, but it is also an enor
 Green growth is not an oxymoron but an economic necessity. The transition to a low-carbon economy will create millions of new jobs, improve public health, enhance energy security, and position Britain as a leader in the industries of the future. But this transition must be managed fairly, with support for workers and communities that depend on fossil fuel industries.
 
 <div align="right"><sub>170</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -127,6 +129,7 @@ The liberal tradition of rights has evolved from natural rights to civil rights 
 Contemporary liberalism must continue this expansion while defending existing rights against authoritarian assault. This means protecting traditional civil liberties like free speech and due process while developing new frameworks for genetic privacy, algorithmic accountability, and intergenerational justice.
 
 <div align="right"><sub>171</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -149,6 +152,7 @@ Reclaiming authentic liberalism requires more than just better messaging or more
 This means building new institutions and movements that can challenge corporate power, strengthen democratic participation, and create economic arrangements that serve human flourishing rather than capital accumulation. It means forming coalitions with other progressive forces while maintaining liberal distinctiveness. It means being willing to take political risks in service of long-term liberal goals.
 
 <div align="right"><sub>172</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -175,6 +179,7 @@ So how do we make lemonade from the political lemons we have been given? The rec
 Despite the challenges facing liberal democracy, there are reasons for optimism. The failures of authoritarianism are becoming increasingly apparent. The limitations of both unfettered capitalism and state socialism are widely recognised. Young people around the world are demanding action on climate change, inequality, and democratic reform.
 
 <div align="right"><sub>173</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -193,6 +198,7 @@ We stand at a crossroads. One path leads toward increasing authoritarianism, ine
 The choice is not predetermined. It depends on the decisions we make and the actions we take in the coming years. It depends on whether we are willing to do the hard work of democratic citizenship – learning about complex issues, engaging with those who disagree with us, and working for change through democratic institutions.
 
 <div align="right"><sub>174</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -229,6 +235,7 @@ Welcome to the lemonade stand. The ingredients are ready. The recipe is clear. N
 **Chapter 2: Classical Liberalism and its Evolution**
 
 <div align="right"><sub>175</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -257,6 +264,11 @@ Welcome to the lemonade stand. The ingredients are ready. The recipe is clear. N
 - [Internet Encyclopedia of Philosophy: Mill's Ethics](http/iep.utm.emill-e#H2)
 
 - [Internet Encyclopedia of Philosophy: Thomas Hobbes: Moral and Political Philosophy](http/iep.utm.ehobmor)
+
+<div align="right"><sub>176</sub></div>
+<div style="page-break-after: always;"></div>
+
+---
 
 - [KCL Pure: Peace, Authority and Liberty: David Hume on the Making of Modern Politics](http/kclpure.kcl.ac.portstudentThespeace-authority-and-liberty-david-hume-on-the-making-of-modern-po)
 
@@ -300,6 +312,9 @@ Welcome to the lemonade stand. The ingredients are ready. The recipe is clear. N
 
 - [Wondrium: John Stuart Mill on Liberty of Thought and Discussion](http/www.wondrium.cjohn-stuart-mill-on-liberty-of-thought-and-discussion)
 
+<div align="right"><sub>177</sub></div>
+<div style="page-break-after: always;"></div>
+
 ---
 
 ## Index
@@ -310,10 +325,6 @@ Authoritarianism, 315-340
 **B**
 Beveridge Report, 65-75
 Brexit, 165-175
-
-<div align="right"><sub>176</sub></div>
-
----
 
 **C**
 Capitalism, 125-135
@@ -392,6 +403,9 @@ Voting reform, 145-155
 **W**
 Women's rights, 295-310
 
+<div align="right"><sub>178</sub></div>
+<div style="page-break-after: always;"></div>
+
 ---
 
 ## Colophon
@@ -410,7 +424,8 @@ This book was created using Manus, an advanced AI assistant designed to help aut
 
 - **Editorial Support**: Manus provided editing assistance, ensuring consistency in tone, style, and UK English spelling throughout
 
-<div align="right"><sub>177</sub></div>
+<div align="right"><sub>179</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -459,3 +474,4 @@ Printed and bound in the United Kingdom
 Digital edition available at: [http/files.manuscdn.cuser_upload_by_modusession_fi1067285KIxbFUigeJURNuRi.pdf](http/files.manuscdn.cuser_upload_by_modusession_fi1067285KIxbFUigeJURNuRi.pdf)
 
 ---
+<div style="page-break-after: always;"></div>

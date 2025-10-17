@@ -1,7 +1,3 @@
-<div align="right"><sub>70</sub></div>
-
----
-
 # Chapter 8
 
 Immigration: Honest Conversations
@@ -19,6 +15,7 @@ This connection is possible because of a remarkable quirk of human biology. Mito
 But here's the crucial point that should humble every politician who rails against immigration: Cheddar Man himself was an immigrant. His ancestors had crossed the land bridge from continental Europe as the ice sheets retreated. He was part of a wave of hunter-gatherers who "invaded" Britain and displaced whatever sparse populations had survived the Ice Age.
 
 <div align="right"><sub>71</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -31,6 +28,7 @@ Since then, wave after wave of immigrants have continued to shape these islands:
 This scientific reality makes the contemporary hysteria about immigration not just morally wrong, but historically absurd. When politicians stoke fear about people crossing the Channel in small boats, they are demonising the very process that created the British people. When they speak of "invasion" and "swarms," they are using language that could have been applied to every single one of our ancestors. The Romans who brought roads, law, and urban civilisation came in boats. The Normans who transformed our language, architecture, and legal system came in boats. Even the Anglo-Saxons, whose cultural legacy some claim to defend, came in boats.
 
 <div align="right"><sub>72</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -41,6 +39,7 @@ Nigel Farage, the architect of Brexit and Britain's most prominent anti-immigrat
 This pattern repeats throughout the ranks of anti-immigration politicians. They are often the beneficiaries of the very processes they now seek to deny to others. Their families' success stories are immigration success stories, yet they have built their careers on the politics of exclusion and fear. This is not just hypocrisy; it is a form of historical amnesia that denies the very foundations of their own prosperity and position.
 
 <div align="right"><sub>73</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -51,6 +50,7 @@ These fascist leaders built their power by defining who belonged and who didn't,
 By contrast, liberal politicians tend to embrace rather than deny their diverse heritage. Ed Davey, the Liberal Democrat leader, comes from what might be considered a more traditionally "British" background—his father from a mining family, his mother the daughter of domestic servants, his surname Welsh or Cornish in origin. Yet Davey has never built his politics on exclusion or appeals to "pure" British identity. Instead, he champions the liberal tradition of openness, inclusion, and the belief that diversity strengthens rather than threatens our society. This is the fundamental difference: liberals celebrate the immigrant story that made us all, while authoritarians exploit it for political gain while denying their own part in it.
 
 <div align="right"><sub>74</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -63,6 +63,7 @@ Fascist and proto-fascist movements understand the power of immigration as a pol
 ## The Fascist Playbook: Weaponising Immigration for Political Gain
 
 <div align="right"><sub>75</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -75,6 +76,7 @@ To build an effective liberal response, we must first understand that the far-ri
 3.  **Blame Immigrants for Systemic Failures:** The fascist narrative cleverly redirects public anger about systemic problems onto the scapegoat of the immigrant. Are wages stagnating? It's because immigrants are taking jobs and driving down wages (a claim that ignores the real causes related to the decline of unions and the concentration of corporate power, as discussed in Chapter 5). Is the NHS underfunded? It's because it is overwhelmed by immigrants, not because of decades of political choices to underinvest in public services. This is a classic diversionary tactic, designed to protect the powerful from accountability.
 
 <div align="right"><sub>76</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -82,13 +84,12 @@ To build an effective liberal response, we must first understand that the far-ri
 
 The "hostile environment" policy, introduced by a Conservative government, represents a chilling example of how this fascist framing can be absorbed into the political mainstream. It was a policy that, by its own admission, sought to create a climate of fear and suspicion. It turned ordinary citizens—landlords, doctors, teachers—into unwilling agents of the state's immigration enforcement. The Windrush scandal was not an accidental outcome of this policy; it was its logical and inevitable consequence. When you create a system designed to hunt for the "illegal" immigrant, you will inevitably end up persecuting the legal and the legitimate. It is a policy that poisons the well of community trust and corrodes the very fabric of a decent society.
 
-
-
-## The Liberal Response: A Strategy of Competence, Compassion, and Control
-
 <div align="right"><sub>77</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
+
+## The Liberal Response: A Strategy of Competence, Compassion, and Control
 
 A liberal immigration policy must be a direct and strategic rebuttal to the fascist playbook. It is not enough to be morally right; we must also be practically effective. This means building a system that is competent, compassionate, and in control. Such a system would not only be more humane and economically beneficial, but it would also rob the far-right of its most potent political weapon. The liberal response must be built on four pillars:
 
@@ -101,6 +102,7 @@ The most effective antidote to the far-right’s narrative of chaos and invasion
 *   **Negotiate returns agreements:** A fair system must also be a firm one. Those who have no legal right to be in the UK should be returned to their home country or a safe third country. This requires patient diplomacy and the negotiation of effective returns agreements, something the current government has singularly failed to achieve.
 
 <div align="right"><sub>78</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -117,6 +119,7 @@ The fascist strategy of dehumanisation can only be countered by a system that tr
 The far-right tactic of blaming immigrants for pressure on public services can only be neutralised by honestly acknowledging the challenges and investing in the solutions. A liberal government would recognise that population change, from whatever source, requires investment in public services and infrastructure. This means:
 
 <div align="right"><sub>79</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -132,9 +135,8 @@ When fascists attack international law and human rights, liberals must be their 
 *   **Challenge the far-right narrative:** Liberals must confidently and consistently make the case that these international laws protect us all and are a vital defence against a return to the barbarism of the 1930s.
 *   **Lead on the world stage:** Instead of seeking to undermine international law, a liberal Britain would lead efforts to strengthen and reform it, working with our democratic allies to find global solutions to the global challenge of migration.
 
-
-
 <div align="right"><sub>80</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -144,13 +146,12 @@ The liberal approach to immigration is not a choice between compassion and contr
 
 Building a liberal immigration system is therefore a core part of the broader project outlined in this book: the defence of an open, democratic society against the forces of authoritarianism. It requires us to reject the false choices presented by the far-right and to articulate a confident, hopeful vision of a country enriched by, not afraid of, the world. It means having honest conversations, investing in our communities, and building a system that reflects the best of our values. This is not the easy path, but it is the only one that leads to a stronger, more prosperous, and more united United Kingdom.
 
-
-
-## We Are All Immigrants: The Slippery Slope of Dehumanisation
-
 <div align="right"><sub>81</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
+
+## We Are All Immigrants: The Slippery Slope of Dehumanisation
 
 The fascist obsession with immigration is not just about foreigners; it is about defining who belongs and who does not, a process that inevitably turns inward. The same logic that is used to strip rights from asylum seekers today can be used to strip rights from citizens tomorrow. This is the slippery slope of dehumanisation, and it is a danger that every liberal must understand. When we allow the government to create a class of people who are outside the protection of the law, we create a precedent that can be used against anyone.
 
@@ -160,6 +161,7 @@ This is why the defence of immigrant rights is not an act of charity; it is an a
 
 
 <div align="right"><sub>82</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -172,6 +174,7 @@ The Anglo-Saxon migrations of the 5th and 6th centuries brought new agricultural
 The Norman Conquest of 1066, often seen as the last successful invasion of Britain, is perhaps better understood as the Norman Integration. Yes, William's army conquered the Anglo-Saxon elite, but what followed was not the replacement of one people by another, but a remarkable fusion of cultures. The Normans brought sophisticated administrative systems, revolutionary architectural techniques (those soaring cathedrals and imposing castles), and a legal framework that evolved into English common law. They introduced new agricultural methods, advanced military technology, and connections to European networks of trade and learning.
 
 <div align="right"><sub>83</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -182,3 +185,9 @@ Even our fear of immigrants arriving by boat is historically ironic. The very an
 This pattern continued through the centuries. Huguenot refugees from religious persecution in France brought silk-weaving, banking expertise, and entrepreneurial energy. Jewish immigrants fleeing pogroms in Eastern Europe established businesses, contributed to science and culture, and enriched British intellectual life. Commonwealth immigrants in the post-war period rebuilt our cities, staffed our hospitals, and drove our buses. Each wave faced hostility and suspicion, yet each ultimately strengthened and enriched British society.
 
 The lesson of history is clear: immigration is not a threat to British identity; it is the source of British identity. We are not a pure, homogeneous people defending our ancient homeland against foreign invasion. We are a successful experiment in integration, a demonstration that people from different backgrounds can come together to create something greater than the sum of their parts. This is the liberal vision of Britain: not a fortress, but a beacon; not a closed society, but an open one that grows stronger through diversity.
+
+<div align="right"><sub>84</sub></div>
+<div style="page-break-after: always;"></div>
+
+---
+

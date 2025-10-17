@@ -1,6 +1,6 @@
----
+# Introduction
 
-# Introduction: Why Britain Needs Liberal Answers
+## Why Britian needs liberal answers
 
 ![Liberal Britain - Time to Squeeze!](images/00_lemonade_stand.png)
 
@@ -20,4 +20,5 @@ So welcome to my lemonade stand. The product I'm selling is a refreshed liberali
 
 The lemons are already here. The question is: are you ready for some lemonade?
 
-## Part I: The Foundations of Liberal Thought
+<div align="right"><sub>ii</sub></div>
+<div style="page-break-after: always;"></div>

@@ -1,7 +1,3 @@
-<div align="right"><sub>12</sub></div>
-
----
-
 # Chapter 2
 
 Classical Liberalism and its Evolution
@@ -21,6 +17,7 @@ Classical liberalism emerged in the 17th and 18th centuries as a direct challeng
 Locke's theory of government by consent was revolutionary precisely because it challenged the divine right of kings and asserted that political power must derive from the people it governs. His argument that governments exist to protect natural rights, and that people have the right to overthrow governments that fail in this duty, provided the intellectual foundation for the American and French revolutions.
 
 <div align="right"><sub>13</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -35,6 +32,7 @@ The Industrial Revolution of the 19th century created new forms of power that cl
 The formal freedom to enter into contracts meant little when workers had no choice but to accept whatever terms employers offered or face starvation. The right to property became a tool for the wealthy to accumulate ever more wealth while denying others access to the means of production. The political equality promised by liberal democracy was undermined by economic inequality that gave the rich vastly more influence over political outcomes than the poor.
 
 <div align="right"><sub>14</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -49,6 +47,7 @@ This insight represented a fundamental shift in liberal thinking about power. Cl
 T.H. Green's concept of "positive freedom" was particularly important in this regard. Green argued that true freedom was not just the absence of external constraints, but the presence of the power and resources necessary to realise one's potential. A person who was formally free but lacked education, healthcare, or economic security was not truly free in any meaningful sense.
 
 <div align="right"><sub>15</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -65,6 +64,7 @@ Liberal responses to this challenge evolved over time. Some liberals, particular
 The debate over economic power reached its peak during the Great Depression of the 1930s, when the failure of unregulated capitalism led to mass unemployment and social upheaval. John Maynard Keynes's response to this crisis represented a fundamental rethinking of the relationship between markets and government within liberal thought.
 
 <div align="right"><sub>16</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -80,11 +80,12 @@ The National Health Service, comprehensive education, social security, and publi
 
 The welfare state also represented a new understanding of the relationship between individual and collective responsibility. Social liberals recognised that individual success or failure was not simply a matter of personal virtue or vice, but was heavily influenced by social structures and institutions. Creating fair institutions was therefore a collective responsibility that required collective action through democratic government.
 
-**The Neoliberal Counter-Revolution**
-
 <div align="right"><sub>17</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
+
+**The Neoliberal Counter-Revolution**
 
 The success of social liberalism in creating more equal and prosperous societies inevitably provoked a counter-reaction from those whose power and privilege were threatened by these changes. The neoliberal movement that emerged in the 1970s and 1980s represented a systematic attempt to roll back social liberal achievements and restore the power of capital over labour.
 
@@ -99,6 +100,7 @@ This counter-revolution was remarkably successful, at least in the short term. B
 The 2008 financial crisis marked the beginning of the end of neoliberal hegemony, though its political consequences are still playing out. The crisis demonstrated the fundamental instability and injustice of an economic system based on the unchecked power of financial markets. The response to the crisis – bailing out banks while imposing austerity on ordinary people – revealed whose interests the system really served.
 
 <div align="right"><sub>18</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -113,6 +115,7 @@ The digital revolution has created new forms of concentrated power that pose unp
 These new concentrations of power operate through different mechanisms than traditional forms of economic or political power. They rely on network effects, data advantages, and algorithmic manipulation rather than physical coercion or legal authority. This makes them more difficult to regulate through traditional liberal tools like antitrust law or constitutional rights.
 
 <div align="right"><sub>19</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -131,6 +134,7 @@ However, climate action is also fundamentally liberal in its commitment to prote
 Throughout its evolution, liberalism has maintained its core insight that the distribution of power in society determines the distribution of freedom and opportunity. This insight remains as relevant today as it was in the 17th century, even though the forms of power have changed dramatically.
 
 <div align="right"><sub>20</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -149,6 +153,7 @@ Defending democracy therefore requires more than just protecting formal democrat
 **The Liberal Tradition of Institutional Innovation**
 
 <div align="right"><sub>21</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -166,6 +171,7 @@ This understanding of responsibility provides a framework for thinking about con
 ical life and hold their representatives accountable.
 
 <div align="right"><sub>22</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -180,11 +186,12 @@ The question facing contemporary liberals is whether they can develop new strate
 
 The evolution of liberalism from its classical origins to its contemporary forms shows that liberal thought is not static or dogmatic, but adaptive and creative. Each generation of liberals has faced the challenge of applying liberal principles to new circumstances and new forms of power. Our generation faces the same challenge, and we have the same opportunity to contribute to the ongoing development of the liberal tradition.
 
-**Conclusion: The Eternal Liberal Struggle**
-
 <div align="right"><sub>23</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
+
+**Conclusion: The Eternal Liberal Struggle**
 
 The story of liberalism's evolution reveals that the struggle for human freedom and dignity is never complete. Each victory against one form of oppression or concentration of power creates new possibilities but also new challenges. The abolition of slavery led to new forms of racial oppression. The achievement of political democracy was undermined by economic inequality. The creation of the welfare state was followed by neoliberal attempts to dismantle it.
 
@@ -195,3 +202,8 @@ The evolution from classical to social liberalism shows that this renewal is pos
 Understanding liberalism as fundamentally about power – its distribution, its exercise, and its accountability – provides a framework for this ongoing work. It helps us see the connections between seemingly disparate issues like inequality, authoritarianism, technological disruption, and climate change. It also helps us understand why liberal responses to these challenges must be both principled and pragmatic, both idealistic and realistic.
 
 The battle for power that has defined liberalism from its origins continues today. The question is not whether this battle will be won once and for all – it will not – but whether each generation will have the wisdom and courage to fight it in ways that advance rather than retreat from liberal values. The future of human freedom depends on our answer to this question.
+
+<div align="right"><sub>24</sub></div>
+<div style="page-break-after: always;"></div>
+
+---

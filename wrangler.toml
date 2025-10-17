@@ -1,8 +1,0 @@
-name = "lemon-book-project"
-main = "src/index.js"
-compatibility_date = "2024-10-17"
-account_id = "50dfdf954d1d15143ec8703db24dc7fe"
-
-[[r2_buckets]]
-binding = "LEMON_BOOK_BUCKET"
-bucket_name = "lemon-book"

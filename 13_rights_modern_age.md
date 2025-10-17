@@ -1,7 +1,3 @@
-<div align="right"><sub>122</sub></div>
-
----
-
 # Chapter 13
 
 *Expanding the Liberal Vision of Human Dignity*
@@ -19,6 +15,7 @@ As artificial intelligence systems increasingly make decisions that affect human
 The right to algorithmic transparency means that people should be able to understand how automated systems make decisions that affect them. When an AI system denies someone a loan, rejects their job application, or recommends a particular medical treatment, they should have the right to know what factors influenced that decision and to challenge it if they believe it is unfair or inaccurate.
 
 <div align="right"><sub>123</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -35,6 +32,7 @@ The right to genetic integrity protects individuals from unwanted genetic modifi
 The right to genetic equality addresses concerns that genetic enhancement could create new forms of inequality between the genetically enhanced and the unenhanced. If genetic modifications become available only to the wealthy, they could entrench and amplify existing social inequalities in unprecedented ways.
 
 <div align="right"><sub>124</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -53,6 +51,7 @@ The right to climate justice recognises that the impacts of climate change are n
 **Bioethical Rights in Medical Research and Treatment**
 
 <div align="right"><sub>125</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -71,6 +70,7 @@ As more aspects of human life move online, digital citizenship becomes increasin
 The right to digital literacy recognises that in an increasingly digital world, basic computer and internet skills are as essential as traditional literacy and numeracy. Everyone should have access to education and training that enables them to participate fully in digital society.
 
 <div align="right"><sub>126</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -87,6 +87,7 @@ The right to fair classification ensures that workers are properly categorised b
 The right to algorithmic management transparency gives workers the right to understand how algorithmic systems are used to manage their work, including how tasks are assigned, performance is evaluated, and pay is calculated. Workers should also have the right to challenge algorithmic decisions that affect their employment.
 
 <div align="right"><sub>127</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -105,6 +106,7 @@ Implementing intergenerational rights requires new institutional mechanisms that
 In an interconnected world, human rights violations anywhere can have consequences everywhere. The COVID-19 pandemic demonstrated how health crises cross borders, while climate change shows how environmental problems require global solutions. This suggests the need for stronger global rights frameworks and institutions.
 
 <div align="right"><sub>128</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -125,6 +127,7 @@ The right to remain unenhanced protects those who choose not to use enhancement 
 **Conclusion: Rights as Living Principles**
 
 <div align="right"><sub>129</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -137,3 +140,10 @@ Similarly, the right to equality must be understood to encompass not just formal
 The challenge for liberals in the modern age is to maintain core commitments to human dignity while adapting rights frameworks to address new realities. This requires both principled thinking about fundamental values and pragmatic engagement with the specific challenges posed by new technologies and social arrangements.
 
 Ultimately, rights in the modern age must serve the same fundamental purpose they have always served – protecting human dignity and enabling human flourishing. The specific content of rights may evolve, but their underlying purpose remains constant: to ensure that all people can live lives of dignity, freedom, and opportunity, regardless of the challenges and changes that the future may bring.
+
+<div align="right"><sub>130</sub></div>
+<div style="page-break-after: always;"></div>
+
+---
+
+

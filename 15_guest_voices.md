@@ -1,7 +1,3 @@
-<div align="right"><sub>137</sub></div>
-
----
-
 # Chapter 15
 
 "Guest Voices: A Conversation on the Future of Liberalism"
@@ -23,6 +19,7 @@ One of the most exciting things about liberalism is that it is not a fixed ideol
 **Social Liberalism: The Power of Community**
 
 <div align="right"><sub>138</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -39,6 +36,7 @@ This approach has led to policies that champion entrepreneurship, that promote f
 **Political Liberalism: The Power of Democracy**
 
 <div align="right"><sub>139</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -55,6 +53,7 @@ For some, liberalism is about breaking down the barriers that have held them bac
 All of these are valid and important expressions of the liberal spirit. The beauty of liberalism is that it is a broad and inclusive tradition that can accommodate a wide range of different priorities and perspectives. It is a conversation, not a monologue, and it is a conversation that is enriched by every new voice that joins it.
 
 <div align="right"><sub>140</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -75,6 +74,7 @@ The liberal tradition has been shaped by many remarkable individuals who have br
 William Gladstone, four times Prime Minister in the 19th century, brought to liberalism a profound moral vision and a passionate commitment to justice. For Gladstone, politics was not just about pragmatic reforms; it was about moral principles and the duty to stand up for what is right. His campaigns against slavery, against imperialism, and for Irish Home Rule were all driven by a deep sense of moral purpose.
 
 <div align="right"><sub>141</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -91,6 +91,7 @@ Lloyd George's liberalism reminds us that liberalism is not just about abstract 
 William Beveridge, whose 1942 report laid the foundations for the post-war welfare state, brought to liberalism a vision of a society where everyone is protected from the "five giants" of Want, Disease, Ignorance, Squalor, and Idleness. His plan for a comprehensive system of social security, healthcare, education, housing, and employment was a bold and ambitious vision of a better future.
 
 <div align="right"><sub>142</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -111,6 +112,7 @@ This green liberalism is not about doom and gloom; it is about hope and opportun
 Other contemporary liberals are bringing a digital perspective to the liberal conversation. They recognize that the digital revolution is transforming every aspect of our society, from how we work to how we communicate, from how we learn to how we participate in democracy. They see this as both a challenge and an opportunity for liberalism.
 
 <div align="right"><sub>143</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -131,6 +133,7 @@ The liberal conversation is not just for politicians or academics; it is for eve
 One of the most direct ways to join the liberal conversation is to become a member of a liberal party or organization. In the UK, the Liberal Democrats are the standard-bearers of the liberal tradition, but there are liberal voices in other parties as well. By joining a party, you can participate in policy discussions, attend conferences, and help to shape the future direction of liberalism.
 
 <div align="right"><sub>144</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -147,3 +150,9 @@ Perhaps the most important way to join the liberal conversation is to live liber
 The liberal conversation is not a destination; it is a journey. It is a journey that has been going on for centuries and that will continue long into the future. It is a journey that has been enriched by the contributions of countless individuals, each bringing their unique perspective and experience to the great questions of their time.
 
 As we look to the future, let us embrace the diversity of our liberal family. Let us celebrate the different voices, the different perspectives, and the different approaches that make liberalism such a rich and vibrant tradition. And let us continue the conversation, knowing that it is through this ongoing dialogue that we will find the answers to the challenges of our time and build a future that is more free, more just, and more prosperous for all.
+
+<div align="right"><sub>145</sub></div>
+<div style="page-break-after: always;"></div>
+
+---
+

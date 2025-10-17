@@ -1,7 +1,3 @@
-<div align="right"><sub>114</sub></div>
-
----
-
 # Chapter 12
 
 *From Natural Rights to Universal Human Rights*
@@ -17,6 +13,7 @@ The challenge for contemporary liberalism is to defend and extend this rights fr
 The modern conception of human rights emerged from centuries of struggle against oppression and injustice. The Enlightenment philosophers, building on earlier traditions of natural law, argued that certain rights were inherent to human nature and could not legitimately be violated by any government. These natural rights – typically understood as life, liberty, and property – formed the foundation for the great democratic revolutions of the 18th century and the constitutional frameworks that emerged from them.
 
 <div align="right"><sub>115</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -33,6 +30,7 @@ Yet even these seemingly basic rights face new challenges in the modern world. T
 The liberal approach to these challenges is to maintain strong protections for fundamental rights while adapting their application to new circumstances. This means robust legal frameworks that protect privacy in the digital age, clear limits on government surveillance powers, and transparent processes for content moderation that respect both free expression and the need to prevent genuine harm.
 
 <div align="right"><sub>116</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -47,6 +45,7 @@ The liberal position is that economic and social rights are genuine human rights
 **The Right to Healthcare**
 
 <div align="right"><sub>117</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -63,6 +62,7 @@ Housing is another area where the gap between formal rights and lived reality is
 The liberal approach to housing rights emphasises both the individual right to adequate shelter and the collective responsibility to ensure that housing markets work for everyone, not just the wealthy. This requires active government intervention to increase housing supply, regulate housing quality, and provide support for those who cannot afford market-rate housing.
 
 <div align="right"><sub>118</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -81,6 +81,7 @@ However, reproductive rights also raise complex questions about the rights of ot
 The struggle for LGBTQ+ rights represents one of the great human rights advances of recent decades, demonstrating how the concept of human dignity can expand to encompass previously marginalised groups. The recognition that sexual orientation and gender identity are fundamental aspects of human identity that deserve protection from discrimination and persecution has transformed legal and social attitudes in many countries.
 
 <div align="right"><sub>119</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -99,6 +100,7 @@ Digital privacy rights face particular challenges from both government surveilla
 **The Right to a Healthy Environment**
 
 <div align="right"><sub>120</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -117,6 +119,7 @@ The liberal approach to balancing rights emphasises proportionality, necessity, 
 This balancing act also requires recognition that rights come with responsibilities. The right to free speech carries the responsibility to use that freedom thoughtfully and with consideration for others. The right to vote carries the responsibility to participate in democratic processes in an informed and engaged manner. The right to a healthy environment carries the responsibility to live sustainably and consider the impact of one's actions on others and future generations.
 
 <div align="right"><sub>121</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -129,3 +132,10 @@ It also requires recognition that rights are not self-executing – they must be
 The liberal vision of rights is both ambitious and practical. It recognises that human dignity requires not just formal equality before the law, but substantive equality of opportunity and access to the resources necessary for human flourishing. It acknowledges that rights must evolve to address new challenges and circumstances, while maintaining core commitments to human dignity, equality, and freedom.
 
 Your rights are not abstract legal concepts – they are the foundation of your ability to live a free and dignified life. The choices you can make, the opportunities available to you, and the protections you enjoy all depend on the strength and scope of the rights framework that society provides. The question is not whether we can afford to protect and extend human rights, but whether we can afford not to. In a world where authoritarianism is on the rise and inequality is growing, the defence of human rights is not just a moral imperative – it is essential for the survival of free and democratic society.
+
+<div align="right"><sub>122</sub></div>
+<div style="page-break-after: always;"></div>
+
+---
+
+

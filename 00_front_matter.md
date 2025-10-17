@@ -1,13 +1,4 @@
----
-\pagenumbering{roman} % Start roman numbering for front matter
-\setcounter{page}{1} % Set to page i
-\thispagestyle{plain} % Ensure page numbers are visible on these pages
-
-## Dedication (to be added)
-
----
-
-## Table of Contents Summary
+## Table of Contents
 
 **Front Matter**
 - Dedication
@@ -118,3 +109,6 @@ This book would not have been possible without the contributions of many people 
 The author is particularly grateful to the Liberal Democrat party members and supporters who provided insights and feedback during the writing process, and to the many scholars and practitioners whose work is cited throughout these pages.
 
 Any errors or omissions remain the author's responsibility alone.
+
+<div align="right"><sub>i</sub></div>
+<div style="page-break-after: always;"></div>

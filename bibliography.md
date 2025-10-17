@@ -1,7 +1,3 @@
-<div align="right"><sub>178</sub></div>
-
----
-
 # Bibliography
 
 ## Primary Sources
@@ -25,6 +21,7 @@
 **Rawls, John.** *Political Liberalism.* New York: Columbia University Press, 1993.
 
 <div align="right"><sub>179</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -55,6 +52,7 @@
 **Rorty, Richard.** *Contingency, Irony, and Solidarity.* Cambridge: Cambridge University Press, 1989.
 
 <div align="right"><sub>180</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -85,6 +83,7 @@
 **Klein, Naomi.** *This Changes Everything: Capitalism vs. The Climate.* New York: Simon & Schuster, 2014.
 
 <div align="right"><sub>181</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -113,6 +112,7 @@
 **Wilkinson, Richard, and Kate Pickett.** *The Spirit Level: Why Equality is Better for Everyone.* London: Penguin, 2009.
 
 <div align="right"><sub>182</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -143,6 +143,7 @@
 **Shipman, Tim.** *All Out War: The Full Story of How Brexit Sank Britain's Political Class.* London: William Collins, 2016.
 
 <div align="right"><sub>183</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -175,6 +176,7 @@
 **Marmot, Michael, et al.** *Fair Society, Healthy Lives: The Marmot Review.* London: UCL Institute of Health Equity, 2010.
 
 <div align="right"><sub>184</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -212,6 +214,7 @@
 **Institute for Public Policy Research (IPPR).** https://www.ippr.org
 
 <div align="right"><sub>185</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -230,3 +233,5 @@ Many of the ideas presented in this book build upon centuries of liberal thought
 ---
 
 *For additional references and updated resources, visit: https://github.com/stephencummins/lemon_book*
+
+<div style="page-break-after: always;"></div>

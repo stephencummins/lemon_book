@@ -1,7 +1,3 @@
-<div align="right"><sub>108</sub></div>
-
----
-
 # Chapter 11
 
 *From Elite Privilege to Algorithmic Indoctrination*
@@ -19,6 +15,7 @@ Britain's education system reflects and reinforces the broader inequalities in o
 This inequality begins early and compounds throughout a child's educational journey. By age five, children from the poorest families are already behind their peers in language development and school readiness. The pandemic has widened these gaps further, as children from better-off families had access to technology, quiet study spaces, and parental support that enabled them to continue learning during lockdowns, while their disadvantaged peers fell further behind.
 
 <div align="right"><sub>109</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -35,6 +32,7 @@ The solution is not to lower standards, but to ensure that all young people have
 **The Digital Transformation of Learning**
 
 <div align="right"><sub>110</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -53,6 +51,7 @@ Students and parents have a right to understand how algorithmic systems are bein
 In an era of information overload and deliberate misinformation, the ability to think critically has never been more important. Yet our education system often emphasises memorisation and test performance over the development of analytical skills and independent judgment. Students learn to reproduce information rather than to question it, to follow instructions rather than to think for themselves.
 
 <div align="right"><sub>111</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -73,6 +72,7 @@ A liberal government would invest heavily in lifelong learning, recognising it a
 **Special Educational Needs and Inclusion**
 
 <div align="right"><sub>112</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -93,6 +93,7 @@ Teachers are the heart of any education system, yet they are often undervalued, 
 This means not just better pay and working conditions for teachers, but also greater professional autonomy and respect for their expertise. Teachers should be trusted to use their professional judgment about how best to help their students learn, rather than being micromanaged by bureaucrats or constrained by rigid testing regimes.
 
 <div align="right"><sub>113</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -109,3 +110,9 @@ Ultimately, the liberal vision of education is about liberation – liberating h
 This vision requires us to see education not as a cost to be minimised, but as an investment in human potential that pays dividends for generations. It requires us to move beyond narrow measures of success to embrace a broader understanding of what it means to be educated in the 21st century.
 
 The right to education is not just about access to schools and universities – it is about the right to develop one's full potential as a human being. In a truly liberal society, this right would be guaranteed to all, regardless of background, ability, or circumstances. The question is not whether we can afford to provide such an education system, but whether we can afford not to.
+
+<div align="right"><sub>114</sub></div>
+<div style="page-break-after: always;"></div>
+
+---
+

@@ -1,7 +1,3 @@
-<div align="right"><sub>145</sub></div>
-
----
-
 # Chapter 16
 
 "The Power of Words: Reclaiming the Language of Liberalism and Hope"
@@ -19,6 +15,7 @@ For liberals, language has always been a source of hope and of inspiration. The 
 In recent years, this inspiring language has sometimes been lost in the noise and the negativity of our political debate. But this is not a cause for despair; it is an opportunity for renewal. We have an incredible opportunity to reclaim the language of liberalism, to fill it with new meaning and new energy, and to use it to build a more hopeful and more inspiring political conversation. This chapter is a celebration of that opportunity. It is about the power of words to change the world, and about the exciting adventure of reclaiming the language of liberalism and of hope.
 
 <div align="right"><sub>146</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -39,6 +36,7 @@ For liberals, choice is not just about consumer sovereignty; it is about the pow
 For liberals, reform is not about dismantling our public services; it is about making them better. It is about constantly seeking new and innovative ways to meet the needs of our society, to improve the quality of our public services, and to ensure that they are delivering the best possible outcomes for everyone. This is a vision of reform that is about progress, not about cuts.
 
 <div align="right"><sub>147</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -53,6 +51,7 @@ Politics is not just about policies; it is about stories. The most successful po
 This means:
 
 <div align="right"><sub>148</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -67,6 +66,7 @@ A healthy democracy needs a healthy public square, a place where people from all
 This means:
 
 <div align="right"><sub>149</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -81,6 +81,7 @@ Language is a gift. It is a gift that allows us to share our hopes, our dreams, 
 Let us reclaim this gift. Let us fill the language of liberalism with new energy, new meaning, and new hope. Let us use it to tell a story of a brighter future, a future of opportunity, of community, and of a shared sense of purpose.
 
 <div align="right"><sub>150</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -101,6 +102,7 @@ This liberal patriotism is inclusive rather than exclusive. It welcomes newcomer
 By reclaiming patriotism in this way, liberals can challenge the idea that love of country is the exclusive preserve of the right. We can show that it is possible to be both patriotic and progressive, to love our country while also wanting to make it better.
 
 <div align="right"><sub>151</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -119,6 +121,7 @@ By reclaiming security in this way, liberals can challenge the politics of fear 
 The concept of family has often been narrowly defined in our political discourse, with the traditional nuclear family held up as the ideal. This narrow definition can exclude many people and many types of families.
 
 <div align="right"><sub>152</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -139,6 +142,7 @@ The concept of digital citizenship is about how we behave and interact in online
 This could involve supporting initiatives that promote digital literacy and critical thinking, so that people are better equipped to navigate the online world. It could involve working with social media platforms to develop better algorithms and better content moderation systems that promote quality discourse rather than outrage and division. And it could involve creating new online platforms that are specifically designed to facilitate constructive dialogue across political divides.
 
 <div align="right"><sub>153</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -157,6 +161,7 @@ A liberal approach to digital democracy would focus on using these tools to crea
 ## Conclusion: The Words to Build a Better World
 
 <div align="right"><sub>154</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -167,3 +172,9 @@ This is not just about changing the words we use; it is about changing the way w
 So let us embrace the power of words. Let us tell a story of hope, of progress, and of a bright and exciting future. Let us use the language of liberalism to build a better world. As the great liberal philosopher John Stuart Mill once said, "One person with a belief is equal to a force of ninety-nine who have only interests." With the right words, with the right story, and with the right vision, we can be that force for good in the world.
 
 And remember, as the Monty Python team might say, "Nobody expects the Liberal Inspiration!" Let's surprise the world with our optimism, our creativity, and our unwavering belief in the power of words to change the world for the better.
+
+<div align="right"><sub>155</sub></div>
+<div style="page-break-after: always;"></div>
+
+---
+

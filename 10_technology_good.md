@@ -1,7 +1,3 @@
-<div align="right"><sub>92</sub></div>
-
----
-
 # Chapter 10
 
 *Digital rights and opportunities in the modern age*
@@ -22,11 +18,12 @@ A liberal approach to technology policy must be grounded in fundamental principl
 - **Digital Equality**: Everyone should have access to the benefits of digital technology, regardless of income, location, or technical expertise
 - **Innovation with Responsibility**: Technological progress must be balanced with protection of human rights and social cohesion
 
-**Balancing Privacy with Protecting Children Online**
-
 <div align="right"><sub>93</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
+
+**Balancing Privacy with Protecting Children Online**
 
 One of the most challenging issues in digital policy is how to protect children from online harm while preserving privacy rights and avoiding censorship. This requires careful distinction between legitimate platform responsibility and dangerous government overreach.
 
@@ -60,6 +57,7 @@ Children deserve special protection online, but this protection must be built in
 - **Education and Digital Literacy**: Children should be taught how to navigate the digital world safely and critically
 
 <div align="right"><sub>94</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -93,6 +91,7 @@ A liberal government would enshrine strong privacy rights in law:
 Social media platforms and search engines have become the new public square, yet they operate according to opaque algorithms designed to maximise engagement rather than promote democratic discourse. A liberal approach would:
 
 <div align="right"><sub>95</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -122,6 +121,7 @@ The digital world is not separate from the physical world – it's an extension 
 **The Future of Work in the Digital Age**
 
 <div align="right"><sub>96</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -151,6 +151,7 @@ The liberal approach to technology regulation is not anti-innovation – it's pr
 - **Competition Policy**: Preventing tech monopolies from stifling innovation and consumer choice
 
 <div align="right"><sub>97</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -173,6 +174,7 @@ A liberal approach to AI governance must be grounded in fundamental principles:
 **Bias Prevention and Fairness**: AI systems must be designed and tested to prevent discrimination based on race, gender, age, disability, or other protected characteristics. This requires diverse development teams and rigorous testing.
 
 <div align="right"><sub>98</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -195,6 +197,7 @@ A liberal approach to AI governance must be grounded in fundamental principles:
 **The Platform Economy and Market Power**
 
 <div align="right"><sub>99</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -223,6 +226,7 @@ This concentration of power creates multiple problems:
 **Data Portability and Interoperability**: Allowing users to move their data between platforms and requiring platforms to work together, reducing lock-in effects and enabling competition. If you can take your social network with you when you switch platforms, monopoly power is reduced.
 
 <div align="right"><sub>100</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -249,6 +253,7 @@ The challenge for liberal democracies is building cybersecurity without becoming
 **Public-Private Partnership**: Collaborating with private sector to share threat intelligence and coordinate responses, while maintaining democratic oversight. Most critical infrastructure is privately owned, so government and business must work together.
 
 <div align="right"><sub>101</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -275,6 +280,7 @@ This creates opportunities for flexibility and entrepreneurship, but also challe
 **Portable Benefits**: Ensuring gig workers have access to healthcare, pensions, and other benefits regardless of employment status. This could include universal basic services or portable benefit accounts that workers can take with them between jobs.
 
 <div align="right"><sub>102</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -299,6 +305,7 @@ During the COVID-19 pandemic, digital tools enabled democratic processes to cont
 Yet digital technology also poses serious risks to democratic governance. Social media algorithms can create echo chambers and political polarisation. Disinformation can spread faster than truth. Foreign governments can interfere in elections through social media manipulation. Surveillance technology can be used to monitor and suppress political dissent.
 
 <div align="right"><sub>103</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -331,6 +338,7 @@ Yet global technology governance is complicated by different values and interest
 **Democratic Technology Alliance**: Coordinating with other democracies on technology regulation and standards. This could include common approaches to AI governance, platform regulation, and cybersecurity.
 
 <div align="right"><sub>104</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -365,6 +373,7 @@ While regulating technology's harms, liberal policy must also support beneficial
 **Impact Assessment**: Requiring assessment of social and environmental impacts of new technologies, similar to environmental impact assessments for major projects.
 
 <div align="right"><sub>105</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -395,6 +404,7 @@ Yet technology can also support mental health. Therapy apps can provide accessib
 **Research and Monitoring**: Investment in research on technology's mental health impacts and monitoring of trends, particularly among young people.
 
 <div align="right"><sub>106</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -423,6 +433,7 @@ The liberal vision for technology is neither utopian nor dystopian, but pragmati
 The current trajectory, where a handful of tech billionaires and authoritarian governments shape technology's development with minimal democratic input, is neither inevitable nor acceptable. Liberal democracies can and must assert democratic control over technology, ensuring it serves human flourishing rather than narrow interests.
 
 <div align="right"><sub>107</sub></div>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -437,3 +448,9 @@ But achieving this vision requires more than good intentions. It requires politi
 The choice is ours. We can continue to let technology develop according to the narrow interests of tech companies and authoritarian governments, or we can assert democratic control and ensure technology serves the common good. The liberal path is clear – the question is whether we have the wisdom and courage to take it.
 
 The digital future is being written now, in the code of algorithms and the text of legislation. We can choose to write a future that reflects liberal values of freedom, equality, and human dignity – or we can allow others to write it for us. The stakes could not be higher, and the time for action is now.
+
+<div align="right"><sub>108</sub></div>
+<div style="page-break-after: always;"></div>
+
+---
+
