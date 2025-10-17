@@ -100,5 +100,5 @@ A healthy democracy is not just about government; it is about the rich ecosystem
 
 The fight for democratic reform is the great liberal cause of our time. It is not a distraction from the pressing economic and social challenges we face, but the essential precondition for addressing them. A political system that is fair, representative, and accountable is a system that is capable of building a more just and prosperous society. By deconcentrating power, democratising our institutions, and rebuilding the foundations of a pluralistic public square, we can create a democracy that is not only worthy of the name, but also strong enough to defeat the forces of authoritarianism. This is the task before us, and it is a task we must not fail.
 
-
+<div align="right"><sub>64</sub></div>
 <div style="page-break-after: always;"></div>
