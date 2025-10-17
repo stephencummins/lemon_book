@@ -1,0 +1,58 @@
+---
+# Book Metadata for Pandoc
+
+# Main Title and Author (for Pandoc's auto-generated title page)
+title: "The Lemon Book"
+subtitle: "Refreshing Liberalism for the 21st Century"
+author: "Stephen Cummins"
+date: "2024" # Or current year
+lang: "en-GB"
+
+# --- Pandoc Configuration ---
+template: custom-template.latex
+toc: true
+toc-depth: 2
+# PDF Engine and Document Class
+pdf-engine: xelatex
+documentclass: book
+fontsize: 11pt
+geometry: margin=1in
+
+# Fonts (as specified in build_book.sh)
+mainfont: Georgia
+sansfont: Helvetica
+monofont: Menlo
+
+# Highlight style for code blocks (if any)
+highlight-style: zenburn
+
+# Resource path for images
+resource-path:
+  - .
+  - images
+
+# Custom LaTeX for copyright page (inserted after title page)
+header-includes:
+  - |
+    \newpage
+    \thispagestyle{empty} % No page number on copyright page
+    \vspace*{\fill} % Push content to bottom
+    \begin{center}
+    \textbf{\Large The Lemon Book: Refreshing Liberalism}
+    \par\vspace{0.5cm}
+    \textit{By Stephen Cummins}
+    \par\vspace{1cm}
+    Copyright \textcopyright\ 2024 Stephen Cummins. All rights reserved.
+    \par\vspace{0.2cm}
+    Published with Manus AI.
+    \par\vspace{0.2cm}
+    This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+    \par\vspace{0.2cm}
+    ISBN: [To be assigned]
+    \par\vspace{0.2cm}
+    Printed and bound in the United Kingdom.
+    \end{center}
+    \vspace*{\fill} % Push content to bottom
+    \newpage
+
+...

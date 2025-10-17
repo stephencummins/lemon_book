@@ -6,7 +6,7 @@
 
 *Liberalism in the Face of Techno-Fascism and Inverted Totalitarianism*
 
-![Tomorrow's Tyranny](images/14_authoritarianism.png))
+![Tomorrow's Tyranny](images/14_authoritarianism.png)
 
 The tyranny of tomorrow will not announce itself with jackboots and rallies. It will arrive quietly, wrapped in the language of efficiency, security, and convenience. It will promise to make our lives easier, our decisions smarter, and our society safer. It will use our own data against us, our own devices to monitor us, and our own democratic institutions to legitimise its power. The greatest threat to liberal democracy in the 21st century is not the crude authoritarianism of the past, but a sophisticated form of techno-fascism that uses the tools of the digital age to create new forms of control and manipulation.
 

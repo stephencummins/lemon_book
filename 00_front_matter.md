@@ -1,15 +1,16 @@
-<div align="right"><sub>i</sub></div>
+---
+\pagenumbering{roman} % Start roman numbering for front matter
+\setcounter{page}{1} % Set to page i
+\thispagestyle{plain} % Ensure page numbers are visible on these pages
+
+## Dedication (to be added)
 
 ---
 
-# The Lemon Book: Refreshing Liberalism
-
-
----
-
-## Table of Contents
+## Table of Contents Summary
 
 **Front Matter**
+- Dedication
 - About the Author
 - Acknowledgements
 
@@ -83,8 +84,6 @@
 **Chapter 16: "The Co-option of Liberal Language"**
 *How Liberal Concepts Have Been Twisted and Corrupted*
 
-<div align="right"><sub>ii</sub></div>
-
 ---
 
 **Chapter 17: "Reclaiming Authentic Liberalism"**
@@ -104,7 +103,7 @@
 
 ## About the Author
 
-![Author Portrait](uploIMG_0336.png)
+![Author Portrait](images/uploIMG_0336.png)
 
 The author is a passionate advocate for liberal democracy and evidence-based policy. With a background spanning politics, policy analysis, and public service, they bring both theoretical knowledge and practical experience to the challenges facing modern liberalism.
 
@@ -119,7 +118,3 @@ This book would not have been possible without the contributions of many people 
 The author is particularly grateful to the Liberal Democrat party members and supporters who provided insights and feedback during the writing process, and to the many scholars and practitioners whose work is cited throughout these pages.
 
 Any errors or omissions remain the author's responsibility alone.
-
----
-
-*Published with Manus AI*

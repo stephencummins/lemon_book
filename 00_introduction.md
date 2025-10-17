@@ -1,10 +1,8 @@
-<div align="right"><sub>iii</sub></div>
-
 ---
 
 # Introduction: Why Britain Needs Liberal Answers
 
-![Liberal Britain - Time to Squeeze!])
+![Liberal Britain - Time to Squeeze!](images/00_lemonade_stand.png)
 
 They say when life gives you lemons, make lemonade. Well, life has certainly given British politics plenty of lemons lately: Brexit chaos, economic uncertainty, democratic dysfunction, and a political system that seems increasingly stale and unresponsive to the challenges of the 21st century. The familiar rhythm of Labour versus Conservative, a dance that has largely dictated the nation's political landscape for generations, increasingly feels like a trap—a binary choice that stifles nuanced debate and limits the scope of potential solutions to complex modern challenges.
 
@@ -13,8 +11,6 @@ So here I am, setting up my lemonade stand. Not the kind that sells sugary drink
 The choice of "lemon" as a title is deliberate and multi-layered. Lemons are fresh, zesty, and invigorating—exactly what British politics needs. They're also sharp enough to cut through the bland, processed political offerings we've become accustomed to. In the citrus family of political books, this follows in the tradition of "The Orange Book: Reclaiming Liberalism" (2004), but where that influential collection focused primarily on economic liberalism for its era, The Lemon Book seeks to refresh and broaden the liberal agenda for our very different times.
 
 There's also an honesty in the lemon metaphor that appeals to me. In British slang, a "lemon" can mean something defective or unsatisfactory—and much of contemporary liberalism has indeed become exactly that. Co-opted by corporate interests, hollowed out by technocratic managerialism, and corrupted by those who use liberal language to justify illiberal ends, modern liberalism often feels like a lemon in the worst sense. But here's the thing about lemons: even when they're sour, they contain the essential ingredients for something refreshing. You just need to know how to extract the good stuff.
-
-<div align="right"><sub>iv</sub></div>
 
 ---
 

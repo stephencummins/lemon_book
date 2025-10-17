@@ -1,6 +1,8 @@
-<div align="right"><sub>1 </sub></div>
+\pagenumbering{arabic} % Start arabic numbering for main content
+\setcounter{page}{1} % Set to page 1
 
 ---
+\thispagestyle{plain} % Ensure page numbers are visible
 
 # Chapter 1
 
@@ -16,8 +18,6 @@ Look at the Royal Coat of Arms, especially in our courtrooms. Written in French,
 
 To understand Thomas Hobbes, you have to imagine a world turned upside down. He lived through the English Civil War (1642-1651), a period of brutal conflict, political chaos, and the execution of a king (Charles I). This experience profoundly shaped his political philosophy, leading him to prioritise order and stability above all else. For Hobbes, the ultimate terror was not tyranny, but the anarchy of a "state of nature," where life is "solitary, poor, nasty, brutish, and short." The central tension in his work is the stark choice he presents: absolute, undivided power, or a descent into a war of all against all. It's a grim choice, but one that he believed was unavoidable. So we can see that both men were reacting to negative events which, ultimately, led to a stronger democracy. The long-term effects of the Glorious Revolution on modern democratic systems are profound. It established a framework for constitutional monarchy that emphasised the rule of law and individual rights over absolute authority and the "Divine Right Of Kings"
 
-<div align="right"><sub>2 </sub></div>
-
 ---
 
 Hobbes's most famous work, *Leviathan* (1651), is a powerful argument for the necessity of a strong, centralised government. He argued that to escape the horrors of the state of nature, individuals must enter into a **social contract**, surrendering some of their individual freedoms to a sovereign authority (a monarch or an assembly) in exchange for security and the rule of law. This sovereign, the "Leviathan," would have absolute power to enforce laws and prevent society from collapsing back into chaos. While this sounds profoundly illiberal, Hobbes's ideas contained several seeds that would later blossom in liberal thought:
@@ -27,8 +27,6 @@ Hobbes's most famous work, *Leviathan* (1651), is a powerful argument for the ne
 - **Social Contract Theory:** The idea that government derives its legitimacy from an agreement among individuals, rather than from divine right or tradition, was revolutionary. While Hobbes used this concept to justify absolute power, later thinkers like Locke would use it to argue for limited government and individual rights.
 
 - **Materialism and Rationalism:** Hobbes's materialist philosophy and his emphasis on reason as a tool for understanding the world challenged traditional religious and aristocratic authority. This rational approach to politics would become central to Enlightenment thinking.
-
-<div align="right"><sub>3 </sub></div>
 
 ---
 
@@ -41,8 +39,6 @@ The tension in Hobbes's work is that while he provided intellectual tools that w
 John Locke (1632-1704) emerged from a different crucible than Hobbes, though one equally fraught with political tension. He lived through the tumultuous period of the English Civil War, the Interregnum (when England was a republic), and the Glorious Revolution of 1688. Unlike Hobbes, who sought to justify absolute power to prevent chaos, Locke aimed to justify resistance to tyrannical rule and establish a framework for legitimate, limited government. His ideas were a direct challenge to the prevailing doctrines of divine right monarchy and the consolidation of power in the hands of a few.
 
 Locke’s seminal work, *Two Treatises of Government* (published anonymously in 1689, though written earlier), served as a powerful intellectual defence of the Glorious Revolution, which saw the deposition of James II and the establishment of a constitutional monarchy. This was a pivotal moment where the power of the monarch was explicitly limited by Parliament, a direct embodiment of Locke’s emerging liberal ideals. The tension here was palpable: the entrenched power of the monarchy, claiming authority from God, clashed violently with the burgeoning belief in individual rights and popular sovereignty.
-
-<div align="right"><sub>4 </sub></div>
 
 ---
 
@@ -58,8 +54,6 @@ Key contributions from Locke, often seen as the father of classical liberalism, 
 
 - **Empiricism:** As a founder of British empiricism, Locke argued that all knowledge is derived from sensory experience, rather than innate ideas. This epistemological stance influenced his political philosophy by emphasising the importance of experience and reason in understanding the world and forming political systems.
 
-<div align="right"><sub>5 </sub></div>
-
 ---
 
 Locke's work, particularly *Two Treatises of Government* (1689), laid much of the groundwork for modern liberal thought and significantly influenced the American Declaration of Independence and the development of constitutional democracies worldwide.
@@ -69,8 +63,6 @@ Locke's work, particularly *Two Treatises of Government* (1689), laid much of th
 David Hume (1711-1776), a towering figure of the Scottish Enlightenment, lived in a period of intellectual ferment and burgeoning commercial society. Unlike Locke, who directly engaged with the political upheavals of his time, Hume was more of an academic philosopher, historian, and essayist. However, his profound empiricism and scepticism towards abstract reasoning had significant, albeit indirect, implications for liberal thought. He was observing a society where traditional hierarchies were slowly giving way to new forms of economic and social organisation, driven by trade and individual enterprise. The tension in Hume's work often lies in his pragmatic acceptance of existing power structures and customs, while simultaneously providing intellectual tools that would undermine their absolute claims.
 
 Hume’s approach was to ground political and moral principles not in abstract natural rights or divine commands, but in human experience, utility, and custom. He was deeply suspicious of grand theories and revolutionary zeal, preferring gradual evolution and stability. Yet, his emphasis on the practical benefits of limited government, the rule of law, and a thriving commercial society provided a powerful, non-ideological argument for liberal institutions. He implicitly challenged the notion that power derived from anything other than its utility in maintaining a stable and prosperous society. If a government ceased to be useful, its legitimacy would naturally erode, not through a violent social contract breach, but through a gradual shift in public sentiment and practical inconvenience. He was, in essence, the ultimate pragmatist, arguing that if it ain't broke, don't fix it, but if it is, then a sensible, gradual adjustment is in order, rather than a full-scale philosophical revolution. He was the kind of philosopher who'd probably tut at a poorly constructed argument over a dram of whisky, rather than lead a charge to the barricades.
-
-<div align="right"><sub>6 </sub></div>
 
 ---
 
@@ -83,8 +75,6 @@ Key aspects of his influence include:
 - **Self-Interest and Social Order:** Hume explored how self-interest, when properly channeled, could contribute to social order and the common good. He argued that conventions and institutions, such as property rights and justice, arise from the recognition of mutual advantage, rather than from a formal social contract. This perspective influenced later liberal economic thought, particularly Adam Smith.
 
 - **Scepticism towards Abstract Principles:** Hume's scepticism extended to abstract political theories, including some aspects of social contract theory. He preferred to ground political arrangements in historical experience, custom, and the practical needs of society. This pragmatic approach, focusing on what actually works to maintain a stable and prosperous society, is a hallmark of classical liberalism.
-
-<div align="right"><sub>7 </sub></div>
 
 ---
 
@@ -100,8 +90,6 @@ Key aspects of Mill’s influence on liberalism include:
 
 - **The Harm Principle:** Articulated most famously in *On Liberty* (1859), the Harm Principle states that the only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others. His own good, either physical or moral, is not a sufficient warrant. This principle became a cornerstone of liberal thought, defining the boundaries of individual freedom and state intervention. [1, 3, 4].
 
-<div align="right"><sub>8 </sub></div>
-
 ---
 
 - **Freedom of Thought and Discussion:** Mill was a passionate defender of freedom of speech and expression, arguing that the suppression of opinion is always wrong. He believed that open debate, even of false ideas, is essential for the discovery of truth and the intellectual development of society. He contended that even if an opinion is wrong, its discussion forces others to re-examine and justify their own beliefs, preventing them from becoming dead dogma.
@@ -116,21 +104,15 @@ Key aspects of Mill’s influence on liberalism include:
 
 As the 20th century dawned, the confident stride of classical liberalism began to falter. The unfettered markets championed by Adam Smith, while generating immense wealth, also produced stark inequalities, urban squalor, and economic instability. The two World Wars shattered illusions of inevitable progress, and the Great Depression exposed the fragility of purely self-regulating economies. These seismic shifts demanded a new kind of liberalism, one that recognised the need for collective action and state intervention to safeguard individual freedom and promote social justice. It was a time when liberals realised that sometimes, even the most individualistic of knights needed a bit of communal armour to face the dragons of poverty, disease, and ignorance. And perhaps a very large, wooden rabbit.
 
-<div align="right"><sub>9 </sub></div>
-
 ---
 
 The intellectual response to these challenges coalesced into what became known as **modern liberalism** or **social liberalism**. A pivotal figure in this evolution was **John Maynard Keynes** (1883-1946), whose economic theories fundamentally reshaped the liberal understanding of the state’s role. Writing in the wake of the Great Depression, Keynes argued that free markets, left entirely to their own devices, could lead to prolonged periods of unemployment and underproduction. He advocated for **government intervention** through fiscal and monetary policies – such as public spending and interest rate adjustments – to manage the economy, stimulate demand, and ensure full employment. This was not a rejection of capitalism, but a pragmatic attempt to save it from its own excesses, ensuring its stability and preventing the social unrest that could lead to more radical alternatives. Keynesian economics became the foundation for the post-war consensus in many Western democracies, demonstrating that a liberal state could actively manage the economy for the benefit of all, without resorting to authoritarian control. It was, in essence, the liberal equivalent of giving the economy a good, sensible talking-to, rather than letting it run wild in the streets.
-
-<div align="right"><sub>10 </sub></div>
 
 ---
 
 The horrors of World War II further galvanised the commitment to social welfare. In Britain, this led to the groundbreaking **Beveridge Report** (1942), which laid the blueprint for the modern welfare state. William Beveridge identified five “Giant Evils” afflicting society: Want, Disease, Ignorance, Squalor, and Idleness. The report proposed a comprehensive system of social insurance, universal healthcare (the NHS), free education, and decent housing, all designed to provide a safety net “from the cradle to the grave.” This was a profoundly liberal vision, arguing that true individual freedom could only be realised when individuals were liberated from the crushing burdens of poverty and insecurity. The state, far from being a minimal night-watchman, was now seen as an enabler, actively creating the conditions for individuals to flourish. It’s a monumental undertaking, a bit like building a very large, very comfortable, and universally accessible sofa for the entire nation to recline upon.
 
 The **post-war consensus** saw both Labour and Conservative governments largely adhere to these Keynesian and Beveridgean principles, creating a mixed economy and an expansive welfare state. However, this consensus began to fray in the 1970s, challenged by economic stagnation and a growing critique from the **New Right**. Figures like Margaret Thatcher in the UK and Ronald Reagan in the US argued that the welfare state had become bloated and inefficient, stifling individual initiative and economic growth. They advocated for a return to more classical liberal principles: deregulation, privatisation, and reduced state spending. This period saw a significant ideological battle over the role and scope of the liberal state, demonstrating that liberalism itself is not a static doctrine but a dynamic conversation.
-
-<div align="right"><sub>11 </sub></div>
 
 ---
 
