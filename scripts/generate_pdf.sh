@@ -28,12 +28,14 @@ pandoc \
   15_guest_voices.md \
   16_cooption_language.md \
   17_reclaiming_liberalism.md \
-  18_liberal_lemonade.md \
+  18_Conclusion.md \
   book_index_with_pages.md \
   bibliography.md \
   colophon.md \
   -o "The_Lemon_Book.pdf" \
   --pdf-engine=xelatex \
+  --resource-path=.:images \
+  --dpi=300 \
   -V geometry:margin=1in \
   -V fontsize=11pt \
   -V documentclass=book \

@@ -34,7 +34,7 @@ CHAPTERS=(
   "15_guest_voices.md"
   "16_cooption_language.md"
   "17_reclaiming_liberalism.md"
-  "18_liberal_lemonade.md"
+  "18_Conclusion.md"
   "book_index_with_pages.md"
 )
 
@@ -42,10 +42,10 @@ echo "📚 Assembling markdown files..."
 
 pandoc "${CHAPTERS[@]}" \
   -o "$OUTPUT_PDF" \
-  --metadata-file metadata.yaml \
+  --metadata-file scripts/metadata.yaml \
   --from markdown+smart+raw_tex \
   --resource-path=.:images \
-  --template custom-template.latex \
+  --template scripts/custom-template.latex \
   --pdf-engine=xelatex
 
 echo "✅ Successfully created $OUTPUT_PDF"

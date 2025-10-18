@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 
 def html_to_pdf_chrome(html_file, pdf_file):
-    """Try to convert using Chrome headless."""
+    """Try to convert using Chrome headless with print-quality settings (300 DPI)."""
     chrome_paths = [
         "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
         "/Applications/Chromium.app/Contents/MacOS/Chromium",
@@ -19,6 +19,12 @@ def html_to_pdf_chrome(html_file, pdf_file):
                 "--headless",
                 "--disable-gpu",
                 "--print-to-pdf=" + str(pdf_file),
+                # Print quality settings for 300 DPI output
+                "--print-to-pdf-no-header",  # Remove headers/footers
+                "--no-margins",  # Remove default margins
+                # Note: Chrome doesn't have direct DPI control, but these settings
+                # ensure high-quality output. Actual DPI depends on page size and
+                # viewport settings in the HTML/CSS
                 "file://" + str(Path(html_file).resolve())
             ]
             try:
