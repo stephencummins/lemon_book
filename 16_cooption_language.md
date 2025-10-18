@@ -4,7 +4,7 @@
 
 *Celebrating the enduring power of liberal language and the exciting opportunities for building a more inspiring and hopeful political conversation*
 
-![The Power of Words](/images/16_words.png)
+![The Power of Words](images/16_words.png)
 
 ## Introduction: The Adventure of Language
 
@@ -18,19 +18,19 @@ In recent years, this inspiring language has sometimes been lost in the noise an
 
 The language of liberalism is a rich and diverse lexicon of hope. It is a collection of words and ideas that have the power to inspire, to empower, and to unite. By reclaiming these words and filling them with their true liberal meaning, we can begin to build a more positive and more hopeful political discourse.
 
-**Freedom: The Power to Flourish**
+## Freedom: The Power to Flourish
 
 For liberals, freedom is not just the absence of constraint; it is the presence of opportunity. It is the power to live a life of your own choosing, to pursue your dreams, and to fulfill your potential. This is a vision of freedom that is about empowerment, not just about non-interference. It is about creating a society where everyone has the resources and the opportunities they need to flourish.
 
-**Choice: The Power to Create**
+## Choice: The Power to Create
 
 For liberals, choice is not just about consumer sovereignty; it is about the power to create a life that is authentic, meaningful, and fulfilling. It is about having a real say in the decisions that affect your life, from your education and your healthcare to your work and your community. This is a vision of choice that is about empowerment, not just about consumption.
 
-**Reform: The Power to Improve**
+## Reform: The Power to Improve
 
 For liberals, reform is not about dismantling our public services; it is about making them better. It is about constantly seeking new and innovative ways to meet the needs of our society, to improve the quality of our public services, and to ensure that they are delivering the best possible outcomes for everyone. This is a vision of reform that is about progress, not about cuts.
 
-**Modernisation: The Power to Innovate**
+## Modernisation: The Power to Innovate
 
 For liberals, modernisation is not about a soulless pursuit of efficiency; it is about embracing the future with confidence and with hope. It is about harnessing the power of new ideas and new technologies to build a society that is more prosperous, more just, and more sustainable. This is a vision of modernisation that is about innovation, not about a race to the bottom.
 
@@ -66,7 +66,7 @@ This is the adventure of language, and it is an adventure that we can all be a p
 
 The power of language is not just theoretical; it is practical and transformative. By reclaiming key words and concepts, liberals can reshape the political conversation and build a more hopeful and inspiring politics. Here are some examples of how we can put the liberal language into action:
 
-**Reclaiming "Patriotism": Love of Country as a Force for Good**
+## Reclaiming "Patriotism": Love of Country as a Force for Good
 
 For too long, patriotism has been defined as a narrow and exclusive love of country that is suspicious of outsiders and resistant to change. But there is another, more liberal understanding of patriotism—one that sees love of country as a force for good in the world.
 
@@ -76,7 +76,7 @@ This liberal patriotism is inclusive rather than exclusive. It welcomes newcomer
 
 By reclaiming patriotism in this way, liberals can challenge the idea that love of country is the exclusive preserve of the right. We can show that it is possible to be both patriotic and progressive, to love our country while also wanting to make it better.
 
-**Reclaiming "Security": Beyond Fear to Flourishing**
+## Reclaiming "Security": Beyond Fear to Flourishing
 
 Security is another concept that has been narrowly defined in our political discourse. Too often, it is reduced to protection from external threats, whether from terrorism, crime, or immigration. This narrow definition plays into a politics of fear and division.
 
@@ -86,7 +86,7 @@ This broader understanding of security is not about building walls or creating a
 
 By reclaiming security in this way, liberals can challenge the politics of fear and offer a more hopeful and inclusive vision of a secure society.
 
-**Reclaiming "Family": Beyond the Nuclear to the Diverse**
+## Reclaiming "Family": Beyond the Nuclear to the Diverse
 
 The concept of family has often been narrowly defined in our political discourse, with the traditional nuclear family held up as the ideal. This narrow definition can exclude many people and many types of families.
 
@@ -100,19 +100,19 @@ By reclaiming family in this way, liberals can challenge the idea that they are 
 
 The digital revolution has created new spaces for political conversation, from social media to online forums, from blogs to podcasts. These new spaces present both challenges and opportunities for liberal language. On the one hand, they can amplify division and polarization. On the other hand, they offer exciting new possibilities for reaching people with a message of hope and optimism.
 
-**Digital Citizenship: Building a Better Online Public Square**
+## Digital Citizenship: Building a Better Online Public Square
 
 The concept of digital citizenship is about how we behave and interact in online spaces. A liberal approach to digital citizenship would emphasize the values of respect, of openness, and of a willingness to engage with different perspectives. It would seek to create online spaces that are more conducive to genuine conversation and less prone to polarization and toxicity.
 
 This could involve supporting initiatives that promote digital literacy and critical thinking, so that people are better equipped to navigate the online world. It could involve working with social media platforms to develop better algorithms and better content moderation systems that promote quality discourse rather than outrage and division. And it could involve creating new online platforms that are specifically designed to facilitate constructive dialogue across political divides.
 
-**Digital Storytelling: New Ways to Share the Liberal Vision**
+## Digital Storytelling: New Ways to Share the Liberal Vision
 
 The digital world offers exciting new possibilities for storytelling. From videos to podcasts, from interactive websites to social media campaigns, there are countless ways to share the liberal vision with a wider audience.
 
 A liberal approach to digital storytelling would focus on creating content that is authentic, engaging, and hopeful. It would use the power of personal stories to connect with people on an emotional level. It would harness the creativity and the energy of digital culture to create content that resonates with younger audiences. And it would use data visualization and interactive tools to help people understand complex issues in a more accessible way.
 
-**Digital Democracy: New Ways to Participate**
+## Digital Democracy: New Ways to Participate
 
 The digital world also offers exciting new possibilities for democratic participation. From online consultations to digital town halls, from e-petitions to participatory budgeting, there are countless ways to use digital tools to involve more people in the democratic process.
 
@@ -128,3 +128,4 @@ So let us embrace the power of words. Let us tell a story of hope, of progress, 
 
 And remember, as the Monty Python team might say, "Nobody expects the Liberal Inspiration!" Let's surprise the world with our optimism, our creativity, and our unwavering belief in the power of words to change the world for the better.
 
+---

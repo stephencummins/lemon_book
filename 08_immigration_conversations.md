@@ -121,3 +121,4 @@ This pattern continued through the centuries. Huguenot refugees from religious p
 
 The lesson of history is clear: immigration is not a threat to British identity; it is the source of British identity. We are not a pure, homogeneous people defending our ancient homeland against foreign invasion. We are a successful experiment in integration, a demonstration that people from different backgrounds can come together to create something greater than the sum of their parts. This is the liberal vision of Britain: not a fortress, but a beacon; not a closed society, but an open one that grows stronger through diversity.
 
+---

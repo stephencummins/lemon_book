@@ -1,5 +1,4 @@
 
----
 
 # INDEX
 ## The Lemon Book: Refreshing Liberalism
@@ -13,7 +12,6 @@
 **Authoritarianism**, 1-12, 13-24, 50-57, 58-64, 65-70, 71-84, 85-92, 93-108, 115-122, 131-137, 156-164, 165-177
 **Austerity**, 13-24, 40-49, 50-57
 
----
 
 ## B
 
@@ -24,7 +22,6 @@
 **Brexit**, 13-24, 65-70, 71-84, 165-177
 **British Empire**, 71-84
 
----
 
 ## C
 
@@ -52,7 +49,6 @@
 **Digital rights**, 93-108, 115-122, 123-130
 **Divine right of kings**, 1-12, 13-24
 
----
 
 ## E
 
@@ -65,7 +61,6 @@
 **Equality**, 1-12, 13-24, 40-49, 50-57, 58-64, 71-84, 109-114, 115-122, 156-164, 165-177
 **European Union (EU)**, 1-12, 13-24, 25-31, 40-49, 50-57, 58-64, 65-70, 71-84, 85-92, 93-108, 123-130, 131-137, 138-145, 156-164, 165-177
 
----
 
 ## F
 
@@ -90,7 +85,6 @@
 **Green growth**, 85-92, 165-177
 **Green New Deal**, 50-57, 85-92
 
----
 
 ## H
 
@@ -106,7 +100,6 @@
 **Hume, David**, 1-12, 13-24, 165-177
 **Huguenots**, 71-84
 
----
 
 ## I
 
@@ -121,7 +114,6 @@
 
 **Keynes, John Maynard**, 1-12, 13-24, 156-164, 165-177
 
----
 
 ## L
 
@@ -136,7 +128,6 @@
 **Lloyd George, David**, 40-49, 138-145
 **Locke, John**, 1-12, 13-24, 25-31, 165-177
 
----
 
 ## M
 
@@ -144,7 +135,6 @@
 **Mill, John Stuart**, 1-12, 146-155, 165-177
 **Monopolies**, 13-24, 50-57, 93-108
 
----
 
 ## N
 
@@ -169,7 +159,6 @@
 **Privatisation**, 13-24, 40-49
 **Proportional representation (PR)**, 58-64, 165-177
 
----
 
 ## R
 
@@ -180,7 +169,6 @@
 **Rights, environmental**. *See* Environmental rights  
 **Rights, human**. *See* Human rights
 
----
 
 ## S
 
@@ -199,7 +187,6 @@
 **Totalitarianism**, 50-57, 131-137, 165-177
 **Trump, Donald**, 71-84
 
----
 
 ## U
 
@@ -207,13 +194,11 @@
 **Universal Declaration of Human Rights**, 115-122
 **Utilitarianism**, 1-12
 
----
 
 ## V
 
 **Voting reform**. *See* Electoral reform
 
----
 
 ## W
 

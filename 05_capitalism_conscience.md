@@ -4,7 +4,7 @@ Capitalism with a Conscience
 
 *Harnessing the market for social good, not just private profit*
 
-![Capitalism with a Conscience](/images/05_capitalism_conscience.png)
+![Capitalism with a Conscience](images/05_capitalism_conscience.png)
 
 ## Introduction: Beyond the Invisible Hand
 

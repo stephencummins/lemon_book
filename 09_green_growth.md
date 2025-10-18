@@ -77,3 +77,4 @@ This is not a fight that can be won with half-measures or wishful thinking. It r
 
 The Limeys of the 18th century understood that prevention was better than cure, that a simple green solution could enable great voyages and grand adventures. Today's liberals must show the same wisdom and courage. The lime was the key to naval supremacy; green growth is the key to democratic survival. This is our lime chapter, our green manifesto, our call to adventure in the greatest challenge and opportunity of our time.
 
+---

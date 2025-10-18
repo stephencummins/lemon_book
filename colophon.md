@@ -7,7 +7,6 @@
 Written by Stephen Cummins
 First Edition, 2025
 
----
 
 ## Production Details
 
@@ -48,7 +47,6 @@ The manuscript was developed through an iterative dialogue between human authors
 
 The layout of this book balances traditional book design principles with modern digital publishing capabilities. Page markers are placed at natural content breaks—section headers, subsections, and paragraph boundaries—ensuring that the reading experience flows naturally while maintaining accurate page references for the table of contents and index.
 
----
 
 ## About the Creation Process
 
@@ -72,7 +70,6 @@ This project demonstrates that AI can be a powerful tool for political philosoph
 4. **Accessible language** - Making complex ideas understandable
 5. **Thorough documentation** - Creating complete tables of contents, indices, and bibliographies
 
----
 
 ## Copyright and Permissions
 
@@ -103,7 +100,6 @@ Version Control: Git and GitHub
 Markdown Processing: Various open-source tools
 Illustrations: AI-assisted design tools
 
----
 
 ## A Note from the Author
 
@@ -122,7 +118,6 @@ The lemons are already here. Together—humans and our tools—we can make somet
 **Stephen Cummins**
 October 2025
 
----
 
 ## Contact
 
@@ -131,8 +126,7 @@ For questions, comments, or to continue the conversation:
 **GitHub Repository:** https://github.com/stephencummins/lemon_book
 **Email:** [Contact through GitHub repository]
 
----
 
-*Made with 🍋 in 2025*
+*Made with  in 2025*
 
 ---

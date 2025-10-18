@@ -4,7 +4,7 @@ Every Vote Should Count
 
 *Reforming our democracy for a fairer, more representative Britain*
 
-![Every Vote Should Count](/images/06_every_vote_counts.png)
+![Every Vote Should Count](images/06_every_vote_counts.png)
 
 ## Introduction: Democracy as a Fortress Against Tyranny
 

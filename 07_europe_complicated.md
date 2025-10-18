@@ -60,3 +60,4 @@ For liberals, patriotism is not about a blind allegiance to the nation-state, bu
 
 Rebuilding a close and cooperative relationship with the European Union is the great foreign policy challenge of our time. It requires a rejection of the nationalist fantasies that led to Brexit and a return to the hard-headed pragmatism that has always characterised the best of British diplomacy. It means seeing Europe not as a threat to our sovereignty, but as a partner in the defence of our shared democratic values. It is a long and difficult road, but it is a road we must travel. The alternative is a slow slide into irrelevance and a future where the liberal values we hold dear are increasingly under threat. A liberal Britain must be a European Britain, working with our allies to build a future that is safer, more prosperous, and more free.
 
+---

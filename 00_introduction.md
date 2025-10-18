@@ -12,7 +12,6 @@ The choice of "lemon" as a title is deliberate and multi-layered. Lemons are fre
 
 There's also an honesty in the lemon metaphor that appeals to me. In British slang, a "lemon" can mean something defective or unsatisfactory—and much of contemporary liberalism has indeed become exactly that. Co-opted by corporate interests, hollowed out by technocratic managerialism, and corrupted by those who use liberal language to justify illiberal ends, modern liberalism often feels like a lemon in the worst sense. But here's the thing about lemons: even when they're sour, they contain the essential ingredients for something refreshing. You just need to know how to extract the good stuff.
 
----
 
 This blend of pragmatic policy and relatable leadership is precisely why Britain needs liberal answers now more than ever. But it's also why we need to refresh our understanding of what liberalism means in practice. The old recipes aren't working. The political establishment has given us plenty of lemons—from the chaos of Brexit to the dysfunction of Westminster, from the housing crisis to the mental health epidemic, from democratic backsliding to the rise of techno-fascism.
 

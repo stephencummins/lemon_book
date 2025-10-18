@@ -30,7 +30,6 @@
 
 **Marshall, T.H.** *Citizenship and Social Class.* Cambridge: Cambridge University Press, 1950.
 
----
 
 ## Contemporary Liberal Thought
 
@@ -58,7 +57,6 @@
 
 **Mounk, Yascha.** *The People vs. Democracy: Why Our Freedom Is in Danger and How to Save It.* Cambridge, MA: Harvard University Press, 2018.
 
----
 
 ## Economic Policy and Social Justice
 
@@ -86,7 +84,6 @@
 
 **Véliz, Carissa.** *Privacy Is Power: Why and How You Should Take Back Control of Your Data.* London: Bantam Press, 2020.
 
----
 
 ## Healthcare and Social Policy
 
@@ -104,7 +101,6 @@
 
 **Ager, Alastair, and Alison Strang.** "Understanding Integration: A Conceptual Framework." *Journal of Refugee Studies* 21, no. 2 (2008): 166-191.
 
----
 
 ## Climate Change and Environmental Policy
 
@@ -114,7 +110,6 @@
 
 **Mann, Michael E., and Tom Toles.** *The Madhouse Effect: How Climate Change Denial Is Threatening Our Planet, Destroying Our Politics, and Driving Us Crazy.* New York: Columbia University Press, 2016.
 
----
 
 ## Europe and Brexit
 
@@ -132,7 +127,6 @@
 
 **Arendt, Hannah.** *The Origins of Totalitarianism.* 1951. New York: Harcourt Brace Jovanovich, 1973.
 
----
 
 ## Housing and Urban Policy
 
@@ -142,7 +136,6 @@
 
 **Madden, David, and Peter Marcuse.** *In Defense of Housing: The Politics of Crisis.* London: Verso, 2016.
 
----
 
 ## Reports and Policy Documents
 
@@ -156,7 +149,6 @@
 
 **Committee on Climate Change.** *Net Zero: The UK's Contribution to Stopping Global Warming.* London: CCC, 2019.
 
----
 
 ## Journals and Periodicals
 
@@ -171,7 +163,6 @@
 *The Guardian* (various articles and opinion pieces)
 *Financial Times* (various articles and opinion pieces)
 
----
 
 ## Online Resources
 
@@ -187,7 +178,6 @@
 
 **The Conversation.** https://theconversation.com
 
----
 
 ## Note on Sources
 
@@ -195,7 +185,6 @@ This bibliography represents the key texts and sources that have informed the ar
 
 Many of the ideas presented in this book build upon centuries of liberal thought while attempting to address the unique challenges of our digital age. Readers are encouraged to engage critically with these sources and to continue the conversation about how liberalism can evolve to meet contemporary needs.
 
----
 
 *For additional references and updated resources, visit: https://github.com/stephencummins/lemon_book*
 
