@@ -1,4 +1,3 @@
-<div align="right"><sub>183</sub></div>
 
 ---
 
@@ -42,11 +41,6 @@
 **Constitutional reform**, 58-64
 **Crown Estate**, 1-12
 
-<div align="right"><sub>184</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 ## D
 
 **Democracy**, 1-12, 13-24, 40-49, 50-57, 58-64, 65-70, 71-84, 85-92, 93-108, 109-114, 115-122, 131-137, 138-145, 146-155, 156-164, 165-177
@@ -83,11 +77,6 @@
 **Freedom**, 1-12, 13-24, 40-49, 65-70, 71-84, 85-92, 93-108, 109-114, 115-122, 123-130, 131-137, 138-145, 146-155, 156-164, 165-177
 **Friedman, Milton**, 50-57
 **Future generations, rights of**, 123-130
-
-<div align="right"><sub>185</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 
 ## G
@@ -126,11 +115,6 @@
 **Intergenerational justice**, 13-24, 85-92, 123-130
 **International cooperation**, 65-70, 85-92, 93-108, 156-164
 **Inverted totalitarianism**, 131-137, 165-177
-
-<div align="right"><sub>186</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 
 ## K
@@ -171,11 +155,6 @@
 **NHS Trusts**, 40-49
 **Norman Conquest**, 1-12, 25-31, 50-57, 58-64, 71-84
 
-<div align="right"><sub>187</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 ## P
 
 **Parliament**, 1-12, 13-24, 165-177
@@ -212,11 +191,6 @@
 **Sovereignty**, 1-12, 13-24, 58-64, 65-70, 123-130, 146-155, 165-177
 **Surveillance capitalism**, 93-108, 131-137
 
-<div align="right"><sub>188</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 ## T
 
 **Tech giants**, 13-24, 50-57, 93-108
@@ -249,11 +223,6 @@
 **Women's rights**, 1-12, 115-122
 **Worker representation**, 50-57
 
-<div align="right"><sub>189</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 
 ## Key Themes and Cross-References
 
@@ -282,8 +251,5 @@
 *See* Education, 109-114; Housing, 25-31; Immigration, 71-84; Mental health, 32-39
 
 *Page numbers in bold indicate primary discussion of topic*
-
-<div align="right"><sub>190</sub></div>
-<div style="page-break-after: always;"></div>
 
 ---

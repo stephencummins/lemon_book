@@ -76,32 +76,14 @@ Following in the tradition of "The Orange Book: Reclaiming Liberalism" (2004), T
 ├── 16_cooption_language.md         # Chapter 16
 ├── 17_reclaiming_liberalism.md     # Chapter 17
 ├── 18_Conclusion.md                # Chapter 18 (Conclusion)
-├── book_index_with_pages.md        # Comprehensive index (p. 178)
-├── bibliography.md                 # Bibliography (pp. 179-185)
-├── colophon.md                     # Colophon (pp. 186-190)
+├── book_index_with_pages.md        # Comprehensive index 
+├── bibliography.md                 # Bibliography 
+├── colophon.md                     # Colophon 
 ├── images/                         # Chapter illustrations
 └── backup/                         # Archive of previous versions
 ```
 
-## Page Numbering System
 
-All chapters include right-aligned page markers in HTML format:
-```html
-<div align="right"><sub>X</sub></div>
-<div style="page-break-after: always;"></div>
-```
-
-The page numbers are strategically placed at natural content breaks (section headers, subsections, paragraph breaks) to maintain readability while providing accurate page references for the table of contents and index.
-
-### Complete Page Breakdown
-- **Front Matter:** Pages i-iv (Roman numerals)
-- **Chapter 1-2:** Pages 1-24 (Liberal Tradition)
-- **Chapters 3-9:** Pages 25-92 (Contemporary Challenges)
-- **Chapters 10-14:** Pages 93-137 (Digital Age Liberalism)
-- **Chapters 15-18:** Pages 138-177 (The Path Forward)
-- **Index:** Page 178
-- **Bibliography:** Pages 179-185
-- **Colophon:** Pages 186-190
 
 ## Contributing
 

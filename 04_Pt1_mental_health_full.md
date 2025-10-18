@@ -14,11 +14,6 @@ But perhaps most shamefully of all, we still charge people for the very medicati
 
 **Parity of Esteem: Mental Health = Physical Health**
 
-<div align="right"><sub>32</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 The liberal vision is simple: mental healthcare should be treated with exactly the same priority, funding, and accessibility as physical healthcare. This means:
 
 - **Free Prescriptions**: Abolishing prescription charges for all mental health medications, just as we do for diabetes, cancer, and other chronic conditions
@@ -39,11 +34,6 @@ One of the most heartbreaking aspects of the current system is the '18-year clif
 
 A liberal government would commit to breaking this cliff edge, ensuring a seamless transition between services and providing continuous support tailored to the evolving needs of young adults. This means investing in integrated services that recognise the unique challenges of adolescence and early adulthood.
 
-<div align="right"><sub>33</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 **Digital Innovation and Human Connection**
 
 The modern age offers new opportunities to expand access to mental health support. Digital platforms can provide flexible, anonymous, and immediate resources for those who might otherwise struggle to find help. Online cognitive behavioural therapy (CBT), mental health apps, and virtual support groups can all play a vital role.
@@ -63,11 +53,6 @@ Research consistently shows that mental health problems are more common among pe
 - **Trauma**: Childhood abuse, domestic violence, and other traumatic experiences have lasting mental health impacts
 
 A liberal mental health strategy would address these root causes through:
-
-<div align="right"><sub>34</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 - **Economic Security**: Universal basic income, job guarantees, and progressive taxation to reduce inequality
 - **Housing Policy**: Ensuring everyone has access to decent, affordable housing
@@ -99,11 +84,6 @@ Mental health problems often begin in childhood and adolescence, yet our educati
 
 **The Role of Technology: Promise and Peril**
 
-<div align="right"><sub>35</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 Digital technology offers both opportunities and threats for mental health. On one hand, apps and online platforms can provide accessible support and connect people with help. On the other hand, social media and digital addiction can worsen mental health problems.
 
 A liberal approach would harness technology's benefits while mitigating its harms:
@@ -131,11 +111,6 @@ A liberal criminal justice system would:
 Despite progress in recent years, stigma remains a major barrier to mental health treatment. People fear discrimination in employment, relationships, and social situations if they seek help for mental health problems.
 
 Combating stigma requires:
-
-<div align="right"><sub>36</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 - **Public Education**: Campaigns to increase understanding of mental health
 - **Media Responsibility**: Guidelines for reporting on mental health and suicide
@@ -173,11 +148,6 @@ Proper investment in mental health prevention and early intervention would:
 
 **Research and Innovation: Advancing Understanding**
 
-<div align="right"><sub>37</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 Mental health research has been chronically underfunded compared to physical health research, despite the enormous burden of mental illness. A liberal government would:
 
 - **Increase Research Funding**: Matching mental health research investment to the burden of disease
@@ -210,11 +180,6 @@ Looking ahead, mental health care will be transformed by new technologies, treat
 
 **Conclusion: A Society That Cares**
 
-<div align="right"><sub>38</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 Mental health is not a luxury or an afterthought – it is fundamental to human flourishing and social progress. A society that neglects the mental health of its citizens is not just cruel but also economically and socially self-defeating.
 
 The liberal vision is of a society where mental health is treated with the same seriousness as physical health, where seeking help is seen as a sign of strength rather than weakness, and where everyone has access to the support they need to thrive.
@@ -226,9 +191,4 @@ Your mental health matters, and in a liberal Britain, the bill for its care woul
 But more than that, we can create a society where mental health problems are less likely to occur in the first place, where communities support their members, where workplaces promote wellbeing, and where everyone has the opportunity to live a fulfilling and meaningful life.
 
 The choice is ours. We can continue with a system that treats mental health as a personal failing and a private problem, or we can build a system that recognises mental health as a shared responsibility and a public good. The liberal path is clear – it's time to take it.
-
-<div align="right"><sub>39</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 

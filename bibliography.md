@@ -20,11 +20,6 @@
 
 **Rawls, John.** *Political Liberalism.* New York: Columbia University Press, 1993.
 
-<div align="right"><sub>176</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 ### Social Liberalism
 
 **Green, T.H.** *Lectures on the Principles of Political Obligation.* 1882. Cambridge: Cambridge University Press, 1986.
@@ -50,11 +45,6 @@
 **Sandel, Michael J.** *Liberalism and the Limits of Justice.* Cambridge: Cambridge University Press, 1982.
 
 **Rorty, Richard.** *Contingency, Irony, and Solidarity.* Cambridge: Cambridge University Press, 1989.
-
-<div align="right"><sub>177</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 ## Democracy and Political Reform
 
@@ -82,11 +72,6 @@
 
 **Klein, Naomi.** *This Changes Everything: Capitalism vs. The Climate.* New York: Simon & Schuster, 2014.
 
-<div align="right"><sub>178</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 ## Technology, Rights, and Modern Challenges
 
 **Zuboff, Shoshana.** *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power.* New York: PublicAffairs, 2019.
@@ -110,11 +95,6 @@
 **Marmot, Michael.** *The Health Gap: The Challenge of an Unequal World.* London: Bloomsbury, 2015.
 
 **Wilkinson, Richard, and Kate Pickett.** *The Spirit Level: Why Equality is Better for Everyone.* London: Penguin, 2009.
-
-<div align="right"><sub>179</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 ## Immigration and Identity
 
@@ -141,11 +121,6 @@
 **Varoufakis, Yanis.** *Adults in the Room: My Battle with Europe's Deep Establishment.* London: Bodley Head, 2017.
 
 **Shipman, Tim.** *All Out War: The Full Story of How Brexit Sank Britain's Political Class.* London: William Collins, 2016.
-
-<div align="right"><sub>180</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 ## Fascism and Authoritarianism
 
@@ -174,11 +149,6 @@
 **UK Government.** *The Beveridge Report: Social Insurance and Allied Services.* Cm 6404. London: HMSO, 1942.
 
 **Marmot, Michael, et al.** *Fair Society, Healthy Lives: The Marmot Review.* London: UCL Institute of Health Equity, 2010.
-
-<div align="right"><sub>181</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 **Independent Commission on Mental Health and Policing.** *Policing and Mental Health: Picking Up the Pieces.* London: Independent Commission, 2013.
 
@@ -213,11 +183,6 @@
 
 **Institute for Public Policy Research (IPPR).** https://www.ippr.org
 
-<div align="right"><sub>182</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 **Open Democracy.** https://www.opendemocracy.net
 
 **The Conversation.** https://theconversation.com
@@ -234,4 +199,4 @@ Many of the ideas presented in this book build upon centuries of liberal thought
 
 *For additional references and updated resources, visit: https://github.com/stephencummins/lemon_book*
 
-<div style="page-break-after: always;"></div>
+---

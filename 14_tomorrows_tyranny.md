@@ -12,11 +12,6 @@ This new tyranny operates through what political scientist Sheldon Wolin called 
 
 The foundation of techno-fascism is the surveillance capitalism that has emerged from the digital economy. Tech giants like Google, Facebook, Amazon, and their Chinese counterparts have built business models based on the extraction and manipulation of human behaviour data. What began as a way to target advertising has evolved into a comprehensive system for predicting and influencing human behaviour across all domains of life.
 
-<div align="right"><sub>131</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 This system operates through what Harvard Business School professor Shoshana Zuboff calls "surveillance capitalism" – an economic system that extracts human experience as raw material for behavioural data, which is then processed into predictive products that are sold to third parties seeking to influence behaviour. The result is a form of capitalism that treats human experience as a free resource to be appropriated for commercial purposes.
 
 The surveillance apparatus built by these companies provides the infrastructure for authoritarian control. Governments around the world are learning to leverage this infrastructure for their own purposes, creating public-private partnerships in surveillance that would have been unimaginable in earlier eras. China's social credit system represents the most advanced example of this fusion, but similar systems are emerging in democracies under the guise of public safety, fraud prevention, and national security.
@@ -26,11 +21,6 @@ The surveillance apparatus built by these companies provides the infrastructure 
 One of the most insidious aspects of techno-fascism is the way it erodes human agency through algorithmic governance. Increasingly, decisions that affect people's lives are made by automated systems that operate according to opaque rules and optimise for objectives that may not align with human welfare or democratic values.
 
 These systems shape behaviour through what behavioural economists call "choice architecture" – the way options are presented to influence decision-making. Social media algorithms determine what information people see, dating apps influence who they meet, and recommendation systems shape what they buy, watch, and read. The cumulative effect is to create what appears to be choice while actually constraining it within parameters set by algorithmic systems.
-
-<div align="right"><sub>132</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 The danger is not just that these systems make bad decisions, but that they gradually erode the human capacity for independent judgment. When people become accustomed to having decisions made for them by algorithms, they may lose the skills and confidence necessary for autonomous decision-making. This creates a form of learned helplessness that makes populations more susceptible to authoritarian control.
 
@@ -46,11 +36,6 @@ Social media platforms have become the primary battleground for information warf
 
 Techno-fascism does not seek to destroy democratic institutions outright, but rather to capture and hollow them out from within. This process, which political scientists call "competitive authoritarianism" or "electoral authoritarianism," maintains the formal structures of democracy while systematically undermining their effectiveness.
 
-<div align="right"><sub>133</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 The capture of democratic institutions occurs through multiple mechanisms. Wealthy interests use their resources to influence elections, lobby for favourable policies, and shape public opinion through media ownership and advertising. Tech companies use their platforms to influence political discourse and their data to micro-target political messages. Foreign governments use cyber operations and information warfare to interfere in democratic processes.
 
 The result is a system that appears democratic but is increasingly responsive to the interests of powerful elites rather than ordinary citizens. Elections continue to be held, but they become exercises in manipulation rather than genuine expressions of popular will. Legislatures continue to meet, but they become venues for political theatre rather than serious policy deliberation.
@@ -62,11 +47,6 @@ The effectiveness of techno-fascism depends on sophisticated understanding of hu
 The psychology of digital manipulation operates through several mechanisms. Variable ratio reinforcement schedules, borrowed from gambling psychology, make social media platforms addictive by providing unpredictable rewards for engagement. Social proof mechanisms exploit people's tendency to conform to perceived social norms. Fear appeals and emotional manipulation bypass rational deliberation to influence behaviour at a subconscious level.
 
 Perhaps most insidiously, these systems create what psychologists call "learned helplessness" – a state in which people become passive and accepting of their circumstances even when they have the power to change them. When people become accustomed to having their choices made for them by algorithms, they may lose the confidence and skills necessary for autonomous decision-making.
-
-<div align="right"><sub>134</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 **The Corporate-State Surveillance Alliance**
 
@@ -81,11 +61,6 @@ The result is a surveillance system that is both more comprehensive and more dif
 Techno-fascism poses a particular threat to democratic processes through its ability to manipulate elections and political discourse. Micro-targeting technologies allow political actors to deliver different messages to different groups of voters, making it impossible for citizens to engage in the kind of shared deliberation that democracy requires.
 
 Deepfake technologies and other forms of synthetic media make it increasingly difficult to distinguish authentic from manipulated content. This creates opportunities for political actors to discredit opponents through fabricated evidence while also providing plausible deniability for authentic evidence of wrongdoing.
-
-<div align="right"><sub>135</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 The speed and scale of digital communication also create new vulnerabilities. False information can spread faster than fact-checkers can debunk it, and the sheer volume of information makes it difficult for citizens to stay informed about important issues. This creates opportunities for political actors to overwhelm the information environment with propaganda and disinformation.
 
@@ -103,11 +78,6 @@ Perhaps most importantly, defending against techno-fascism requires building res
 
 Local democracy becomes particularly important in this context. While global tech platforms and authoritarian governments operate at a scale that can seem overwhelming, local communities retain the capacity for face-to-face interaction and collective action. Strengthening local democratic institutions and practices can provide a foundation for broader democratic renewal.
 
-<div align="right"><sub>136</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 The fight against techno-fascism is ultimately a fight for human agency and democratic self-governance. It requires recognising that technology is not neutral, that current trends are not inevitable, and that different choices are possible. The question is whether liberal democracies will have the wisdom and courage to make those choices before it is too late.
 
 **The Stakes of the Struggle**
@@ -119,10 +89,5 @@ The stakes of this struggle extend beyond politics to encompass fundamental ques
 The liberal response must therefore be equally fundamental. It requires not just defending existing institutions, but reimagining them for the digital age. It requires not just regulating technology, but ensuring that technology serves human purposes rather than the reverse. It requires not just preserving democracy, but deepening and extending it to meet the challenges of the 21st century.
 
 The tyranny of tomorrow is not inevitable, but preventing it will require unprecedented vigilance, creativity, and commitment to liberal democratic values. The choice is ours to make, but we must make it soon. The future of human freedom hangs in the balance.
-
-<div align="right"><sub>137</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 

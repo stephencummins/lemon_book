@@ -14,11 +14,6 @@ Britain's education system reflects and reinforces the broader inequalities in o
 
 This inequality begins early and compounds throughout a child's educational journey. By age five, children from the poorest families are already behind their peers in language development and school readiness. The pandemic has widened these gaps further, as children from better-off families had access to technology, quiet study spaces, and parental support that enabled them to continue learning during lockdowns, while their disadvantaged peers fell further behind.
 
-<div align="right"><sub>109</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 The persistence of private education as a parallel system serving the elite represents a fundamental challenge to liberal principles of equality of opportunity. While liberals support the right of parents to choose their children's education, we cannot ignore the fact that private schools, subsidised by charitable tax breaks, perpetuate a system where the wealthy can buy their children advantages that are denied to others.
 
 **Reforming Higher Education Access**
@@ -30,11 +25,6 @@ A liberal approach to higher education reform would focus on genuine equality of
 The solution is not to lower standards, but to ensure that all young people have access to the support, mentoring, and opportunities they need to meet those standards. This includes investing in careers guidance, providing intensive support for university applications, and creating pathways into higher education that recognise different forms of talent and achievement.
 
 **The Digital Transformation of Learning**
-
-<div align="right"><sub>110</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 Technology has the potential to democratise education, providing access to world-class teaching and resources regardless of location or economic circumstances. Online learning platforms can offer personalised instruction adapted to each student's pace and learning style. Virtual reality can bring historical events to life and make abstract concepts tangible. Artificial intelligence can provide instant feedback and identify areas where students need additional support.
 
@@ -49,11 +39,6 @@ Students and parents have a right to understand how algorithmic systems are bein
 **Critical Thinking in the Age of Information**
 
 In an era of information overload and deliberate misinformation, the ability to think critically has never been more important. Yet our education system often emphasises memorisation and test performance over the development of analytical skills and independent judgment. Students learn to reproduce information rather than to question it, to follow instructions rather than to think for themselves.
-
-<div align="right"><sub>111</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 A liberal education must prioritise the development of critical thinking skills that enable students to evaluate evidence, identify bias, understand logical fallacies, and form reasoned judgments about complex issues. This includes media literacy that helps students navigate the digital information landscape, scientific literacy that enables them to understand and evaluate research claims, and civic literacy that prepares them for active participation in democratic society.
 
@@ -71,11 +56,6 @@ A liberal government would invest heavily in lifelong learning, recognising it a
 
 **Special Educational Needs and Inclusion**
 
-<div align="right"><sub>112</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 Every child has the right to an education that meets their individual needs and enables them to reach their full potential. For children with special educational needs and disabilities, this often requires additional support, specialist teaching, and adapted learning environments. Yet too often, these children are failed by a system that lacks the resources, expertise, or commitment to provide truly inclusive education.
 
 The liberal vision of inclusive education goes beyond simply placing children with different needs in the same classroom. It requires a fundamental rethinking of how we organise learning to ensure that all children can participate fully and achieve their potential. This includes investing in specialist training for teachers, providing adequate support staff, and creating learning environments that are accessible to all.
@@ -92,11 +72,6 @@ Teachers are the heart of any education system, yet they are often undervalued, 
 
 This means not just better pay and working conditions for teachers, but also greater professional autonomy and respect for their expertise. Teachers should be trusted to use their professional judgment about how best to help their students learn, rather than being micromanaged by bureaucrats or constrained by rigid testing regimes.
 
-<div align="right"><sub>113</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 **Assessment and Accountability**
 
 While accountability is important in education, the current system of high-stakes testing has distorted educational priorities and narrowed the curriculum. Schools focus on teaching to the test rather than developing the full range of skills and knowledge that students need for life and work.
@@ -110,9 +85,4 @@ Ultimately, the liberal vision of education is about liberation – liberating h
 This vision requires us to see education not as a cost to be minimised, but as an investment in human potential that pays dividends for generations. It requires us to move beyond narrow measures of success to embrace a broader understanding of what it means to be educated in the 21st century.
 
 The right to education is not just about access to schools and universities – it is about the right to develop one's full potential as a human being. In a truly liberal society, this right would be guaranteed to all, regardless of background, ability, or circumstances. The question is not whether we can afford to provide such an education system, but whether we can afford not to.
-
-<div align="right"><sub>114</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 

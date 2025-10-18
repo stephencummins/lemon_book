@@ -20,5 +20,4 @@ So welcome to my lemonade stand. The product I'm selling is a refreshed liberali
 
 The lemons are already here. The question is: are you ready for some lemonade?
 
-<div align="right"><sub>ii</sub></div>
-<div style="page-break-after: always;"></div>
+---

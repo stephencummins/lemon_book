@@ -14,11 +14,6 @@ But the corruption of liberalism is not irreversible. Throughout its history, li
 
 Reclaiming authentic liberalism begins with returning to first principles – understanding what liberalism actually means and what it has historically stood for. This is not an exercise in nostalgia or an attempt to return to some imagined golden age. Rather, it is an effort to understand the core values and commitments that have made liberalism a force for human progress and freedom throughout its history.
 
-<div align="right"><sub>156</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 At its heart, liberalism is about human dignity. It is the belief that every human being possesses inherent worth and deserves to be treated with respect and consideration. This belief in human dignity leads to a commitment to individual rights and freedoms, but it also leads to a recognition that these rights and freedoms are meaningless unless people have the practical capacity to exercise them.
 
 Authentic liberalism recognises that freedom is not just the absence of external constraints, but the presence of genuine opportunities for self-determination. It understands that equality is not just formal equality before the law, but substantive equality of opportunity and access to the resources necessary for human flourishing. It sees democracy not just as a method for selecting leaders, but as a way of life that empowers people to shape their own destinies and participate meaningfully in the decisions that affect their lives.
@@ -28,11 +23,6 @@ Authentic liberalism recognises that freedom is not just the absence of external
 The reclamation of authentic liberalism must draw particularly on the social liberal tradition that emerged in the late 19th and early 20th centuries. This tradition recognised that the classical liberal emphasis on negative rights – freedoms from interference – was insufficient to address the realities of industrial society and the new forms of power and inequality it created.
 
 Social liberals like T.H. Green, L.T. Hobhouse, and John Maynard Keynes understood that genuine freedom required positive rights – entitlements to the resources and opportunities necessary for self-development and self-determination. They recognised that the state had a positive role to play in creating the conditions for individual liberty and social justice.
-
-<div align="right"><sub>157</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 This social liberal tradition provides the foundation for a contemporary liberalism that can address the challenges of the 21st century. It offers a vision of freedom that is both individual and social, a conception of equality that is both formal and substantive, and an understanding of democracy that is both procedural and participatory.
 
@@ -48,11 +38,6 @@ The goal is not to eliminate markets, but to embed them in social institutions a
 
 Reclaiming authentic liberalism also requires a renewed commitment to participatory democracy and civic engagement. The corruption of liberalism has been facilitated by the decline of democratic participation and the concentration of political power in the hands of wealthy elites and corporate interests.
 
-<div align="right"><sub>158</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 Reversing this trend requires both institutional reforms and cultural changes. Institutionally, it means electoral reform to make the political system more representative and responsive, campaign finance reform to reduce the influence of money in politics, and devolution of power to bring decision-making closer to the people affected by it.
 
 Culturally, it means rebuilding the civic institutions and practices that make democracy possible – from local community organisations to trade unions to independent media. It means fostering the democratic virtues of tolerance, compromise, and respect for evidence that enable people with different views to work together for the common good.
@@ -66,11 +51,6 @@ Environmental liberalism recognises that genuine freedom requires a sustainable 
 This requires a fundamental shift in how we think about economic growth and development. Rather than pursuing growth for its own sake, we must pursue forms of development that enhance human welfare while respecting planetary boundaries. This means investing in clean energy and sustainable technology, redesigning our cities and transport systems, and developing new measures of progress that go beyond GDP to include environmental and social indicators.
 
 **Global Solidarity and Cosmopolitan Values**
-
-<div align="right"><sub>159</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 Liberalism has always been an internationalist philosophy, committed to the idea that human rights and dignity transcend national boundaries. In an interconnected world facing global challenges like climate change, pandemics, and technological disruption, this internationalist commitment is more important than ever.
 
@@ -86,11 +66,6 @@ Reclaiming authentic liberalism requires ensuring that technology serves human p
 
 It also means developing new forms of democratic governance that can keep pace with technological change. Traditional regulatory approaches that take years to develop and implement are inadequate for technologies that evolve rapidly. We need more agile and adaptive forms of governance that can respond quickly to new challenges while maintaining democratic accountability.
 
-<div align="right"><sub>160</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 **Cultural Renewal and Liberal Values**
 
 Reclaiming authentic liberalism is not just a matter of policy and institutions – it also requires cultural renewal and the revitalisation of liberal values in civil society. This means promoting education that develops critical thinking and civic engagement, supporting arts and culture that celebrate diversity and creativity, and fostering communities that embody liberal values of tolerance, inclusion, and mutual respect.
@@ -102,11 +77,6 @@ It also means challenging the cultural narratives that have been used to justify
 Reclaiming authentic liberalism requires building a broad-based movement that can challenge the concentration of power and wealth that has corrupted our political and economic systems. This movement must include not just political parties and elected officials, but also trade unions, community organisations, advocacy groups, and ordinary citizens who are committed to liberal values.
 
 Building such a movement requires overcoming the divisions that have weakened liberal politics in recent decades. This means bridging the gap between economic and social liberalism, between national and international perspectives, and between different generations and communities that share liberal values but may have different priorities and concerns.
-
-<div align="right"><sub>161</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 It also means learning from other successful social movements about how to build power and create change. This includes developing clear and compelling narratives about liberal values and goals, building coalitions across different groups and interests, and using both electoral and non-electoral strategies to advance liberal objectives.
 
@@ -124,11 +94,6 @@ Reclaiming authentic liberalism requires a sustained effort at education and int
 
 It also means challenging the intellectual frameworks and assumptions that have been used to justify illiberal policies and practices. This includes developing critiques of neoliberalism, authoritarianism, and other ideologies that threaten liberal values, as well as positive visions of what a liberal society might look like in the 21st century.
 
-<div align="right"><sub>162</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 Universities and other educational institutions have a particular responsibility in this effort. They must resist pressures to treat education as merely vocational training and maintain their commitment to developing critical thinking, civic engagement, and liberal values.
 
 **Local Action and Community Organising**
@@ -145,11 +110,6 @@ The task of reclaiming authentic liberalism is urgent. Around the world, liberal
 
 In this context, the renewal of liberalism is not just a political project – it is essential for human survival and flourishing. Liberal values of human dignity, individual freedom, social justice, and democratic governance provide the foundation for addressing these challenges in ways that enhance rather than diminish human welfare.
 
-<div align="right"><sub>163</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 But reclaiming authentic liberalism will not be easy. It requires challenging powerful interests that benefit from the status quo, overcoming decades of ideological conditioning that has corrupted liberal language and ideas, and building new institutions and practices adequate to 21st-century challenges.
 
 **A Call to Action**
@@ -161,9 +121,4 @@ This is not a task for politicians alone, or for liberal parties alone, or for a
 The stakes could not be higher. The future of liberal democracy, and perhaps of human civilisation itself, depends on our ability to reclaim and renew the liberal tradition for the challenges of the 21st century. The question is not whether we can afford to undertake this task, but whether we can afford not to.
 
 The time for half-measures and compromises with illiberalism is over. The time has come to reclaim authentic liberalism and to build the movement necessary to make it a reality. The future is in our hands, and the choice is ours to make.
-
-<div align="right"><sub>164</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 

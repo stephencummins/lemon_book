@@ -14,11 +14,6 @@ For liberals, language has alwayvs been a source of hope and of inspiration. The
 
 In recent years, this inspiring language has sometimes been lost in the noise and the negativity of our political debate. But this is not a cause for despair; it is an opportunity for renewal. We have an incredible opportunity to reclaim the language of liberalism, to fill it with new meaning and new energy, and to use it to build a more hopeful and more inspiring political conversation. This chapter is a celebration of that opportunity. It is about the power of words to change the world, and about the exciting adventure of reclaiming the language of liberalism and of hope.
 
-<div align="right"><sub>146</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 ## The Liberal Lexicon: A Glossary of Hope
 
 The language of liberalism is a rich and diverse lexicon of hope. It is a collection of words and ideas that have the power to inspire, to empower, and to unite. By reclaiming these words and filling them with their true liberal meaning, we can begin to build a more positive and more hopeful political discourse.
@@ -35,11 +30,6 @@ For liberals, choice is not just about consumer sovereignty; it is about the pow
 
 For liberals, reform is not about dismantling our public services; it is about making them better. It is about constantly seeking new and innovative ways to meet the needs of our society, to improve the quality of our public services, and to ensure that they are delivering the best possible outcomes for everyone. This is a vision of reform that is about progress, not about cuts.
 
-<div align="right"><sub>147</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 **Modernisation: The Power to Innovate**
 
 For liberals, modernisation is not about a soulless pursuit of efficiency; it is about embracing the future with confidence and with hope. It is about harnessing the power of new ideas and new technologies to build a society that is more prosperous, more just, and more sustainable. This is a vision of modernisation that is about innovation, not about a race to the bottom.
@@ -49,11 +39,6 @@ For liberals, modernisation is not about a soulless pursuit of efficiency; it is
 Politics is not just about policies; it is about stories. The most successful political movements are those that are able to tell a compelling story about who we are, where we have come from, and where we are going. For too long, liberals have allowed others to tell the story of our country, a story of decline, of division, and of nostalgia for a mythical past. We have an opportunity to tell a different story, a story of hope, of progress, and of a bright and exciting future.
 
 This means:
-
-<div align="right"><sub>148</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 *   **Celebrating Our Successes:** We need to be better at celebrating the incredible successes of our liberal society. We have built a country that is more tolerant, more diverse, and more prosperous than ever before. We have created a welfare state that protects the vulnerable, a national health service that is the envy of the world, and a vibrant and creative culture that is admired around the globe. This is a story to be proud of, and it is a story that we should be telling with confidence and with joy.
 *   **Painting a Picture of the Future:** We need to offer people a bold and inspiring vision of the future that we can build together. This is not about making a list of policies; it is about painting a picture of a society where everyone can thrive, where our communities are strong and united, and where we are leading the world in tackling the great challenges of our time, from climate change to global poverty. This is a vision that can inspire people and give them a sense of hope for the future.
@@ -65,11 +50,6 @@ A healthy democracy needs a healthy public square, a place where people from all
 
 This means:
 
-<div align="right"><sub>149</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 *   **Listening as well as Talking:** We need to be better at listening to those who see things differently from us. This is not about abandoning our principles; it is about seeking to understand the perspectives of others and to find common ground where we can. It is about recognizing that we do not have a monopoly on wisdom and that we can learn from those who disagree with us.
 *   **Finding a Common Language:** We need to find a language that can bring people together rather than drive them apart. This means avoiding jargon and abstractions, and talking about our values and our vision in a way that is clear, accessible, and relatable. It means focusing on the things that unite us rather than the things that divide us.
 *   **Creating Spaces for Conversation:** We need to create more spaces where people can come together for genuine conversation. This could be through town hall meetings, through community forums, or through new online platforms that are designed to promote dialogue rather than division. It is about rebuilding the social infrastructure of our democracy and creating a public square that is worthy of a free and open society.
@@ -79,11 +59,6 @@ This means:
 Language is a gift. It is a gift that allows us to share our hopes, our dreams, and our vision for a better world. The language of liberalism is a particularly precious gift, a language of freedom, of reason, and of a profound belief in the power of people to build a better future.
 
 Let us reclaim this gift. Let us fill the language of liberalism with new energy, new meaning, and new hope. Let us use it to tell a story of a brighter future, a future of opportunity, of community, and of a shared sense of purpose.
-
-<div align="right"><sub>150</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 This is the adventure of language, and it is an adventure that we can all be a part of. Let us go out and start the conversation.
 
@@ -101,11 +76,6 @@ This liberal patriotism is inclusive rather than exclusive. It welcomes newcomer
 
 By reclaiming patriotism in this way, liberals can challenge the idea that love of country is the exclusive preserve of the right. We can show that it is possible to be both patriotic and progressive, to love our country while also wanting to make it better.
 
-<div align="right"><sub>151</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 **Reclaiming "Security": Beyond Fear to Flourishing**
 
 Security is another concept that has been narrowly defined in our political discourse. Too often, it is reduced to protection from external threats, whether from terrorism, crime, or immigration. This narrow definition plays into a politics of fear and division.
@@ -119,11 +89,6 @@ By reclaiming security in this way, liberals can challenge the politics of fear 
 **Reclaiming "Family": Beyond the Nuclear to the Diverse**
 
 The concept of family has often been narrowly defined in our political discourse, with the traditional nuclear family held up as the ideal. This narrow definition can exclude many people and many types of families.
-
-<div align="right"><sub>152</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 A liberal understanding of family is much more inclusive and diverse. It recognizes that families come in all shapes and sizes—from single-parent families to blended families, from same-sex couples to extended families. It celebrates this diversity and sees it as a source of strength rather than a problem to be solved.
 
@@ -141,11 +106,6 @@ The concept of digital citizenship is about how we behave and interact in online
 
 This could involve supporting initiatives that promote digital literacy and critical thinking, so that people are better equipped to navigate the online world. It could involve working with social media platforms to develop better algorithms and better content moderation systems that promote quality discourse rather than outrage and division. And it could involve creating new online platforms that are specifically designed to facilitate constructive dialogue across political divides.
 
-<div align="right"><sub>153</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 **Digital Storytelling: New Ways to Share the Liberal Vision**
 
 The digital world offers exciting new possibilities for storytelling. From videos to podcasts, from interactive websites to social media campaigns, there are countless ways to share the liberal vision with a wider audience.
@@ -160,11 +120,6 @@ A liberal approach to digital democracy would focus on using these tools to crea
 
 ## Conclusion: The Words to Build a Better World
 
-<div align="right"><sub>154</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 Words have power. They have the power to inspire, to unite, and to create a vision of a better world. The language of liberalism is a language of hope, of reason, and of a profound belief in the power of people to shape their own destiny. By reclaiming this language and filling it with new energy and new meaning, we can build a more positive and more inspiring political conversation.
 
 This is not just about changing the words we use; it is about changing the way we think and the way we act. It is about creating a politics that is more hopeful, more inclusive, and more focused on the future than on the past. It is about building a society where everyone has the opportunity to flourish, where our communities are strong and united, and where we are working together to tackle the great challenges of our time.
@@ -172,9 +127,4 @@ This is not just about changing the words we use; it is about changing the way w
 So let us embrace the power of words. Let us tell a story of hope, of progress, and of a bright and exciting future. Let us use the language of liberalism to build a better world. As the great liberal philosopher John Stuart Mill once said, "One person with a belief is equal to a force of ninety-nine who have only interests." With the right words, with the right story, and with the right vision, we can be that force for good in the world.
 
 And remember, as the Monty Python team might say, "Nobody expects the Liberal Inspiration!" Let's surprise the world with our optimism, our creativity, and our unwavering belief in the power of words to change the world for the better.
-
-<div align="right"><sub>155</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 

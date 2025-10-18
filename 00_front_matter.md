@@ -110,5 +110,4 @@ The author is particularly grateful to the Liberal Democrat party members and su
 
 Any errors or omissions remain the author's responsibility alone.
 
-<div align="right"><sub>i</sub></div>
-<div style="page-break-after: always;"></div>
+---

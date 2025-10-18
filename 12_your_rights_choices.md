@@ -12,11 +12,6 @@ The challenge for contemporary liberalism is to defend and extend this rights fr
 
 The modern conception of human rights emerged from centuries of struggle against oppression and injustice. The Enlightenment philosophers, building on earlier traditions of natural law, argued that certain rights were inherent to human nature and could not legitimately be violated by any government. These natural rights – typically understood as life, liberty, and property – formed the foundation for the great democratic revolutions of the 18th century and the constitutional frameworks that emerged from them.
 
-<div align="right"><sub>115</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 However, the classical liberal emphasis on negative rights – freedoms from interference – proved insufficient to address the realities of industrial society. The formal right to freedom of contract meant little to workers who had no choice but to accept exploitative conditions or starve. The right to political participation was hollow for those who lacked the education, leisure, or resources to engage meaningfully in democratic processes.
 
 The 20th century saw the development of a more expansive understanding of rights that included positive rights – entitlements to the resources and opportunities necessary for human flourishing. The Universal Declaration of Human Rights, adopted by the United Nations in 1948, recognised not only civil and political rights, but also economic, social, and cultural rights including the right to education, healthcare, housing, and social security.
@@ -29,11 +24,6 @@ Yet even these seemingly basic rights face new challenges in the modern world. T
 
 The liberal approach to these challenges is to maintain strong protections for fundamental rights while adapting their application to new circumstances. This means robust legal frameworks that protect privacy in the digital age, clear limits on government surveillance powers, and transparent processes for content moderation that respect both free expression and the need to prevent genuine harm.
 
-<div align="right"><sub>116</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 **Economic and Social Rights: Making Freedom Real**
 
 The recognition that civil and political rights alone are insufficient for human dignity led to the development of economic and social rights. These include the right to work and to fair wages, the right to social security, the right to healthcare, education, and housing, and the right to participate in cultural life. These rights recognise that freedom requires not just the absence of interference, but also access to the resources and opportunities necessary to make meaningful choices about one's life.
@@ -43,11 +33,6 @@ Critics of economic and social rights argue that they are fundamentally differen
 The liberal position is that economic and social rights are genuine human rights that governments have a duty to progressively realise to the maximum of their available resources. This doesn't mean that every person has an immediate claim to unlimited healthcare or housing, but it does mean that governments must take concrete steps to ensure that these rights become accessible to all over time.
 
 **The Right to Healthcare**
-
-<div align="right"><sub>117</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 Healthcare provides a clear example of how economic and social rights can be made real through practical policy. The establishment of the National Health Service represented a revolutionary recognition that healthcare is not a commodity to be purchased by those who can afford it, but a fundamental right that society must guarantee to all its members.
 
@@ -60,11 +45,6 @@ However, the right to healthcare must be balanced against other considerations, 
 Housing is another area where the gap between formal rights and lived reality is particularly stark. While most liberal democracies recognise some form of right to adequate housing, millions of people remain homeless or live in substandard conditions that undermine their health, dignity, and life chances.
 
 The liberal approach to housing rights emphasises both the individual right to adequate shelter and the collective responsibility to ensure that housing markets work for everyone, not just the wealthy. This requires active government intervention to increase housing supply, regulate housing quality, and provide support for those who cannot afford market-rate housing.
-
-<div align="right"><sub>118</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 The right to housing also intersects with other rights, including the right to family life, the right to education (as children need stable housing to succeed in school), and the right to work (as housing costs affect labour mobility and job choices). A comprehensive approach to housing rights must therefore consider these interconnections and address housing as part of a broader strategy for social and economic inclusion.
 
@@ -80,11 +60,6 @@ However, reproductive rights also raise complex questions about the rights of ot
 
 The struggle for LGBTQ+ rights represents one of the great human rights advances of recent decades, demonstrating how the concept of human dignity can expand to encompass previously marginalised groups. The recognition that sexual orientation and gender identity are fundamental aspects of human identity that deserve protection from discrimination and persecution has transformed legal and social attitudes in many countries.
 
-<div align="right"><sub>119</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 The liberal case for LGBTQ+ rights rests on the fundamental principle of human equality – the idea that all people, regardless of their sexual orientation or gender identity, deserve equal dignity, respect, and protection under the law. This includes not only freedom from discrimination and persecution, but also positive recognition of LGBTQ+ relationships and identities.
 
 The fight for LGBTQ+ rights also illustrates how rights claims can evolve and expand over time. What began as a demand for decriminalisation has evolved into claims for marriage equality, adoption rights, gender recognition, and protection from discrimination in employment, housing, and public accommodations. This evolution reflects the liberal understanding that rights are not fixed or static, but must adapt to changing social understanding and circumstances.
@@ -98,11 +73,6 @@ The right to internet access, for example, is increasingly recognised as essenti
 Digital privacy rights face particular challenges from both government surveillance and corporate data collection. The liberal approach emphasises strong legal protections for personal data, transparent policies about data collection and use, and meaningful consent requirements that give individuals control over their digital footprint.
 
 **The Right to a Healthy Environment**
-
-<div align="right"><sub>120</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 Climate change and environmental degradation pose fundamental threats to human rights, including the rights to life, health, food, water, and housing. The recognition of environmental rights represents an important evolution in human rights thinking, acknowledging that individual rights cannot be separated from the health of the ecosystems that sustain human life.
 
@@ -118,11 +88,6 @@ The liberal approach to balancing rights emphasises proportionality, necessity, 
 
 This balancing act also requires recognition that rights come with responsibilities. The right to free speech carries the responsibility to use that freedom thoughtfully and with consideration for others. The right to vote carries the responsibility to participate in democratic processes in an informed and engaged manner. The right to a healthy environment carries the responsibility to live sustainably and consider the impact of one's actions on others and future generations.
 
-<div align="right"><sub>121</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 **Making Rights Real**
 
 Ultimately, rights are only as strong as the institutions and practices that protect them. This requires not only strong legal frameworks and independent courts, but also vibrant civil society organisations, free media, and engaged citizens who are willing to defend rights when they come under threat.
@@ -132,10 +97,5 @@ It also requires recognition that rights are not self-executing – they must be
 The liberal vision of rights is both ambitious and practical. It recognises that human dignity requires not just formal equality before the law, but substantive equality of opportunity and access to the resources necessary for human flourishing. It acknowledges that rights must evolve to address new challenges and circumstances, while maintaining core commitments to human dignity, equality, and freedom.
 
 Your rights are not abstract legal concepts – they are the foundation of your ability to live a free and dignified life. The choices you can make, the opportunities available to you, and the protections you enjoy all depend on the strength and scope of the rights framework that society provides. The question is not whether we can afford to protect and extend human rights, but whether we can afford not to. In a world where authoritarianism is on the rise and inequality is growing, the defence of human rights is not just a moral imperative – it is essential for the survival of free and democratic society.
-
-<div align="right"><sub>122</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 

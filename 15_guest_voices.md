@@ -18,11 +18,6 @@ One of the most exciting things about liberalism is that it is not a fixed ideol
 
 **Social Liberalism: The Power of Community**
 
-<div align="right"><sub>138</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 Many liberals have been inspired by the social liberal tradition, which emphasizes the importance of community and the power of working together to create a more just and equitable society. This tradition recognizes that we are not just isolated individuals, but social beings who thrive when we are part of a strong and supportive community. It sees the state not as a threat to freedom, but as a tool that we can use to empower individuals and to create opportunities for all.
 
 This approach has led to some of the greatest achievements of modern liberalism, from the creation of the welfare state to the expansion of public education. It is a vision of a society where everyone has a stake, where everyone is cared for, and where everyone has the opportunity to contribute.
@@ -35,11 +30,6 @@ This approach has led to policies that champion entrepreneurship, that promote f
 
 **Political Liberalism: The Power of Democracy**
 
-<div align="right"><sub>139</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 Still other liberals have been inspired by the political liberal tradition, which emphasizes the importance of democracy, of human rights, and of the rule of law. This tradition recognizes that a free society is one where power is dispersed, where government is accountable to the people, and where every person is treated with dignity and respect.
 
 This approach has led to the great democratic reforms that have transformed our society, from the extension of the franchise to the creation of new checks and balances on power. It is a vision of a society where every voice is heard, where every person is empowered, and where we work together to build a government that is truly of the people, by the people, and for the people.
@@ -51,11 +41,6 @@ Our political beliefs are not just abstract ideas; they are shaped by our person
 For some, liberalism is about breaking down the barriers that have held them back, whether it is poverty, discrimination, or a lack of opportunity. For others, it is about creating a more tolerant and inclusive society, where everyone is free to be themselves. For still others, it is about protecting our environment, promoting peace, or building a more just and sustainable world.
 
 All of these are valid and important expressions of the liberal spirit. The beauty of liberalism is that it is a broad and inclusive tradition that can accommodate a wide range of different priorities and perspectives. It is a conversation, not a monologue, and it is a conversation that is enriched by every new voice that joins it.
-
-<div align="right"><sub>140</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 ## The Future of Liberalism: A Conversation in Progress
 
@@ -73,11 +58,6 @@ The liberal tradition has been shaped by many remarkable individuals who have br
 
 William Gladstone, four times Prime Minister in the 19th century, brought to liberalism a profound moral vision and a passionate commitment to justice. For Gladstone, politics was not just about pragmatic reforms; it was about moral principles and the duty to stand up for what is right. His campaigns against slavery, against imperialism, and for Irish Home Rule were all driven by a deep sense of moral purpose.
 
-<div align="right"><sub>141</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 Gladstone's liberalism reminds us that politics is not just about economics or administration; it is about values and principles. It is about having the courage to stand up for what is right, even when it is difficult or unpopular. In a world where politics is often reduced to technocratic management or cynical calculation, Gladstone's moral vision continues to inspire.
 
 **Lloyd George: The Radical Reformer**
@@ -89,11 +69,6 @@ Lloyd George's liberalism reminds us that liberalism is not just about abstract 
 **Beveridge: The Architect of the Welfare State**
 
 William Beveridge, whose 1942 report laid the foundations for the post-war welfare state, brought to liberalism a vision of a society where everyone is protected from the "five giants" of Want, Disease, Ignorance, Squalor, and Idleness. His plan for a comprehensive system of social security, healthcare, education, housing, and employment was a bold and ambitious vision of a better future.
-
-<div align="right"><sub>142</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 Beveridge's liberalism reminds us that liberalism is not just about individual freedom; it is about creating the conditions where everyone can live a life of dignity and security. It is about building a society where no one is left behind and where everyone has the opportunity to fulfill their potential. In a world where many people feel insecure and anxious about the future, Beveridge's vision of a society that cares for all its members continues to inspire.
 
@@ -111,11 +86,6 @@ This green liberalism is not about doom and gloom; it is about hope and opportun
 
 Other contemporary liberals are bringing a digital perspective to the liberal conversation. They recognize that the digital revolution is transforming every aspect of our society, from how we work to how we communicate, from how we learn to how we participate in democracy. They see this as both a challenge and an opportunity for liberalism.
 
-<div align="right"><sub>143</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 This tech liberalism is about ensuring that the digital revolution serves human values and human needs. It is about using technology to empower individuals, to strengthen communities, and to revitalize democracy. It is about creating a digital world that is open, inclusive, and respectful of human rights and human dignity.
 
 **The Global Voice: International Liberalism**
@@ -132,11 +102,6 @@ The liberal conversation is not just for politicians or academics; it is for eve
 
 One of the most direct ways to join the liberal conversation is to become a member of a liberal party or organization. In the UK, the Liberal Democrats are the standard-bearers of the liberal tradition, but there are liberal voices in other parties as well. By joining a party, you can participate in policy discussions, attend conferences, and help to shape the future direction of liberalism.
 
-<div align="right"><sub>144</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 **Engage with Liberal Ideas**
 
 Another way to join the liberal conversation is to engage with liberal ideas through reading, discussion, and debate. There are many books, articles, podcasts, and online forums where liberal ideas are being discussed and developed. By engaging with these ideas, you can deepen your understanding of liberalism and contribute your own thoughts and perspectives.
@@ -150,9 +115,4 @@ Perhaps the most important way to join the liberal conversation is to live liber
 The liberal conversation is not a destination; it is a journey. It is a journey that has been going on for centuries and that will continue long into the future. It is a journey that has been enriched by the contributions of countless individuals, each bringing their unique perspective and experience to the great questions of their time.
 
 As we look to the future, let us embrace the diversity of our liberal family. Let us celebrate the different voices, the different perspectives, and the different approaches that make liberalism such a rich and vibrant tradition. And let us continue the conversation, knowing that it is through this ongoing dialogue that we will find the answers to the challenges of our time and build a future that is more free, more just, and more prosperous for all.
-
-<div align="right"><sub>145</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 

@@ -14,11 +14,6 @@ As artificial intelligence systems increasingly make decisions that affect human
 
 The right to algorithmic transparency means that people should be able to understand how automated systems make decisions that affect them. When an AI system denies someone a loan, rejects their job application, or recommends a particular medical treatment, they should have the right to know what factors influenced that decision and to challenge it if they believe it is unfair or inaccurate.
 
-<div align="right"><sub>123</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 The right to human oversight ensures that critical decisions affecting people's lives always involve meaningful human judgment. While AI can provide valuable insights and recommendations, the final decision should rest with humans who can consider context, exercise discretion, and be held accountable for their choices.
 
 The right to algorithmic fairness requires that AI systems be designed and deployed in ways that do not discriminate against protected groups or perpetuate historical biases. This means not only testing systems for bias before deployment, but also monitoring their performance over time and taking corrective action when problems are identified.
@@ -30,11 +25,6 @@ Advances in genetic engineering, particularly CRISPR and other gene-editing tech
 The right to genetic integrity protects individuals from unwanted genetic modifications and ensures that any genetic interventions are based on informed consent. This is particularly important for germline editing, which affects not only the individual but also their descendants who cannot consent to the modifications.
 
 The right to genetic equality addresses concerns that genetic enhancement could create new forms of inequality between the genetically enhanced and the unenhanced. If genetic modifications become available only to the wealthy, they could entrench and amplify existing social inequalities in unprecedented ways.
-
-<div align="right"><sub>124</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 The right to genetic diversity recognises that human genetic variation is valuable both for individuals and for the species as a whole. Efforts to eliminate genetic conditions must be balanced against respect for neurodiversity and the recognition that what society considers a disability may be experienced by individuals as an integral part of their identity.
 
@@ -50,11 +40,6 @@ The right to climate justice recognises that the impacts of climate change are n
 
 **Bioethical Rights in Medical Research and Treatment**
 
-<div align="right"><sub>125</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 Advances in medical technology create new possibilities for treating disease and enhancing human capabilities, but they also raise complex ethical questions about consent, access, and human dignity. The development of bioethical rights frameworks helps ensure that medical progress serves human flourishing while respecting individual autonomy and social justice.
 
 The right to informed consent in medical research and treatment has evolved to address new challenges posed by complex technologies like gene therapy, artificial organs, and brain-computer interfaces. Patients must have access to clear, understandable information about the risks and benefits of new treatments, and their consent must be truly voluntary and ongoing.
@@ -69,11 +54,6 @@ As more aspects of human life move online, digital citizenship becomes increasin
 
 The right to digital literacy recognises that in an increasingly digital world, basic computer and internet skills are as essential as traditional literacy and numeracy. Everyone should have access to education and training that enables them to participate fully in digital society.
 
-<div align="right"><sub>126</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 The right to digital inclusion ensures that digital technologies are accessible to people with disabilities, available in multiple languages, and designed to work with a variety of devices and internet connections. Digital exclusion can become a new form of social exclusion that limits access to education, employment, healthcare, and civic participation.
 
 The right to digital dignity protects people from online harassment, cyberbullying, and other forms of digital abuse that can cause real psychological and social harm. This includes both legal protections and platform policies that create safe online spaces for all users.
@@ -85,11 +65,6 @@ The rise of the gig economy and platform work has created new forms of employmen
 The right to fair classification ensures that workers are properly categorised based on the reality of their working relationship, not just the labels used by employers. Workers who are economically dependent on a single platform or who work under conditions similar to traditional employees should have access to similar protections.
 
 The right to algorithmic management transparency gives workers the right to understand how algorithmic systems are used to manage their work, including how tasks are assigned, performance is evaluated, and pay is calculated. Workers should also have the right to challenge algorithmic decisions that affect their employment.
-
-<div align="right"><sub>127</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 The right to collective organisation in the digital economy ensures that platform workers can form unions and engage in collective bargaining, even when they are classified as independent contractors. This may require new legal frameworks that recognise the unique characteristics of platform work.
 
@@ -104,11 +79,6 @@ Implementing intergenerational rights requires new institutional mechanisms that
 **Global Rights and Cosmopolitan Citizenship**
 
 In an interconnected world, human rights violations anywhere can have consequences everywhere. The COVID-19 pandemic demonstrated how health crises cross borders, while climate change shows how environmental problems require global solutions. This suggests the need for stronger global rights frameworks and institutions.
-
-<div align="right"><sub>128</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 The right to global citizenship recognises that in an interconnected world, people need protections and opportunities that transcend national boundaries. This includes the right to seek asylum from persecution, the right to migrate in search of better opportunities, and the right to participate in global governance processes that affect their lives.
 
@@ -126,11 +96,6 @@ The right to remain unenhanced protects those who choose not to use enhancement 
 
 **Conclusion: Rights as Living Principles**
 
-<div align="right"><sub>129</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 Rights in the modern age cannot be understood as fixed or static principles, but as living concepts that must evolve to address new challenges and opportunities. The liberal tradition provides a framework for this evolution, emphasising human dignity, equality, and freedom as core values that must be protected and promoted in changing circumstances.
 
 The expansion of rights to address modern challenges does not mean abandoning traditional civil and political rights, but rather recognising that these rights must be supplemented and reinterpreted to remain relevant in a changing world. The right to privacy, for example, remains as important as ever, but its meaning must evolve to address digital surveillance and data collection.
@@ -140,10 +105,5 @@ Similarly, the right to equality must be understood to encompass not just formal
 The challenge for liberals in the modern age is to maintain core commitments to human dignity while adapting rights frameworks to address new realities. This requires both principled thinking about fundamental values and pragmatic engagement with the specific challenges posed by new technologies and social arrangements.
 
 Ultimately, rights in the modern age must serve the same fundamental purpose they have always served – protecting human dignity and enabling human flourishing. The specific content of rights may evolve, but their underlying purpose remains constant: to ensure that all people can live lives of dignity, freedom, and opportunity, regardless of the challenges and changes that the future may bring.
-
-<div align="right"><sub>130</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 

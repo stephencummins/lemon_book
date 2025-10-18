@@ -33,11 +33,6 @@ The manuscript was developed through an iterative dialogue between human authors
 **Total Word Count:** Approximately 50,000 words
 **Page Count:** 186 pages
 
-<div align="right"><sub>191</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 ### Typography and Design
 
 **Body Text:** Designed for clarity and readability
@@ -65,11 +60,6 @@ This book represents an experiment in human-AI collaboration for long-form polit
 - Organizing content into coherent chapters
 - Creating comprehensive references and cross-links
 
-<div align="right"><sub>192</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 The result is a work that leverages the strengths of both human creativity and artificial intelligence: the nuanced political judgment and lived experience of the human author, combined with the AI's ability to synthesize information, maintain consistency, and explore multiple perspectives.
 
 ### The Future of Political Writing
@@ -91,11 +81,6 @@ Copyright © 2025 Stephen Cummins. All rights reserved.
 No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
 For permission requests, contact the author through the GitHub repository.
-
-<div align="right"><sub>193</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 ## Acknowledgements (Extended)
 
@@ -124,11 +109,6 @@ Illustrations: AI-assisted design tools
 
 When I started this project, I wondered whether it was possible to write a comprehensive work of political philosophy using AI assistance. The answer, I've discovered, is yes—but with important caveats.
 
-<div align="right"><sub>194</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 The AI didn't write this book. I did. Don't confuse the painter with the brush. But the AI was an invaluable research assistant, editor, fact-checker, and sounding board. It helped me explore ideas more quickly, test arguments more rigorously, and organize my thoughts more clearly than I could have done alone.
 
 Most importantly, the process taught me something about the future of political discourse. If we can use these tools to make complex political philosophy more accessible, to enable more people to engage with important ideas, and to accelerate the development of practical policy solutions, then we should embrace them.
@@ -154,8 +134,5 @@ For questions, comments, or to continue the conversation:
 ---
 
 *Made with 🍋 in 2025*
-
-<div align="right"><sub>195</sub></div>
-<div style="page-break-after: always;"></div>
 
 ---

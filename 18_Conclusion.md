@@ -14,11 +14,6 @@ The central theme that has emerged throughout this book is that liberalism is fu
 
 This understanding helps us see the connections between seemingly disparate liberal concerns. The housing crisis is about the power of landowners and developers to extract wealth from basic human needs. The mental health crisis reflects the power of economic systems that prioritise profit over wellbeing. Democratic dysfunction stems from the power of money and media to distort political processes. Climate change represents the power of current generations to impose costs on future ones. Technological disruption involves the power of algorithms and data to shape human behaviour and social outcomes.
 
-<div align="right"><sub>165</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 In each case, the liberal response is not to eliminate power – which is impossible – but to distribute it more fairly and make it more accountable to those it affects. This requires constant vigilance and adaptation, as power has a tendency to concentrate and new forms of domination emerge with changing circumstances.
 
 **The Evolution of Liberal Thought**
@@ -28,11 +23,6 @@ Our exploration of liberal intellectual history revealed that liberalism has alw
 The evolution from classical to social liberalism was not a betrayal of liberal principles but their fullest expression in new circumstances. When formal freedom proved insufficient to ensure genuine liberty, liberals developed concepts of positive freedom and social rights. When markets proved prone to monopolisation and instability, liberals developed regulatory frameworks and welfare states. When democracy proved vulnerable to economic manipulation, liberals developed campaign finance laws and public broadcasting.
 
 This pattern of adaptation must continue today. The challenges we face – artificial intelligence, genetic engineering, climate change, global inequality – require new liberal responses that build on historical insights while addressing unprecedented circumstances. The alternative is not a return to some imagined golden age of classical liberalism, but the continued erosion of liberal values by forces that liberals are too rigid or timid to confront.
-
-<div align="right"><sub>166</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 **Policy Solutions for Contemporary Challenges**
 
@@ -50,11 +40,6 @@ Fourth, they take seriously the liberal commitment to human dignity and equal tr
 
 Our examination of the housing crisis revealed that the problem is not technical but political. We have the land, skills, and technology to build the homes Britain needs. What we lack is the political will to challenge the vested interests that benefit from artificial scarcity and inflated prices.
 
-<div align="right"><sub>167</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 The liberal solution combines market mechanisms with public intervention to ensure that everyone has access to decent, affordable housing. This includes planning reform to increase supply, land value capture to fund infrastructure and affordable housing, a renaissance of public housing that creates mixed communities rather than ghettos, and support for first-time buyers to access homeownership.
 
 But liberal housing policy goes beyond just building more units. It recognises that housing is about creating communities where people can flourish, not just providing shelter. This means designing neighbourhoods that promote social interaction, environmental sustainability, and economic opportunity. It means ensuring that new developments include schools, healthcare facilities, green spaces, and transport links. It means creating places where people want to live, not just places where they can afford to live.
@@ -66,11 +51,6 @@ The mental health crisis reflects broader failures in how our society is organis
 Achieving parity of esteem between mental and physical health means more than just equal funding – though that is essential. It means recognising that mental health is affected by housing, employment, education, relationships, and community connections. It means investing in prevention and early intervention rather than just crisis response. It means addressing the social determinants of mental illness, including poverty, discrimination, and social isolation.
 
 The liberal vision is of a society where seeking help for mental health problems is as normal and accessible as going to the dentist, where mental health support is available in every community, and where we create social and economic conditions that promote psychological wellbeing rather than undermine it.
-
-<div align="right"><sub>168</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 **Democracy: Power to the People**
 
@@ -88,11 +68,6 @@ The liberal approach to Europe recognises that many of the challenges we face �
 
 But cooperation must be based on mutual benefit and democratic consent, not imposed by technocratic elites or economic coercion. The liberal vision is of a Europe of democratic nations working together to address common challenges while respecting national differences and democratic choices.
 
-<div align="right"><sub>169</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 **Immigration: Honest Conversations, Humane Solutions**
 
 Immigration policy has been distorted by both xenophobic rhetoric and naive idealism. The liberal approach recognises that immigration can bring significant benefits to both immigrants and receiving communities, but only if it is managed properly and if communities are supported to adapt to change.
@@ -106,11 +81,6 @@ The liberal vision is of a Britain that is open to the world but not naive about
 The climate crisis is the defining challenge of our time, but it is also an enormous opportunity to create a more prosperous, healthy, and equitable society. The liberal approach rejects both climate denial and climate despair, instead focusing on practical solutions that can build political coalitions and deliver real results.
 
 Green growth is not an oxymoron but an economic necessity. The transition to a low-carbon economy will create millions of new jobs, improve public health, enhance energy security, and position Britain as a leader in the industries of the future. But this transition must be managed fairly, with support for workers and communities that depend on fossil fuel industries.
-
-<div align="right"><sub>170</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 The liberal climate agenda combines market mechanisms like carbon pricing with public investment in clean energy, transport, and buildings. It recognises that individual behaviour change is important but insufficient without systemic change in how our economy and society are organised.
 
@@ -127,11 +97,6 @@ The liberal vision is of a digital society that enhances rather than diminishes 
 The liberal tradition of rights has evolved from natural rights to civil rights to human rights to what we might call digital rights or climate rights. This evolution reflects the liberal insight that human dignity requires not just formal equality but substantive opportunity to flourish.
 
 Contemporary liberalism must continue this expansion while defending existing rights against authoritarian assault. This means protecting traditional civil liberties like free speech and due process while developing new frameworks for genetic privacy, algorithmic accountability, and intergenerational justice.
-
-<div align="right"><sub>171</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 The liberal vision is of a society where everyone has the opportunity to develop their potential and pursue their conception of the good life, constrained only by the equal rights of others to do the same.
 
@@ -150,11 +115,6 @@ The final section of this book examined how liberal language has been co-opted a
 Reclaiming authentic liberalism requires more than just better messaging or more effective political tactics. It requires a fundamental recommitment to liberal values and a willingness to challenge existing power structures that benefit from the status quo.
 
 This means building new institutions and movements that can challenge corporate power, strengthen democratic participation, and create economic arrangements that serve human flourishing rather than capital accumulation. It means forming coalitions with other progressive forces while maintaining liberal distinctiveness. It means being willing to take political risks in service of long-term liberal goals.
-
-<div align="right"><sub>172</sub></div>
-<div style="page-break-after: always;"></div>
-
----
 
 **The Path Forward: From Lemons to Lemonade**
 
@@ -178,11 +138,6 @@ So how do we make lemonade from the political lemons we have been given? The rec
 
 Despite the challenges facing liberal democracy, there are reasons for optimism. The failures of authoritarianism are becoming increasingly apparent. The limitations of both unfettered capitalism and state socialism are widely recognised. Young people around the world are demanding action on climate change, inequality, and democratic reform.
 
-<div align="right"><sub>173</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 The question is whether liberals can rise to meet this moment with the intellectual creativity, political courage, and moral clarity that the situation demands. This requires moving beyond the defensive crouch that has characterised much liberal politics in recent years and offering a positive vision of what a liberal society could look like.
 
 **A Personal Reflection**
@@ -197,11 +152,6 @@ We stand at a crossroads. One path leads toward increasing authoritarianism, ine
 
 The choice is not predetermined. It depends on the decisions we make and the actions we take in the coming years. It depends on whether we are willing to do the hard work of democratic citizenship – learning about complex issues, engaging with those who disagree with us, and working for change through democratic institutions.
 
-<div align="right"><sub>174</sub></div>
-<div style="page-break-after: always;"></div>
-
----
-
 It depends on whether we are willing to move beyond the comfortable certainties of tribal politics and embrace the messy complexity of liberal democracy. It depends on whether we are willing to make the sacrifices necessary to leave a better world for future generations.
 
 **The Lemonade Stand**
@@ -215,8 +165,5 @@ But the result can be truly refreshing – a liberal democracy that works for ev
 The question is not whether we can make lemonade from political lemons – this book has shown that we can. The question is whether we will choose to do so. The future of liberal democracy depends on our answer.
 
 Welcome to the lemonade stand. The ingredients are ready. The recipe is clear. Now it's time to get to work.
-
-<div align="right"><sub>175</sub></div>
-<div style="page-break-after: always;"></div>
 
 ---
