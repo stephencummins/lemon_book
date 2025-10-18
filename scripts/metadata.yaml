@@ -3,9 +3,10 @@
 
 # Main Title and Author (for Pandoc's auto-generated title page)
 title: "The Lemon Book"
-subtitle: "Refreshing Liberalism for the 21st Century"
+subtitle: "Refreshing Liberalism"
 author: "Stephen Cummins"
-date: "2024" # Or current year
+rights: "Copyright © 2025 by Stephen Cummins. All rights reserved."
+date: "2025"
 lang: "en-GB"
 
 # --- Pandoc Configuration ---
@@ -32,27 +33,25 @@ resource-path:
   - images
 
 # Custom LaTeX for copyright page (inserted after title page)
-header-includes:
+include-before:
   - |
     \newpage
-    \thispagestyle{empty} % No page number on copyright page
-    \vspace*{\fill} % Push content to bottom
-    \begin{center}
-    \textbf{\Large The Lemon Book: Refreshing Liberalism}
-    \par\vspace{0.5cm}
-    \textit{By Stephen Cummins}
-    \par\vspace{1cm}
-    Copyright \textcopyright\ 2024 Stephen Cummins. All rights reserved.
-    \par\vspace{0.2cm}
-    Published with Manus AI.
-    \par\vspace{0.2cm}
-    This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-    \par\vspace{0.2cm}
-    ISBN: [To be assigned]
-    \par\vspace{0.2cm}
-    Printed and bound in the United Kingdom.
-    \end{center}
-    \vspace*{\fill} % Push content to bottom
+    \thispagestyle{empty}
+    \vspace*{0.1\textheight}
+    \noindent
+    Copyright \textcopyright\ 2025 by Stephen Cummins
+    \par\vspace{1em}
+    All rights reserved.
+    \par\vspace{1em}
+    No part of this book may be reproduced or used in any manner without the prior written permission of the copyright owner, except for the use of brief quotations in a book review.
+    \par\vspace{1em}
+    Published by Stephen Cummins
+    \par\vspace{1em}
+    ISBN: 978-1-326-05160-0
+    \par\vspace{1em}
+    www.lemonbook.uk
+    \par\vspace{1em}
+    First Edition: 2025
     \newpage
 
 ...

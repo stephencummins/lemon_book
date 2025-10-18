@@ -1,21 +1,32 @@
 #!/bin/bash
 
-# The Lemon Book - PDF Build Script
-# This script uses pandoc to compile the markdown chapters into a single PDF.
+# The Lemon Book - Complete Build Script
+# This script generates The Lemon Book in multiple formats and optionally uploads to Cloudflare R2
 
 set -e # Exit immediately if a command exits with a non-zero status.
 
 echo "🍋 Starting build for The Lemon Book..."
 
 # --- Configuration ---
-OUTPUT_PDF="The_Lemon_Book.pdf"
+BASE_NAME="lemon_book"
+OUTPUT_PDF="${BASE_NAME}.pdf"
+OUTPUT_EPUB="${BASE_NAME}.epub"
+OUTPUT_DOCX="${BASE_NAME}.docx"
+OUTPUT_HTML="${BASE_NAME}.html"
+OUTPUT_RTF="${BASE_NAME}.rtf"
+OUTPUT_ODT="${BASE_NAME}.odt"
+
+# Get the directory where the script is located
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+
+# Change to the parent directory (where the markdown files are)
+cd "$SCRIPT_DIR/.."
 
 # --- File Assembly Order ---
 # This order is based on PDF_BUILD_ORDER.md
 CHAPTERS=(
   "00_front_matter.md"
   "00_introduction.md"
-  # "table_of_contents.md" # Pandoc's 'toc: true' in metadata.yaml is used instead
   "01_enlightenment_roots.md"
   "02_classical_liberalism.md"
   "03_build_houses_full.md"
@@ -34,18 +45,21 @@ CHAPTERS=(
   "15_guest_voices.md"
   "16_cooption_language.md"
   "17_reclaiming_liberalism.md"
-  "18_Conclusion.md"
+  "18_liberal_lemonade.md"
   "book_index_with_pages.md"
+  "colophon.md"
 )
 
 echo "📚 Assembling markdown files..."
 
+# --- Generate PDF (using MacTeX/XeLaTeX) ---
+echo "📄 Generating PDF..."
 pandoc "${CHAPTERS[@]}" \
   -o "$OUTPUT_PDF" \
-  --metadata-file scripts/metadata.yaml \
+  --metadata-file metadata.yaml \
   --from markdown+smart+raw_tex \
   --resource-path=.:images \
-  --template scripts/custom-template.latex \
+  --template custom-template.latex \
   --pdf-engine=xelatex
 
 echo "✅ Successfully created $OUTPUT_PDF"
