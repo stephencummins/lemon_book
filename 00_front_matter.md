@@ -1,7 +1,3 @@
-![Front Cover](images/00_lemon_book_cover.png){width=80%}
-
----
-
 ## Dedication
 
 *To my darling wife Jane, for her constant support while I wrote this book and in everything else I've ever done. She has always backed me, often, I suspect, against her much better judgement.*
