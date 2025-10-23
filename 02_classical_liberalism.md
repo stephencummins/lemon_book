@@ -110,7 +110,7 @@ However, democracy is always fragile and must be constantly defended and renewed
 
 Defending democracy therefore requires more than just protecting formal democratic procedures. It requires addressing the underlying power imbalances that can make democratic institutions ineffective or illegitimate. This includes economic reforms to reduce inequality, media reforms to ensure diverse and independent sources of information, and technological reforms to prevent manipulation and surveillance.
 
-## The Liberal Tradition of Institutional Innovation
+## Institutional Innovation
 
 Throughout its history, liberalism has shown a remarkable capacity for institutional innovation in response to new challenges and changing circumstances. The development of constitutional government, the expansion of suffrage, the creation of the welfare state, and the establishment of international human rights law all represent liberal responses to new forms of power and new threats to human dignity.
 

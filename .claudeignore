@@ -1,0 +1,32 @@
+# Generated book files (never need to read these)
+*.pdf
+*.docx
+*.epub
+*.odt
+*.rtf
+*.html
+
+# Build artifacts
+.wrangler/
+node_modules/
+
+# System files
+.DS_Store
+*/.DS_Store
+
+# Backups
+images_backup/
+*_backup/
+
+# Large data files
+*.zip
+*.tar.gz
+
+# Git internals (rarely needed)
+.git/logs/
+.git/refs/
+
+# Temporary files
+*.tmp
+*.temp
+*.log

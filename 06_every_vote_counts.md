@@ -28,9 +28,7 @@ Under PR, every vote contributes to the result. A Conservative in a Labour stron
 
 Furthermore, PR typically produces coalition governments. Far from being a recipe for instability, as critics often claim, this is a feature, not a bug. Coalitions require negotiation, compromise, and consensus-building. They prevent the wild swings in policy that occur when a party with 35% of the vote can seize 100% of the power and impose a radical agenda that lacks broad public support. Countries with PR consistently demonstrate more stable, predictable, and effective governance. Germany's post-war economic and political stability, for instance, is inseparable from its mixed-member proportional system, which has encouraged a culture of consensus and long-term thinking.
 
-
-
-## Dismantling Bastions of Unaccountable Power
+## Dismantling Unaccountable Power
 
 The House of Lords is not merely an anachronism; it is the living embodiment of the principle of concentrated, unaccountable power that liberalism has always opposed. It is a direct institutional descendant of the aristocratic power structures established after the Norman Conquest (Chapter 3), where birthright and patronage, not democratic consent, confer the right to legislate. Its existence is a permanent, structural affront to the principle of popular sovereignty and a dangerous vulnerability in our democratic system.
 
@@ -47,8 +45,6 @@ A liberal government would reverse this trend, embarking on a programme of radic
 *   **Fiscal Devolution:** Giving local authorities significant powers to raise and spend their own revenue, freeing them from dependence on central government grants and allowing them to respond to local needs and priorities.
 *   **Community Planning Powers:** Empowering local communities to shape their own built environment, as discussed in Chapter 3, breaking the grip of centralised planning targets and large developers.
 *   **Democratic Innovation:** Fostering a culture of participatory democracy at the local level, using tools like citizens' assemblies, participatory budgeting, and community charters to give people a direct say in the governance of their communities. This rebuilds the democratic muscle that atrophies under a centralised state.
-
-
 
 ## Fortifying Democracy
 

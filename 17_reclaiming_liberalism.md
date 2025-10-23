@@ -42,7 +42,7 @@ Reversing this trend requires both institutional reforms and cultural changes. I
 
 Culturally, it means rebuilding the civic institutions and practices that make democracy possible – from local community organisations to trade unions to independent media. It means fostering the democratic virtues of tolerance, compromise, and respect for evidence that enable people with different views to work together for the common good.
 
-## Environmental and Intergenerational Justice
+## Intergenerational Justice
 
 Any authentic liberalism for the 21st century must grapple seriously with the environmental crisis and the challenge of climate change. This is not just because environmental degradation threatens human welfare and freedom, but because it raises fundamental questions about our obligations to future generations and our relationship with the natural world.
 

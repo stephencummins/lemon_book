@@ -66,7 +66,7 @@ This is the adventure of language, and it is an adventure that we can all be a p
 
 The power of language is not just theoretical; it is practical and transformative. By reclaiming key words and concepts, liberals can reshape the political conversation and build a more hopeful and inspiring politics. Here are some examples of how we can put the liberal language into action:
 
-## Reclaiming "Patriotism": Love of Country as a Force for Good
+## Reclaiming "Patriotism": Love of Country is Good
 
 For too long, patriotism has been defined as a narrow and exclusive love of country that is suspicious of outsiders and resistant to change. But there is another, more liberal understanding of patriotism—one that sees love of country as a force for good in the world.
 
@@ -96,7 +96,7 @@ This broader understanding of family is not about undermining the traditional fa
 
 By reclaiming family in this way, liberals can challenge the idea that they are somehow anti-family and can offer a more inclusive and supportive vision of family life.
 
-## The Digital Frontier: New Spaces for Liberal Language
+## The Digital Frontier
 
 The digital revolution has created new spaces for political conversation, from social media to online forums, from blogs to podcasts. These new spaces present both challenges and opportunities for liberal language. On the one hand, they can amplify division and polarisation. On the other hand, they offer exciting new possibilities for reaching people with a message of hope and optimism.
 
@@ -118,7 +118,7 @@ The digital world also offers exciting new possibilities for democratic particip
 
 A liberal approach to digital democracy would focus on using these tools to create a more participatory and more inclusive democracy. It would seek to reach out to those who are often excluded from traditional forms of political participation, whether because of time constraints, geographical location, or social barriers. It would use digital tools to make the democratic process more transparent and more accountable. And it would harness the collective intelligence of citizens to solve complex problems and to develop better policies.
 
-## Conclusion: The Words to Build a Better World
+## Conclusion: Words to Build a Better World
 
 Words have power. They have the power to inspire, to unite, and to create a vision of a better world. The language of liberalism is a language of hope, of reason, and of a profound belief in the power of people to shape their own destiny. By reclaiming this language and filling it with new energy and new meaning, we can build a more positive and more inspiring political conversation.
 
