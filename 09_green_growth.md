@@ -6,8 +6,6 @@ Lime Green Growth, Not Green Grief
 
 ![Green Growth, Not Green Grief](images/09_citrus_innovation.png)
 
-
-
 ## Introduction: The Climate Crisis as a Struggle for Power
 
 The climate crisis is not just an environmental problem; it is a fundamental challenge to the liberal democratic order. For too long, the debate about climate change has been framed as a technical or economic issue, a matter of balancing costs and benefits. This is a dangerous misreading of the situation. The struggle to decarbonise our economy is not a polite negotiation; it is a power struggle against the vested interests of fossil-fuelled authoritarianism, both at home and abroad. For liberals, tackling climate change is not just about saving the planet; it is about defending a free, open, and democratic society from those who would see it destroyed.
@@ -30,7 +28,7 @@ We see this playbook in action across the world. In the United States, the MAGA 
 
 
 
-## The Liberal Response: Green Growth for Freedom
+## The Liberal Response: Green Growth
 
 The liberal response to the threat of petro-fascism must be as strategic and comprehensive as the threat itself. It is not enough to talk about polar bears and melting ice caps; we must frame the green transition as a fundamental struggle for freedom, democracy, and security. Green growth is not just an environmental policy; it is a strategy for defunding authoritarianism, deconcentrating power, and building a more resilient and prosperous liberal society.
 

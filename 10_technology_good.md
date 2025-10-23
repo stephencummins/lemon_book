@@ -92,7 +92,7 @@ Many technology challenges cannot be solved by individual countries. Tech compan
 
 Democratic countries must work together through a liberal international strategy. This means coordinating with other democracies on technology regulation and standards, promoting digital rights and freedoms in international forums, helping developing countries access beneficial technologies while avoiding harmful ones, ensuring fair taxation of digital companies through global coordination, and addressing the environmental impact of digital technology including the enormous energy consumption of data centres and devices.
 
-## Innovation and Responsibility: Supporting Progress While Managing Risk
+## Supporting Progress While Managing Risk
 
 While regulating technology's harms, liberal policy must support beneficial innovation. This requires massive public funding for basic research in AI, quantum computing, biotechnology, and clean energy. Programmes to help new companies compete with tech giants through access to capital and regulatory support. Regulatory sandboxes allowing experimentation under relaxed regulations. Attracting global talent including skilled workers, entrepreneurs, and researchers. And ensuring education systems prepare people for technological careers with both technical skills and critical thinking.
 

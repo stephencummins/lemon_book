@@ -40,7 +40,7 @@ Fascist and proto-fascist movements understand the power of immigration as a pol
 
 
 
-## The Fascist Playbook: Weaponise Immigration
+## Fascist Playbook: Weaponise Immigration
 
 To build an effective liberal response, we must first understand that the far-right's approach to immigration is not a good-faith attempt to solve a problem. It is a cynical and calculated strategy to gain power. This playbook, used by authoritarian movements across the world, has several key components:
 
@@ -54,7 +54,7 @@ To build an effective liberal response, we must first understand that the far-ri
 
 The "hostile environment" policy, introduced by a Conservative government, represents a chilling example of how this fascist framing can be absorbed into the political mainstream. It was a policy that, by its own admission, sought to create a climate of fear and suspicion. It turned ordinary citizens—landlords, doctors, teachers—into unwilling agents of the state's immigration enforcement. The Windrush scandal was not an accidental outcome of this policy; it was its logical and inevitable consequence. When you create a system designed to hunt for the "illegal" immigrant, you will inevitably end up persecuting the legal and the legitimate. It is a policy that poisons the well of community trust and corrodes the very fabric of a decent society.
 
-## Liberal Response: Competence and Compassion
+## Liberal Response: Competence & Compassion
 
 A liberal immigration policy must be a direct and strategic rebuttal to the fascist playbook. It is not enough to be morally right; we must also be practically effective. This means building a system that is competent, compassionate, and in control. Such a system would not only be more humane and economically beneficial, but it would also rob the far-right of its most potent political weapon. The liberal response must be built on four pillars:
 
