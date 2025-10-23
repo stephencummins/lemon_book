@@ -12,7 +12,7 @@ The statistics paint a grim picture. One in four people will experience a mental
 
 But perhaps most shamefully of all, we still charge people for the very medications they need to stay mentally well. While physical ailments are treated free at the point of use through the NHS, many mental health medications come with prescription charges – a Victorian relic that creates a two-tier system where your ability to pay determines your access to treatment.
 
-## Parity of Esteem: Mental Health = Physical Health
+## Parity of Esteem
 
 The liberal vision is simple: mental healthcare should be treated with exactly the same priority, funding, and accessibility as physical healthcare. This means:
 
@@ -146,7 +146,7 @@ Proper investment in mental health prevention and early intervention would:
 - **Improve Education**: Helping children learn and achieve their potential
 - **Strengthen Communities**: Creating more cohesive and supportive societies
 
-## Research and Innovation: Advancing Understanding
+## Research and Innovation
 
 Mental health research has been chronically underfunded compared to physical health research, despite the enormous burden of mental illness. A liberal government would:
 

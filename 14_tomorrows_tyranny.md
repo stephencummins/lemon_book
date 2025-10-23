@@ -16,7 +16,7 @@ This system operates through what Harvard Business School professor Shoshana Zub
 
 The surveillance apparatus built by these companies provides the infrastructure for authoritarian control. Governments around the world are learning to leverage this infrastructure for their own purposes, creating public-private partnerships in surveillance that would have been unimaginable in earlier eras. China's social credit system represents the most advanced example of this fusion, but similar systems are emerging in democracies under the guise of public safety, fraud prevention, and national security.
 
-## Algorithmic Governance and the Erosion of Human Agency
+## Algorithmic Governance
 
 One of the most insidious aspects of techno-fascism is the way it erodes human agency through algorithmic governance. Increasingly, decisions that affect people's lives are made by automated systems that operate according to opaque rules and optimise for objectives that may not align with human welfare or democratic values.
 

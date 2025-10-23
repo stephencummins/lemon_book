@@ -38,7 +38,7 @@ Intergenerational rights acknowledge that current generations have obligations t
 
 The right to climate justice recognises that the impacts of climate change are not distributed equally – the poorest and most vulnerable populations often suffer the most severe consequences despite contributing least to the problem. Climate action must therefore address both mitigation and adaptation, with particular attention to protecting those most at risk.
 
-## Bioethical Rights in Medical Research and Treatment
+## Bioethical Rights
 
 Advances in medical technology create new possibilities for treating disease and enhancing human capabilities, but they also raise complex ethical questions about consent, access, and human dignity. The development of bioethical rights frameworks helps ensure that medical progress serves human flourishing while respecting individual autonomy and social justice.
 

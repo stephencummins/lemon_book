@@ -36,7 +36,7 @@ Third, they recognise that democracy is not just a method for selecting leaders 
 
 Fourth, they take seriously the liberal commitment to human dignity and equal treatment, which requires active efforts to combat discrimination and expand opportunities for all, regardless of background or circumstances.
 
-## Housing: Building Communities, Not Just Homes
+## Housing: Building Communities
 
 Our examination of the housing crisis revealed that the problem is not technical but political. We have the land, skills, and technology to build the homes Britain needs. What we lack is the political will to challenge the vested interests that benefit from artificial scarcity and inflated prices.
 
@@ -84,7 +84,7 @@ Green growth is not an oxymoron but an economic necessity. The transition to a l
 
 The liberal climate agenda combines market mechanisms like carbon pricing with public investment in clean energy, transport, and buildings. It recognises that individual behaviour change is important but insufficient without systemic change in how our economy and society are organised.
 
-## Technology: Digital Rights and Human Dignity
+## Technology: Digital Rights Dignity
 
 The digital revolution has created unprecedented opportunities for human connection, creativity, and prosperity, but it has also created new forms of surveillance, manipulation, and control. The liberal response seeks to harness the benefits of technology while protecting human dignity and democratic values.
 
@@ -116,7 +116,7 @@ Reclaiming authentic liberalism requires more than just better messaging or more
 
 This means building new institutions and movements that can challenge corporate power, strengthen democratic participation, and create economic arrangements that serve human flourishing rather than capital accumulation. It means forming coalitions with other progressive forces while maintaining liberal distinctiveness. It means being willing to take political risks in service of long-term liberal goals.
 
-## The Path Forward: From Lemons to Lemonade
+## The Path Forward
 
 So how do we make lemonade from the political lemons we have been given? The recipe this book has outlined includes several essential ingredients:
 

@@ -6,7 +6,7 @@ Immigration: Honest Conversations
 
 ![Immigration: Honest Conversations](images/08_immigration.png)
 
-## Introduction: We Are All Cheddar Man's Children
+## Introduction: Cheddar Man's Children
 
 In 1997, Adrian Targett, a retired history teacher from Somerset, volunteered for a DNA test that would change our understanding of British identity forever. Scientists had extracted DNA from Cheddar Man, a 9,000-year-old skeleton found in Gough's Cave in the Cheddar Gorge, and were looking for living relatives. The results were extraordinary: Targett shared mitochondrial DNA with this ancient Briton, making him a direct descendant through an unbroken maternal line stretching back nearly ten millennia.
 
@@ -40,7 +40,7 @@ Fascist and proto-fascist movements understand the power of immigration as a pol
 
 
 
-## The Fascist Playbook: Weaponising Immigration for Political Gain
+## The Fascist Playbook: Weaponising Immigration
 
 To build an effective liberal response, we must first understand that the far-right's approach to immigration is not a good-faith attempt to solve a problem. It is a cynical and calculated strategy to gain power. This playbook, used by authoritarian movements across the world, has several key components:
 
@@ -54,7 +54,7 @@ To build an effective liberal response, we must first understand that the far-ri
 
 The "hostile environment" policy, introduced by a Conservative government, represents a chilling example of how this fascist framing can be absorbed into the political mainstream. It was a policy that, by its own admission, sought to create a climate of fear and suspicion. It turned ordinary citizens—landlords, doctors, teachers—into unwilling agents of the state's immigration enforcement. The Windrush scandal was not an accidental outcome of this policy; it was its logical and inevitable consequence. When you create a system designed to hunt for the "illegal" immigrant, you will inevitably end up persecuting the legal and the legitimate. It is a policy that poisons the well of community trust and corrodes the very fabric of a decent society.
 
-## The Liberal Response: A Strategy of Competence, Compassion, and Control
+## The Liberal Response: Competence, Compassion, and Control
 
 A liberal immigration policy must be a direct and strategic rebuttal to the fascist playbook. It is not enough to be morally right; we must also be practically effective. This means building a system that is competent, compassionate, and in control. Such a system would not only be more humane and economically beneficial, but it would also rob the far-right of its most potent political weapon. The liberal response must be built on four pillars:
 
@@ -105,7 +105,7 @@ In a nation of immigrants like Britain, the line between ‘us’ and ‘them’
 This is why the defence of immigrant rights is not an act of charity; it is an act of self-defence. When we defend the right of an asylum seeker to a fair hearing, we are defending the principle of due process for all. When we challenge the dehumanising language used against migrants, we are challenging the language that can be used to justify the persecution of any minority. When we insist that every person is entitled to basic human dignity, we are building a society where our own dignity is more secure. The fight for immigrant rights is the fight for a liberal society, a society where the rights of all are protected because the rights of the most vulnerable are sacrosanct.
 
 
-## The Historical Gift of Immigration: From Roman Roads to Norman Innovation
+## The Gift of Immigration: From Roman Roads to Norman Innovation
 
 The history of Britain is the history of successful immigration and integration. Each wave of newcomers brought not just people, but ideas, technologies, and innovations that transformed these islands for the better. The Romans gave us roads, law, and the concept of urban civilisation. They introduced writing, advanced engineering, and a sophisticated administrative system. Without Roman immigration, there would be no London, no Bath, no York as we know them. The very concept of Britain as a unified political entity emerged from Roman rule.
 

@@ -20,7 +20,7 @@ A liberal approach to technology policy must be grounded in fundamental principl
 *   **Digital Equality**: Everyone should have access to the benefits of digital technology, regardless of income, location, or technical expertise
 *   **Innovation with Responsibility**: Technological progress must be balanced with protection of human rights and social cohesion
 
-## Privacy and Digital Rights: The Foundation of Digital Freedom
+## Privacy and Digital Rights
 
 Privacy is not about having something to hide – it's about having the space to be human. In the digital age, privacy enables intellectual freedom, personal development, democratic participation, and authentic human relationships. The liberal approach recognises that digital rights are human rights and must be protected with equal vigour.
 
@@ -48,7 +48,7 @@ The liberal approach to AI governance balances innovation with protection of hum
 
 Liberal policy on AI must ensure benefits are shared across society. In employment and automation, this means massive investment in retraining programmes and policies that encourage human-AI collaboration rather than replacement. In criminal justice, AI can assist human decision-makers but must not make final decisions about people's liberty. In healthcare, AI can revolutionise diagnosis and treatment but must be subject to rigorous testing with patients retaining the right to human review. In education, AI tutoring systems should enhance human teachers, not replace them. In financial services, algorithmic lending must be transparent and fair, with people having the right to challenge AI-driven decisions.
 
-## Breaking Tech Monopolies: Restoring Competition and Democracy
+## Breaking Tech Monopolies
 
 The concentration of digital power in the hands of a few tech giants represents one of the greatest threats to liberal democracy. A handful of companies control essential digital infrastructure that billions depend on daily – Google processes over 8 billion searches per day, Facebook connects nearly 3 billion people, Amazon hosts much of the internet's infrastructure. These companies wield more power over information and communication than any government in history.
 
@@ -70,7 +70,7 @@ The challenge for liberal democracies is building cybersecurity without becoming
 
 The liberal approach prioritises five key elements. International cooperation with democratic allies establishes norms for responsible state behaviour, shares threat intelligence, and coordinates sanctions against cyber criminals. Public-private partnerships enable collaboration while maintaining democratic oversight, recognising that most critical infrastructure is privately owned. Resilience over retaliation focuses on robust defences and rapid recovery rather than offensive cyber warfare. Human rights protection ensures cybersecurity measures don't become pretexts for surveillance. Supply chain security diversifies technology sources, reducing dependence on authoritarian regimes for critical technology.
 
-## Technology, Work, and Democratic Participation
+## Technology and Democracy
 
 Technology is transforming work and democracy simultaneously. The digital revolution is changing not just what jobs exist, but how work is organised. Platform work, remote work, and the gig economy offer flexibility but create precarity. Many platform workers lack healthcare, pensions, and the right to organise.
 
@@ -86,7 +86,7 @@ Yet the same tools can undermine democracy. Social media algorithms create echo 
 
 The liberal approach requires five key principles: transparency in government use of technology, inclusion ensuring digital tools are accessible to all citizens, privacy protecting political participation from surveillance, authenticity measures to combat disinformation while protecting free speech, and human agency ensuring technology enhances rather than replaces human political judgment.
 
-## Global Digital Governance: A Liberal International Strategy
+## Global Digital Governance
 
 Many technology challenges cannot be solved by individual countries. Tech companies operate globally, cyber threats cross borders instantly, and digital technology's environmental impact requires global cooperation. Yet authoritarian regimes want to use technology for control and surveillance, while some countries prioritise economic development over human rights.
 

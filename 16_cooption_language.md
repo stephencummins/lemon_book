@@ -44,7 +44,7 @@ This means:
 *   **Painting a Picture of the Future:** We need to offer people a bold and inspiring vision of the future that we can build together. This is not about making a list of policies; it is about painting a picture of a society where everyone can thrive, where our communities are strong and united, and where we are leading the world in tackling the great challenges of our time, from climate change to global poverty. This is a vision that can inspire people and give them a sense of hope for the future.
 *   **Making it Personal:** We need to connect our political vision to the everyday lives of people. This means talking about how our policies will make a real difference to their lives, to their families, and to their communities. It means showing people that we understand their hopes and their fears, and that we are on their side.
 
-## The Power of Conversation: Building a More Inclusive Public Square
+## The Power of Conversation
 
 A healthy democracy needs a healthy public square, a place where people from all walks of life can come together to discuss, to debate, and to find common ground. In recent years, our public square has become more polarized and more toxic, but we have the power to change this. We have the opportunity to build a more inclusive, more respectful, and more constructive public conversation.
 
@@ -62,7 +62,7 @@ Let us reclaim this gift. Let us fill the language of liberalism with new energy
 
 This is the adventure of language, and it is an adventure that we can all be a part of. Let us go out and start the conversation.
 
-## The Liberal Language in Action: Case Studies in Reclaiming Words
+## The Liberal Language in Action: Reclaiming Words
 
 The power of language is not just theoretical; it is practical and transformative. By reclaiming key words and concepts, liberals can reshape the political conversation and build a more hopeful and inspiring politics. Here are some examples of how we can put the liberal language into action:
 
@@ -72,7 +72,7 @@ For too long, patriotism has been defined as a narrow and exclusive love of coun
 
 Liberal patriotism is about being proud of the best of our country while also being honest about its flaws. It is about celebrating our achievements while also working to make our country better. It is about recognizing that our national identity is not fixed in the past, but is constantly evolving as new people and new ideas enrich our culture.
 
-This liberal patriotism is inclusive rather than exclusive. It welcomes newcomers and sees diversity as a source of strength rather than a threat. It is outward-looking rather than inward-looking, recognizing that in our interconnected world, our national interest is best served by working with others to tackle shared challenges.
+This liberal patriotism is inclusive rather than exclusive. It welcomes newcomers and sees diversity as a source of strength rather than a threat. It is outward-looking rather than inward-looking, recognising that in our interconnected world, our national interest is best served by working with others to tackle shared challenges.
 
 By reclaiming patriotism in this way, liberals can challenge the idea that love of country is the exclusive preserve of the right. We can show that it is possible to be both patriotic and progressive, to love our country while also wanting to make it better.
 
@@ -86,23 +86,23 @@ This broader understanding of security is not about building walls or creating a
 
 By reclaiming security in this way, liberals can challenge the politics of fear and offer a more hopeful and inclusive vision of a secure society.
 
-## Reclaiming "Family": Beyond the Nuclear to the Diverse
+## Reclaiming "Family": Beyond Nuclear to Diverse
 
 The concept of family has often been narrowly defined in our political discourse, with the traditional nuclear family held up as the ideal. This narrow definition can exclude many people and many types of families.
 
-A liberal understanding of family is much more inclusive and diverse. It recognizes that families come in all shapes and sizes—from single-parent families to blended families, from same-sex couples to extended families. It celebrates this diversity and sees it as a source of strength rather than a problem to be solved.
+A liberal understanding of family is much more inclusive and diverse. It recognises that families come in all shapes and sizes—from single-parent families to blended families, from same-sex couples to extended families. It celebrates this diversity and sees it as a source of strength rather than a problem to be solved.
 
-This broader understanding of family is not about undermining the traditional family; it is about recognizing that there are many ways to create loving and supportive family relationships. It is about creating a society where all families are valued and supported, regardless of their structure.
+This broader understanding of family is not about undermining the traditional family; it is about recognising that there are many ways to create loving and supportive family relationships. It is about creating a society where all families are valued and supported, regardless of their structure.
 
 By reclaiming family in this way, liberals can challenge the idea that they are somehow anti-family and can offer a more inclusive and supportive vision of family life.
 
 ## The Digital Frontier: New Spaces for Liberal Language
 
-The digital revolution has created new spaces for political conversation, from social media to online forums, from blogs to podcasts. These new spaces present both challenges and opportunities for liberal language. On the one hand, they can amplify division and polarization. On the other hand, they offer exciting new possibilities for reaching people with a message of hope and optimism.
+The digital revolution has created new spaces for political conversation, from social media to online forums, from blogs to podcasts. These new spaces present both challenges and opportunities for liberal language. On the one hand, they can amplify division and polarisation. On the other hand, they offer exciting new possibilities for reaching people with a message of hope and optimism.
 
 ## Digital Citizenship: Building a Better Online Public Square
 
-The concept of digital citizenship is about how we behave and interact in online spaces. A liberal approach to digital citizenship would emphasize the values of respect, of openness, and of a willingness to engage with different perspectives. It would seek to create online spaces that are more conducive to genuine conversation and less prone to polarization and toxicity.
+The concept of digital citizenship is about how we behave and interact in online spaces. A liberal approach to digital citizenship would emphasise the values of respect, of openness, and of a willingness to engage with different perspectives. It would seek to create online spaces that are more conducive to genuine conversation and less prone to polarisation and toxicity.
 
 This could involve supporting initiatives that promote digital literacy and critical thinking, so that people are better equipped to navigate the online world. It could involve working with social media platforms to develop better algorithms and better content moderation systems that promote quality discourse rather than outrage and division. And it could involve creating new online platforms that are specifically designed to facilitate constructive dialogue across political divides.
 
@@ -112,7 +112,7 @@ The digital world offers exciting new possibilities for storytelling. From video
 
 A liberal approach to digital storytelling would focus on creating content that is authentic, engaging, and hopeful. It would use the power of personal stories to connect with people on an emotional level. It would harness the creativity and the energy of digital culture to create content that resonates with younger audiences. And it would use data visualization and interactive tools to help people understand complex issues in a more accessible way.
 
-## Digital Democracy: New Ways to Participate
+## Digital Democracy: Ways to Participate
 
 The digital world also offers exciting new possibilities for democratic participation. From online consultations to digital town halls, from e-petitions to participatory budgeting, there are countless ways to use digital tools to involve more people in the democratic process.
 

@@ -45,7 +45,8 @@ CHAPTERS=(
   "15_guest_voices.md"
   "16_cooption_language.md"
   "17_reclaiming_liberalism.md"
-  "18_liberal_lemonade.md"
+  "18_Conclusion.md"
+  "bibliography.md"
   "book_index_with_pages.md"
   "colophon.md"
 )
@@ -53,14 +54,104 @@ CHAPTERS=(
 echo "📚 Assembling markdown files..."
 
 # --- Generate PDF (using MacTeX/XeLaTeX) ---
-echo "📄 Generating PDF..."
+echo "📄 Generating PDF with print-quality settings..."
 pandoc "${CHAPTERS[@]}" \
   -o "$OUTPUT_PDF" \
-  --metadata-file metadata.yaml \
+  --metadata-file "$SCRIPT_DIR/metadata.yaml" \
   --from markdown+smart+raw_tex \
   --resource-path=.:images \
-  --template custom-template.latex \
-  --pdf-engine=xelatex
+  --pdf-engine=/Library/TeX/texbin/xelatex \
+  --pdf-engine-opt=-output-driver="xdvipdfmx -z 0" \
+  --variable=linkcolor:black \
+  --variable=urlcolor:black \
+  --variable=colorlinks:true
 
-echo "✅ Successfully created $OUTPUT_PDF"
-echo "Build complete."
+echo "✅ Created $OUTPUT_PDF ($(du -h "$OUTPUT_PDF" | cut -f1))"
+echo "   📐 Print-quality: Uncompressed images, embedded fonts, black links"
+
+# --- Generate EPUB ---
+echo "📱 Generating EPUB..."
+pandoc "${CHAPTERS[@]}" \
+  -o "$OUTPUT_EPUB" \
+  --metadata-file "$SCRIPT_DIR/metadata.yaml" \
+  --from markdown+smart \
+  --resource-path=.:images \
+  --toc --toc-depth=2
+
+echo "✅ Created $OUTPUT_EPUB ($(du -h "$OUTPUT_EPUB" | cut -f1))"
+
+# --- Generate DOCX ---
+echo "📝 Generating DOCX..."
+pandoc "${CHAPTERS[@]}" \
+  -o "$OUTPUT_DOCX" \
+  --metadata-file "$SCRIPT_DIR/metadata.yaml" \
+  --from markdown+smart \
+  --resource-path=.:images \
+  --toc --toc-depth=2
+
+echo "✅ Created $OUTPUT_DOCX ($(du -h "$OUTPUT_DOCX" | cut -f1))"
+
+# --- Generate HTML ---
+echo "🌐 Generating HTML..."
+pandoc "${CHAPTERS[@]}" \
+  -o "$OUTPUT_HTML" \
+  --metadata-file "$SCRIPT_DIR/metadata.yaml" \
+  --from markdown+smart \
+  --resource-path=.:images \
+  --standalone --toc --toc-depth=2 \
+  --css=style.css
+
+echo "✅ Created $OUTPUT_HTML ($(du -h "$OUTPUT_HTML" | cut -f1))"
+
+# --- Generate RTF ---
+echo "📋 Generating RTF..."
+pandoc "${CHAPTERS[@]}" \
+  -o "$OUTPUT_RTF" \
+  --metadata-file "$SCRIPT_DIR/metadata.yaml" \
+  --from markdown+smart \
+  --resource-path=.:images
+
+echo "✅ Created $OUTPUT_RTF ($(du -h "$OUTPUT_RTF" | cut -f1))"
+
+# --- Generate ODT ---
+echo "📄 Generating ODT..."
+pandoc "${CHAPTERS[@]}" \
+  -o "$OUTPUT_ODT" \
+  --metadata-file "$SCRIPT_DIR/metadata.yaml" \
+  --from markdown+smart \
+  --resource-path=.:images \
+  --toc --toc-depth=2
+
+echo "✅ Created $OUTPUT_ODT ($(du -h "$OUTPUT_ODT" | cut -f1))"
+
+echo ""
+echo "🎉 Build complete! Generated files:"
+ls -lh "$OUTPUT_PDF" "$OUTPUT_EPUB" "$OUTPUT_DOCX" "$OUTPUT_HTML" "$OUTPUT_RTF" "$OUTPUT_ODT"
+
+# --- Upload to Cloudflare R2 ---
+UPLOAD_TO_R2="${UPLOAD_TO_R2:-false}"
+
+if [[ "$UPLOAD_TO_R2" == "true" ]]; then
+  if command -v wrangler &> /dev/null; then
+    echo ""
+    echo "📤 Uploading to Cloudflare R2..."
+
+    wrangler r2 object put "lemon-book/book/$OUTPUT_PDF" --file="$OUTPUT_PDF" --content-type="application/pdf" --remote
+    wrangler r2 object put "lemon-book/book/$OUTPUT_EPUB" --file="$OUTPUT_EPUB" --content-type="application/epub+zip" --remote
+    wrangler r2 object put "lemon-book/book/$OUTPUT_DOCX" --file="$OUTPUT_DOCX" --content-type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" --remote
+    wrangler r2 object put "lemon-book/book/$OUTPUT_HTML" --file="$OUTPUT_HTML" --content-type="text/html" --remote
+    wrangler r2 object put "lemon-book/book/$OUTPUT_RTF" --file="$OUTPUT_RTF" --content-type="application/rtf" --remote
+    wrangler r2 object put "lemon-book/book/$OUTPUT_ODT" --file="$OUTPUT_ODT" --content-type="application/vnd.oasis.opendocument.text" --remote
+
+    echo "✅ All files uploaded to Cloudflare R2!"
+    echo "📍 Location: lemon-book/book/"
+  else
+    echo ""
+    echo "⚠️  Wrangler not found. Cannot upload to Cloudflare R2."
+    echo "   Install with: npm install -g wrangler"
+    exit 1
+  fi
+fi
+
+echo ""
+echo "🍋 The Lemon Book build complete!"

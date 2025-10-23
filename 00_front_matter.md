@@ -1,92 +1,16 @@
-## Table of Contents
+![Front Cover](images/00_lemon_book_cover.png){width=80%}
 
-**Front Matter**
-- Dedication
-- About the Author
-- Acknowledgements
+---
 
-**Introduction: Why Britain Needs Liberal Answers**
+## Dedication
 
+*To my darling wife Jane, for her constant support while I wrote this book and in everything else I've ever done. She has always backed me, often, I suspect, against her much better judgement.*
 
-### Part I: The Foundations of Liberal Thought
-
-**Chapter 1: The Enlightenment Roots of Liberalism**
-*From Social Contracts to Individual Rights*
-
-**Chapter 2: Classical Liberalism and its Evolution**
-*From Individual Freedom to Social Justice*
-
-
-### Part II: Fixing the Fundamentals
-
-**Chapter 3: "Actually, We Can Build Houses"**
-*Why Britain's housing crisis isn't inevitable*
-
-**Chapter 4: "Your Health Matters"**
-*Making healthcare normal*
-
-**Chapter 5: "Capitalism with a Conscience"**
-*Harnessing the market for social good, not just private profit*
-
-**Chapter 6: "Every Vote Should Count"**
-*Reforming our democracy for a fairer, more representative Britain*
-
-**Chapter 7: "Europe: It's Complicated"**
-*Finding a pragmatic path forward after Brexit*
-
-**Chapter 8: "Immigration: Honest Conversations"**
-*Moving beyond rhetoric to a fair, effective, and humane system*
-
-**Chapter 9: "Green Growth, Not Green Grief"**
-*Turning environmental challenge into economic opportunity*
-
-**Chapter 10: "Technology for Good"**
-*Digital rights and opportunities in the modern age*
-
-
-### Part III: Rights and Freedoms
-
-**Chapter 11: "The Right to Education"**
-*From Elite Privilege to Algorithmic Indoctrination*
-
-**Chapter 12: "Your Rights, Your Choices"**
-*From Natural Rights to Universal Human Rights*
-
-**Chapter 13: "Rights in the Modern Age"**
-*Expanding the Liberal Vision of Human Dignity*
-
-
-### Part IV: Contemporary Challenges
-
-**Chapter 14: "Tomorrow's Tyranny"**
-*Liberalism in the Face of Techno-Fascism and Inverted Totalitarianism*
-
-**Chapter 15: "Guest Voices: Liberal Democrat Leaders Speak"**
-*Frameworks for contributions from prominent LibDem figures*
-
-
-### Part V: The Liberal Reckoning
-
-**Chapter 16: "The Co-option of Liberal Language"**
-*How Liberal Concepts Have Been Twisted and Corrupted*
-
-
-**Chapter 17: "Reclaiming Authentic Liberalism"**
-*A Call for Renewal and Resistance*
-
-**Chapter 18: "The Liberal Betrayal"**
-*How the Guardians of Freedom Paved the Way for Tyranny*
-
-
-**Back Matter**
-- Bibliography
-- Index
-- Colophon
-
+---
 
 ## About the Author
 
-![Author Portrait](images/00_stephen_portrait.png)
+![Author Portrait](images/00_stephen_portrait.png){width=50%}
 
 The author is a passionate advocate for liberal democracy and evidence-based policy. With a background spanning politics, policy analysis, and public service, they bring both theoretical knowledge and practical experience to the challenges facing modern liberalism.
 

@@ -17,7 +17,12 @@ toc-depth: 2
 pdf-engine: xelatex
 documentclass: book
 fontsize: 11pt
-geometry: margin=1in
+papersize: a5
+geometry:
+  - margin=0.75in
+  - bindingoffset=0.25in
+  - top=0.75in
+  - bottom=0.75in
 
 # Fonts (as specified in build_book.sh)
 mainfont: Georgia

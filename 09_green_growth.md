@@ -18,7 +18,7 @@ Furthermore, the geopolitics of energy are inextricably linked to the global str
 
 
 
-## Petro-Fascism: The Unholy Alliance of Carbon and Coercion
+## Petro-Fascism: Carbon and Coercion
 
 The link between fossil fuels and authoritarianism is so strong that it has given rise to a new political term: **petro-fascism**. This describes a political ideology that combines the extractive, polluting logic of the fossil fuel industry with the nationalist, xenophobic, and anti-democratic politics of the far-right. It is a powerful and dangerous alliance that represents one of the greatest threats to liberal democracy in the 21st century.
 
@@ -30,7 +30,7 @@ We see this playbook in action across the world. In the United States, the MAGA 
 
 
 
-## The Liberal Response: Green Growth as a Strategy for Freedom
+## The Liberal Response: Green Growth for Freedom
 
 The liberal response to the threat of petro-fascism must be as strategic and comprehensive as the threat itself. It is not enough to talk about polar bears and melting ice caps; we must frame the green transition as a fundamental struggle for freedom, democracy, and security. Green growth is not just an environmental policy; it is a strategy for defunding authoritarianism, deconcentrating power, and building a more resilient and prosperous liberal society.
 
@@ -69,7 +69,7 @@ The lime principle teaches us that effective climate action requires blending ec
 
 This is why the liberal approach to climate change is fundamentally different from both the technocratic solutions offered by some centrists and the hair-shirt environmentalism promoted by some on the left. We do not believe that people must choose between prosperity and sustainability, between jobs and the environment, between economic growth and planetary health. Like a master mixologist, we believe in finding the perfect blend that brings out the best in each ingredient.
 
-## Conclusion: A Choice Between Freedom and Fossil Fuels
+## Conclusion: Freedom or Fossil Fuels
 
 The climate crisis presents us with a stark choice. We can continue down the path of fossil fuel dependence, a path that leads to environmental catastrophe, economic decline, and the empowerment of authoritarian regimes. Or we can choose a different path, a path of green growth, innovation, and democratic renewal. For liberals, the choice is clear. The fight for a green future is the fight for a liberal future.
 

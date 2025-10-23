@@ -2,8 +2,6 @@
 
 ## Why Britian needs liberal answers
 
-![Liberal Britain - Time to Squeeze!](images/00_lemonade_stand.png)
-
 They say when life gives you lemons, make lemonade. Well, life has certainly given British politics plenty of lemons lately: Brexit chaos, economic uncertainty, democratic dysfunction, and a political system that seems increasingly stale and unresponsive to the challenges of the 21st century. The familiar rhythm of Labour versus Conservative, a dance that has largely dictated the nation's political landscape for generations, increasingly feels like a trap—a binary choice that stifles nuanced debate and limits the scope of potential solutions to complex modern challenges.
 
 So here I am, setting up my lemonade stand. Not the kind that sells sugary drinks to passing motorists, but one that offers something far more refreshing: a new, zesty approach to liberalism for the second quarter of the 21st century. This book is my attempt to squeeze the best from liberal thought—both its historical wisdom and its contemporary potential—whilst discarding what has gone sour.

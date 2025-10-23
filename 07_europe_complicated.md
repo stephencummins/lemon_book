@@ -12,7 +12,7 @@ Britain's relationship with Europe has always been complicated, but the decision
 
 Brexit was not a singular event but a symptom of a broader populist-nationalist wave that fascists and their allies have skillfully exploited. They sold a fantasy of absolute sovereignty, a concept as meaningless in the modern world as the divine right of kings that early liberals fought against (Chapter 1). They preyed on legitimate economic anxieties, many of which were caused by the failures of the neoliberal economic model (Chapter 5), and channelled them into xenophobia and nationalism. This chapter will argue that a pragmatic and constructive relationship with Europe is not merely an economic imperative for Britain; it is a geopolitical and moral necessity. In an era defined by the return of great power competition and the systematic assault on democratic values, standing alone is not a viable strategy. A liberal Britain must see itself as a key partner in a broader European alliance dedicated to defending the liberal international order against its authoritarian challengers.
 
-## Brexit: A Strategic Victory for Europe's Authoritarian Adversaries
+## Brexit: A Strategic Victory for Europe's Adversaries
 
 It is no coincidence that Vladimir Putin's Russia was one of the most enthusiastic international cheerleaders for Brexit. The European Union, as a bloc of democratic nations committed to the rule of law and human rights, represents a fundamental ideological and geopolitical obstacle to authoritarian expansionism. The weakening and potential disintegration of the EU has been a primary strategic objective for the Kremlin for decades. Brexit was, from this perspective, a major victory. It removed one of the EU's largest military and economic powers, created deep divisions within the Western alliance, and provided a powerful narrative of democratic decline that authoritarian states could exploit both at home and abroad.
 
@@ -22,7 +22,7 @@ The liberal failure to understand and counter this threat was a critical factor 
 
 
 
-## The Liberal Response: Rebuilding Bridges as a Geopolitical Imperative
+## Rebuilding Bridges as a Geopolitical Imperative
 
 The liberal response to Brexit cannot be to wish it away, but to confront its consequences with a clear-eyed pragmatism rooted in a deep understanding of the geopolitical landscape. Rebuilding a close, constructive relationship with the European Union is not a matter of choice; it is a strategic imperative for the defence of liberal democracy in an increasingly dangerous world. This is not about rejoining the EU tomorrow, but about a patient, step-by-step process of rebuilding trust and cooperation across a range of areas, from trade and security to climate change and research. Each step should be judged not just on its economic merits, but on its contribution to the collective strength and resilience of the European democratic community.
 
@@ -54,7 +54,7 @@ This means immediately negotiating Britain's re-entry into the **Erasmus+** stud
 
 
 
-## Conclusion: A Pragmatic Patriotism for a European Nation
+## Conclusion: Patriotism for a European Nation
 
 For liberals, patriotism is not about a blind allegiance to the nation-state, but a commitment to the democratic values and institutions that allow a diverse and tolerant society to flourish. In the 21st century, a pragmatic patriotism for Britain must recognise that our nation’s security and prosperity are inextricably linked to the security and prosperity of our European neighbours. The choice is not between Britain and Europe, but between a Britain that stands with its democratic allies and a Britain that stands alone in an increasingly dangerous world.
 

@@ -1,0 +1,18 @@
+# Generated book files (too large for GitHub)
+*.pdf
+*.docx
+*.epub
+*.odt
+*.rtf
+*.html
+
+# macOS system files
+.DS_Store
+*/.DS_Store
+
+# Build artifacts
+.wrangler/
+node_modules/
+
+# Backup files
+images_backup/

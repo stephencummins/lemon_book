@@ -1,6 +1,6 @@
 #  The Lemon Book
 
-**Refreshing Liberalism for the 21st Century**
+**Refreshing Liberalism**
 
 By Stephen Cummins
 

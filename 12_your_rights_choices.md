@@ -16,7 +16,7 @@ However, the classical liberal emphasis on negative rights – freedoms from int
 
 The 20th century saw the development of a more expansive understanding of rights that included positive rights – entitlements to the resources and opportunities necessary for human flourishing. The Universal Declaration of Human Rights, adopted by the United Nations in 1948, recognised not only civil and political rights, but also economic, social, and cultural rights including the right to education, healthcare, housing, and social security.
 
-## Civil and Political Rights: The Foundation of Freedom
+## Civil and Political Rights
 
 Civil and political rights remain the bedrock of any free society. These include the right to life and security of person, freedom from torture and arbitrary detention, freedom of thought, conscience, and religion, freedom of expression and assembly, and the right to participate in democratic governance. Without these fundamental freedoms, other rights become meaningless, as people lack the basic protections and political power necessary to defend their interests.
 

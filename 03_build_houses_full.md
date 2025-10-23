@@ -109,7 +109,7 @@ Overcoming these interests requires building a broad coalition for change that i
 - **Businesses**: Who struggle to recruit and retain staff due to housing costs
 - **Local Authorities**: Who face increasing pressure to house homeless families in expensive temporary accommodation
 
-## Technology and Innovation: Building Better, Faster, Cheaper
+## Technology and Innovation: Building Better
 
 Modern construction technology offers opportunities to build homes faster, cheaper, and to higher standards than traditional methods. A liberal government would embrace innovation while ensuring quality and safety:
 

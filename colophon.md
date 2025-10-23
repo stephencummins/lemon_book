@@ -2,7 +2,7 @@
 
 ## About This Book
 
-**The Lemon Book: Refreshing Liberalism for the 21st Century**
+**The Lemon Book: Refreshing Liberalism**
 
 Written by Stephen Cummins
 First Edition, 2025
@@ -55,7 +55,7 @@ This book represents an experiment in human-AI collaboration for long-form polit
 - Structuring complex arguments
 - Providing historical context and examples
 - Maintaining consistent tone and style
-- Organizing content into coherent chapters
+- Organising content into coherent chapters
 - Creating comprehensive references and cross-links
 
 The result is a work that leverages the strengths of both human creativity and artificial intelligence: the nuanced political judgment and lived experience of the human author, combined with the AI's ability to synthesize information, maintain consistency, and explore multiple perspectives.
@@ -69,37 +69,6 @@ This project demonstrates that AI can be a powerful tool for political philosoph
 3. **Consistent quality** - Maintaining high standards across all chapters
 4. **Accessible language** - Making complex ideas understandable
 5. **Thorough documentation** - Creating complete tables of contents, indices, and bibliographies
-
-
-## Copyright and Permissions
-
-Copyright © 2025 Stephen Cummins. All rights reserved.
-
-No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
-
-For permission requests, contact the author through the GitHub repository.
-
-## Acknowledgements (Extended)
-
-### Personal Thanks
-
-This book would not have been possible without the support, encouragement, and critical feedback of many people who believe in the importance of renewing liberal thought for our times.
-
-Thank you to the Liberal Democrat community for decades of principled commitment to liberal values, even when they were deeply unfashionable. Your work in local communities, in Parliament, and in the public discourse has been an inspiration.
-
-### Intellectual Debts
-
-This work stands on the shoulders of centuries of liberal thinkers, from Locke and Mill to Rawls and Sen. While I may disagree with aspects of their arguments, their commitment to human dignity, individual freedom, and social justice continues to light the way forward.
-
-Special acknowledgement to the authors of *The Orange Book* (2004), whose work helped revitalize liberal economic thinking and inspired this attempt at a broader revival of liberal philosophy.
-
-### Technical Acknowledgements
-
-Created with Claude, by Anthropic
-Version Control: Git and GitHub
-Markdown Processing: Various open-source tools
-Illustrations: AI-assisted design tools
-
 
 ## A Note from the Author
 
@@ -117,16 +86,3 @@ The lemons are already here. Together—humans and our tools—we can make somet
 
 **Stephen Cummins**
 October 2025
-
-
-## Contact
-
-For questions, comments, or to continue the conversation:
-
-**GitHub Repository:** https://github.com/stephencummins/lemon_book
-**Email:** [Contact through GitHub repository]
-
-
-*Made with  in 2025*
-
----

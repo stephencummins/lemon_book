@@ -36,7 +36,7 @@ The liberal response to algorithmic bias in education must be proactive and comp
 
 Students and parents have a right to understand how algorithmic systems are being used to make decisions about their education and to challenge those decisions when they appear unfair or inaccurate. Educational institutions must be held accountable for the outcomes of their algorithmic systems and required to take corrective action when bias is identified.
 
-## Critical Thinking in the Age of Information
+## Critical Thinking
 
 In an era of information overload and deliberate misinformation, the ability to think critically has never been more important. Yet our education system often emphasises memorisation and test performance over the development of analytical skills and independent judgment. Students learn to reproduce information rather than to question it, to follow instructions rather than to think for themselves.
 
@@ -60,7 +60,7 @@ Every child has the right to an education that meets their individual needs and 
 
 The liberal vision of inclusive education goes beyond simply placing children with different needs in the same classroom. It requires a fundamental rethinking of how we organise learning to ensure that all children can participate fully and achieve their potential. This includes investing in specialist training for teachers, providing adequate support staff, and creating learning environments that are accessible to all.
 
-## Global Citizenship and Cultural Understanding
+## Global Citizenship
 
 In an interconnected world, education must prepare young people to be global citizens who can work and collaborate across cultural boundaries. This requires not just language learning, but also cultural literacy that helps students understand different perspectives, values, and ways of life.
 

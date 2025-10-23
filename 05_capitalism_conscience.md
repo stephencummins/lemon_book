@@ -16,7 +16,7 @@ This chapter will explore how the ideology of market fundamentalism, often assoc
 
 
 
-## The Chicago School: An Ideological Project for Concentrated Power
+## The Chicago School
 
 To understand our current economic predicament, we must examine the systematic ideological campaign that transformed economic policy from the 1970s onwards. The **Chicago School of Economics**, led by figures like Milton Friedman, was not just an academic school of thought; it was a political project funded by wealthy industrialists and channelled through a network of right-wing think tanks. Their goal was to dismantle the post-war social-democratic consensus and re-establish the primacy of capital over labour and democratic oversight.
 
@@ -41,7 +41,7 @@ This model was evident in Nazi Germany, where corporations like IG Farben and Kr
 
 
 
-## The Liberal Response: Building a Democratic Economy
+## Building a Democratic Economy
 
 The liberal response to the concentration of economic power and the fascist threat is not to abandon the market but to reclaim it for democratic ends. This requires a clear-eyed understanding that markets are not natural phenomena but political constructs. The challenge is to build an economic system that is not only prosperous but also just, sustainable, and resilient in the face of authoritarian threats. This means moving beyond the false dichotomy of state versus market and instead focusing on how to build a genuinely democratic economy where power is broadly distributed.
 

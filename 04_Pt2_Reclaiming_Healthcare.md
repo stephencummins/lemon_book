@@ -49,7 +49,7 @@ Trusts, judged on annual financial performance, focus on short-term savings rath
 ### Collaboration Collapse
 Healthcare requires cooperation between different specialties, organisations, and sectors. But when organisations are set up to compete, collaboration suffers. Information isn't shared, resources aren't pooled, and patients fall through the cracks between competing Trusts.
 
-## The Privatisation Agenda: Profits Before Patients
+## The Privatisation Agenda
 
 The Trust system paved the way for wholesale privatisation. Once the NHS was fragmented into competing units, it became easier to allow private companies to bid for contracts. This was never about improving efficiency – it was about creating profit opportunities for private healthcare companies.
 
@@ -108,7 +108,7 @@ Healthcare decisions affect others – infectious diseases spread, mental health
 ### Moral Hazard
 Insurance-based systems create incentives for overtreatment (providers profit from doing more) and undertreatment (insurers profit from denying claims). Neither serves patients.
 
-## The Liberal Solution: Healthcare as a Service
+## Healthcare as a Service
 
 The liberal answer to the NHS crisis is not more marketisation but a return to the founding principle: healthcare as a public service, not a business. This means:
 
