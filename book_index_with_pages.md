@@ -5,235 +5,218 @@
 
 ## A
 
-**Algorithmic accountability**, 95-97, 99-101
-**Algorithmic bias**, 99-101, 107, 129-130
-**Artificial Intelligence (AI)**, 89-104, 119-121, 127-133, 161-173
-**Asylum seekers**, 67-80, 173
-**Authoritarianism**, 1-10, 11-20, 46-53, 54-60, 61-66, 67-80, 81-88, 89-104, 111-118, 127-133, 152-160, 161-173
-**Austerity**, 11-20, 36-45, 46-53
-
+**Algorithmic accountability**, 128, 156-157, 167
+**Algorithmic bias**, 140, 156, 167
+**Artificial Intelligence (AI)**, 128-129, 133, 156-157, 162-163, 167
+**Asylum seekers**, 99-112
+**Authoritarianism**, 76-77, 84, 93, 117, 165-173, 200, 211-224, 230
+**Austerity**, 26-27, 76
 
 ## B
 
-**Bevan, Aneurin**, 36-45
-**Beveridge, William**, 1-10, 11-20, 36-45, 134-141, 161-173
-**Beveridge Report**, 1-10, 11-20, 36-45
-**Bodily autonomy**, 115-116
-**Brexit**, 11-20, 61-66, 67-80, 161-173
-**British Empire**, 67-80
-
+**Bevan, Aneurin**, 58
+**Beveridge, William**, 16-17, 26, 58, 181
+**Beveridge Report**, 16, 26, 181
+**Bodily autonomy**, 150-151
+**Brexit**, 91-97, 217, 229
+**British Empire**, 100-101
 
 ## C
 
-**Capitalism**, 1-10, 11-20, 46-53, 127-133, 161-173
-**Capitalism with conscience**, 46-53
-**Cheddar Man**, 67-70
-**Chicago School of Economics**, 46-53
-**Civil liberties**, 89-104, 127-133, 161-173
-**Classical liberalism**, 1-10, 11-20, 152-160, 161-173
-**Climate change**, 1-10, 11-20, 46-53, 61-66, 81-88, 89-104, 111-118, 119-126, 134-141, 142-151, 152-160, 161-173
-**Climate justice**, 81-88, 122-123
-**Co-operatives**, 46-53
-**Community Land Trusts**, 21-27
-**Constitutional reform**, 54-60
-**Crown Estate**, 1-10
+**Capitalism**, 25-27, 73-82, 202, 211-224
+**Capitalism with conscience**, 73-82
+**Cheddar Man**, 100-101
+**Chicago School of Economics**, 75-76
+**Civil liberties**, 147-148, 165-173
+**Classical liberalism**, 7-20, 21-34, 200-201, 213
+**Climate change**, 29, 81-88, 115-123, 152, 158, 203, 211-224, 229
+**Climate justice**, 115-123, 158
+**Co-operatives**, 79-80
+**Community Land Trusts**, 36
+**Constitutional reform**, 83-90
+**Crown Estate**, 36
 
 ## D
 
-**Democracy**, 1-10, 11-20, 36-45, 46-53, 54-60, 61-66, 67-80, 81-88, 89-104, 105-110, 111-118, 127-133, 134-141, 142-151, 152-160, 161-173
-**Democratic deficit**, 54-60
-**Devolution**, 54-60, 152-160, 161-173
-**Digital citizenship**, 89-104, 124-125, 142-151
-**Digital democracy**, 89-104, 142-151
-**Digital privacy**, 89-104, 119-126, 161-173
-**Digital rights**, 89-104, 111-118, 119-126
-**Divine right of kings**, 1-10, 11-20
-
+**Democracy**, 21-34, 54, 83-90, 178, 202, 211-224
+**Democratic deficit**, 85-86
+**Devolution**, 87-89, 202
+**Digital citizenship**, 124-136, 159-160, 195-196
+**Digital democracy**, 131, 196
+**Digital privacy**, 127, 151-152, 159
+**Digital rights**, 124-136, 145-154, 159-160, 219
+**Divine right of kings**, 8-9, 22
 
 ## E
 
-**Economic democracy**, 46-53, 152-160
-**Education**, 1-10, 11-20, 36-45, 46-53, 61-66, 89-104, 105-110, 111-118, 119-126, 127-133, 134-141, 142-151, 152-160, 161-173
-**Electoral reform**, 54-60, 152-160
-**Employee ownership**, 46-53
-**Enlightenment**, 1-10, 111-118
-**Environmental rights**, 111-118, 119-126
-**Equality**, 1-10, 11-20, 36-45, 46-53, 54-60, 67-80, 105-110, 111-118, 152-160, 161-173
-**European Union (EU)**, 1-10, 11-20, 21-27, 36-45, 46-53, 54-60, 61-66, 67-80, 81-88, 89-104, 119-126, 127-133, 134-141, 152-160, 161-173
-
+**Economic democracy**, 77-82, 202
+**Education**, 137-144, 207, 212
+**Electoral reform**, 83-90, 216
+**Employee ownership**, 79-80
+**Enlightenment**, 7-20
+**Environmental rights**, 152, 158
+**Equality**, 22-34, 138, 148-149, 214
+**European Union (EU)**, 91-97, 217, 229
 
 ## F
 
-**Farage, Nigel**, 67-80
-**Fascism**, 46-53, 54-60, 61-66, 67-80, 81-88, 127-133, 161-173
-**First Past the Post (FPTP)**, 54-60
-**Fossil fuels**, 81-88
-**Free speech**, 11-20, 89-104, 111-118, 161-173
-**Freedom**, 1-10, 11-20, 36-45, 61-66, 67-80, 81-88, 89-104, 105-110, 111-118, 119-126, 127-133, 134-141, 142-151, 152-160, 161-173
-**Friedman, Milton**, 46-53
-**Future generations, rights of**, 119-126
-
+**Farage, Nigel**, 93, 104
+**Fascism**, 76-77, 104-106, 117, 165-173, 230
+**First Past the Post (FPTP)**, 86
+**Fossil fuels**, 115-123
+**Free speech**, 147-148, 168-169
+**Freedom**, 7-20, 21-34, 122, 145-154, 189, 211-224
+**Friedman, Milton**, 75-76
+**Future generations, rights of**, 29, 122, 158, 161
 
 ## G
 
-**Genetic engineering**, 119-126, 161-173
-**Genetic rights**, 119-126
-**Gig economy**, 89-104
-**Gladstone, William**, 134-141
-**Globalisation**, 1-10, 61-66
-**Green, T.H.**, 11-20, 152-160
-**Green growth**, 81-88, 161-173
-**Green New Deal**, 46-53, 81-88
-
+**Genetic engineering**, 157-158, 162
+**Genetic rights**, 157-158
+**Gig economy**, 160
+**Gladstone, William**, 180
+**Globalisation**, 92-93
+**Green, T.H.**, 16, 24, 201
+**Green growth**, 115-123, 218
+**Green New Deal**, 81, 119-120
 
 ## H
 
-**Harm principle**, 1-10, 161-173
-**Healthcare**, 1-10, 11-20, 36-45, 111-118, 161-173
-**Hobbes, Thomas**, 1-10, 11-20, 161-173
-**Homelessness**, 21-27
-**House of Lords**, 54-60, 161-173
-**Housing**, 1-10, 11-20, 21-27, 36-45, 46-53, 67-80, 111-118, 119-126, 134-141, 152-160, 161-173
-**Housing crisis**, 21-27, 161-173
-**Human dignity**, 1-10, 11-20, 67-80, 89-104, 111-118, 119-126, 152-160, 161-173
-**Human rights**, 1-10, 11-20, 61-66, 67-80, 89-104, 105-110, 111-118, 119-126, 134-141, 152-160, 161-173
-**Hume, David**, 1-10, 11-20, 161-173
-**Huguenots**, 67-80
-
+**Harm principle**, 14-15, 212
+**Healthcare**, 45-72, 148, 212, 215-216, 228
+**Hobbes, Thomas**, 8-9, 21-22, 212
+**Homelessness**, 41
+**House of Lords**, 87-88, 216
+**Housing**, 35-44, 149, 212, 215, 230
+**Housing crisis**, 35-44, 212, 215
+**Human dignity**, 7-20, 99-112, 145-154, 211-224
+**Human rights**, 109-110, 145-154, 211-224
+**Hume, David**, 12-13
+**Huguenots**, 111
 
 ## I
 
-**Immigration**, 67-80, 89-104, 142-151, 161-173
-**Inequality**, 1-10, 11-20, 36-45, 46-53, 61-66, 81-88, 89-104, 105-110, 111-118, 119-126, 127-133, 134-141, 142-151, 152-160, 161-173
-**Intergenerational justice**, 11-20, 81-88, 119-126
-**International cooperation**, 61-66, 81-88, 89-104, 152-160
-**Inverted totalitarianism**, 127-133, 161-173
-
+**Immigration**, 99-114, 217-218, 229
+**Inequality**, 26-27, 74-82, 138, 214
+**Intergenerational justice**, 29, 122, 158, 203
+**International cooperation**, 91-97, 120-121, 132, 204
+**Inverted totalitarianism**, 165-173
 
 ## K
 
-**Keynes, John Maynard**, 1-10, 11-20, 152-160, 161-173
-
+**Keynes, John Maynard**, 16-17, 26, 201, 213
 
 ## L
 
-**Land ownership**, 1-10, 21-27
-**Land value capture**, 21-27
-**LGBTQ+ rights**, 111-118
-**Liberal Democrats**, 134-141
+**Land ownership**, 9, 22, 35-44
+**Land value capture**, 36-37, 215
+**LGBTQ+ rights**, 151
+**Liberal Democrats**, 175-185, 206-207
 **Liberalism, classical**. *See* Classical liberalism
 **Liberalism, social**. *See* Social liberalism
-**Liberty**, 1-10, 11-20, 36-45, 61-66, 67-80, 81-88, 89-104, 105-110, 111-118, 119-126, 127-133, 134-141, 142-151, 152-160, 161-173
-**Lifelong learning**, 36-45, 89-104
-**Lloyd George, David**, 36-45, 134-141
-**Locke, John**, 1-10, 11-20, 21-27, 161-173
-
+**Liberty**, 7-20, 21-34, 145-154, 189, 211-224
+**Lifelong learning**, 142
+**Lloyd George, David**, 180-181
+**Locke, John**, 9-12, 21-22, 213
 
 ## M
 
-**Mental health**, 21-27, 28-35, 61-66, 89-104, 161-173
-**Mill, John Stuart**, 1-10, 142-151, 161-173
-**Monopolies**, 11-20, 46-53, 89-104
-
+**Mental health**, 45-56, 215-216
+**Mill, John Stuart**, 14-16, 212
+**Monopolies**, 26, 78-79, 129
 
 ## N
 
-**National Health Service (NHS)**, 1-10, 11-20, 36-45, 46-53, 67-80, 111-118, 142-151
-**Natural rights**, 1-10, 11-20, 111-118, 161-173
-**Neanderthals**, 67-70
-**Neoliberalism**, 11-20, 46-53, 61-66, 152-160, 161-173
-**NHS Trusts**, 36-45
-**Norman Conquest**, 1-10, 21-27, 46-53, 54-60, 67-80
+**National Health Service (NHS)**, 57-72, 148
+**Natural rights**, 9-12, 146-147, 219
+**Neanderthals**, 100
+**Neoliberalism**, 26-27, 75-76, 201, 214
+**NHS Trusts**, 59-61, 65-66
+**Norman Conquest**, 22, 36
 
 ## P
 
-**Parliament**, 1-10, 11-20, 161-173
-**Participatory democracy**, 11-20, 89-104, 152-160
-**Petro-fascism**, 81-88
-**Planning reform**, 21-27
-**Platform regulation**, 89-104
-**Populism**, 1-10, 11-20, 61-66, 81-88, 134-141, 152-160, 161-173
-**Positive freedom**, 11-20
-**Poverty**, 1-10, 36-45, 134-141, 142-151, 161-173
-**Privacy**, 1-10, 89-104, 111-118, 119-126, 152-160, 161-173
-**Privatisation**, 11-20, 36-45
-**Proportional representation (PR)**, 54-60, 161-173
-
+**Parliament**, 8-9, 22, 84-90
+**Participatory democracy**, 30-31, 89-90, 131, 202
+**Petro-fascism**, 117-118
+**Planning reform**, 36-37
+**Platform regulation**, 127-128, 171-172
+**Populism**, 85, 93, 104-106, 200
+**Positive freedom**, 16, 24-25, 213
+**Poverty**, 26, 48-49, 138
+**Privacy**, 127, 151-152, 159
+**Privatisation**, 27, 61-63
+**Proportional representation (PR)**, 86-87, 216
 
 ## R
 
-**Refugee Convention**, 67-80
-**Renewable energy**, 46-53, 81-88
-**Reproductive rights**, 111-118  
-**Rights, digital**. *See* Digital rights  
-**Rights, environmental**. *See* Environmental rights  
+**Refugee Convention**, 107, 109
+**Renewable energy**, 81, 115-123
+**Reproductive rights**, 150-151
+**Rights, digital**. *See* Digital rights
+**Rights, environmental**. *See* Environmental rights
 **Rights, human**. *See* Human rights
-
 
 ## S
 
-**Smith, Adam**, 1-10, 11-20
-**Social contract**, 1-10, 161-173
-**Social housing**, 21-27
-**Social liberalism**, 1-10, 11-20, 134-141, 152-160, 161-173
-**Sovereignty**, 1-10, 11-20, 54-60, 61-66, 119-126, 142-151, 161-173
-**Surveillance capitalism**, 89-104, 127-133
+**Smith, Adam**, 13, 25, 213
+**Social contract**, 8-9, 200
+**Social housing**, 37, 40-41
+**Social liberalism**, 16-17, 24-27, 177, 201, 213
+**Sovereignty**, 30, 61-66, 91-97, 217
+**Surveillance capitalism**, 127-128, 165-173
 
 ## T
 
-**Tech giants**, 11-20, 46-53, 89-104
-**Techno-fascism**, 127-133, 161-173
-**Technology**, 1-10, 11-20, 21-27, 36-45, 46-53, 54-60, 61-66, 67-80, 81-88, 89-104, 105-110, 111-118, 119-126, 127-133, 134-141, 142-151, 152-160, 161-173
-**Totalitarianism**, 46-53, 127-133, 161-173
-**Trump, Donald**, 67-80
-
+**Tech giants**, 78-79, 129
+**Techno-fascism**, 165-173, 212, 220
+**Technology**, 28, 124-136, 155-163, 165-173, 204, 219, 228
+**Totalitarianism**, 76-77, 165-173
+**Trump, Donald**, 93, 104, 117
 
 ## U
 
-**Universal Basic Income (UBI)**, 11-20, 36-45, 46-53
-**Universal Declaration of Human Rights**, 111-118
-**Utilitarianism**, 1-10
-
+**Universal Basic Income (UBI)**, 80
+**Universal Declaration of Human Rights**, 146-147
+**Utilitarianism**, 14
 
 ## V
 
 **Voting reform**. *See* Electoral reform
 
-
 ## W
 
-**Welfare state**, 1-10, 11-20, 36-45, 134-141, 142-151, 161-173
-**William the Conqueror**, 1-10, 21-27
-**Windrush scandal**, 67-80
-**Women's rights**, 1-10, 111-118
-**Worker representation**, 46-53
-
+**Welfare state**, 16, 26-27, 58, 181, 213
+**William the Conqueror**, 22, 36
+**Windrush scandal**, 101
+**Women's rights**, 146-148, 150
+**Worker representation**, 79-80
 
 ## Key Themes and Cross-References
 
 **Climate and Environment**
-*See* Climate change, 81-88; Environmental rights, 119-126; Green growth, 81-88; Green New Deal, 46-53, 81-88; Petro-fascism, 81-88; Renewable energy, 46-53, 81-88
+*See* Climate change, 115-123; Environmental rights, 152, 158; Green growth, 115-123; Green New Deal, 119-120; Petro-fascism, 117-118; Renewable energy, 115-123
 
 **Democracy and Governance**
-*See* Constitutional reform, 54-60; Democratic deficit, 54-60; Devolution, 54-60; Electoral reform, 54-60; House of Lords, 54-60; Parliament, 1-10; Participatory democracy, 11-20, 89-104, 152-160; Proportional representation, 54-60
+*See* Constitutional reform, 83-90; Democratic deficit, 85-86; Devolution, 87-89; Electoral reform, 83-90; House of Lords, 87-88; Parliament, 84-90; Participatory democracy, 30-31, 89-90, 131, 202; Proportional representation, 86-87
 
 **Digital Age**
-*See* Algorithmic accountability, 95-97; Artificial Intelligence, 89-104, 119-121; Digital citizenship, 89-104, 124-125; Digital democracy, 89-104; Digital privacy, 89-104; Digital rights, 89-104, 111-118, 119-126; Platform regulation, 89-104; Surveillance capitalism, 89-104, 127-133; Techno-fascism, 127-133; Technology, 89-104
+*See* Algorithmic accountability, 128, 156-157, 167; Artificial Intelligence, 128-129, 133, 156-157; Digital citizenship, 124-136, 159-160; Digital democracy, 131, 196; Digital privacy, 127, 151-152; Digital rights, 124-136, 145-154, 159-160, 219; Platform regulation, 127-128; Surveillance capitalism, 127-128, 165-173; Techno-fascism, 165-173; Technology, 124-136
 
 **Economic Justice**
-*See* Capitalism, 46-53; Economic democracy, 46-53, 152-160; Employee ownership, 46-53; Inequality, 1-10, 11-20; Monopolies, 11-20, 46-53, 89-104; Neoliberalism, 11-20, 46-53; Universal Basic Income, 11-20, 36-45, 46-53; Welfare state, 1-10, 11-20, 36-45
+*See* Capitalism, 25-27, 73-82; Economic democracy, 77-82, 202; Employee ownership, 79-80; Inequality, 26-27, 74-82, 138; Monopolies, 26, 78-79, 129; Neoliberalism, 26-27, 75-76; Universal Basic Income, 80; Welfare state, 16, 26-27, 58, 181
 
 **Healthcare and Wellbeing**
-*See* Healthcare, 36-45, 111-118; Mental health, 28-35; NHS, 36-45; Welfare state, 1-10, 11-20, 36-45
+*See* Healthcare, 45-72, 148; Mental health, 45-56; NHS, 57-72; Welfare state, 16, 26-27, 58, 181
 
 **Historical Foundations**
-*See* Classical liberalism, 1-10, 11-20; Enlightenment, 1-10; Hobbes, 1-10; Hume, 1-10; Locke, 1-10; Mill, 1-10; Social contract, 1-10; Social liberalism, 1-10, 11-20
+*See* Classical liberalism, 7-20, 21-34; Enlightenment, 7-20; Hobbes, 8-9, 21-22; Hume, 12-13; Locke, 9-12, 21-22; Mill, 14-16; Social contract, 8-9; Social liberalism, 16-17, 24-27
 
 **Rights and Freedoms**
-*See* Civil liberties, 89-104; Free speech, 11-20, 89-104, 111-118; Freedom, 1-10, 11-20; Human dignity, 1-10, 11-20; Human rights, 111-118, 119-126; LGBTQ+ rights, 111-118; Natural rights, 1-10, 11-20; Privacy, 89-104, 111-118, 119-126; Reproductive rights, 111-118; Women's rights, 1-10, 111-118
+*See* Civil liberties, 147-148; Free speech, 147-148; Freedom, 7-20, 21-34, 189; Human dignity, 7-20, 99-112, 145-154; Human rights, 109-110, 145-154; LGBTQ+ rights, 151; Natural rights, 9-12, 146-147; Privacy, 127, 151-152, 159; Reproductive rights, 150-151; Women's rights, 146-148, 150
 
 **Social Policy**
-*See* Education, 105-110; Housing, 21-27; Immigration, 67-80; Mental health, 28-35
+*See* Education, 137-144; Housing, 35-44; Immigration, 99-114; Mental health, 45-56
 
 *Page numbers in bold indicate primary discussion of topic*
 
